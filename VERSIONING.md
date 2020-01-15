@@ -29,3 +29,4 @@ The CNB projects contains two main implementations of the spec are versioning as
 - __Release cadence__: We aim to release the core components of the project on a time based schedule cadence, per https://github.com/buildpacks/rfcs/pull/33
 - __Pack__: Pack is released via Github releases and its versions follow semver conventions.
 - __Lifecycle__: Pack is released via Github releases and its versions follow semver conventions.
+- __libbuildpack__: libbuildpack is released via Github releases and its versions follow semver conventions.
