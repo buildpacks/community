@@ -28,9 +28,7 @@ Sub-teams are responsible for narrower sets of concerns related to specific aspe
 ### Roles
 
 #### Maintainers
-Maintainers are in charge of the day to day maintenance of the team's projects. They review
-Reviews PRs, ability to merge.
-Ensures code 	quality
+Maintainers are in charge of the day to day maintenance of the team's projects. They review and merge PRs, ensuring contributions align with project goals and meet the project's quality standards.
 
 New maintainers must already be contributors, must be nominated by an existing maintainer or core team member, and must be elected by a supermajority of the core team. Likewise, maintainers can be removed by a supermajority of the core team or can resign by notifying one of the maintainers.
 
