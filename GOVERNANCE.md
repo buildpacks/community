@@ -45,7 +45,7 @@ The Implementation team is responsible for maintaining the components that const
 * [imgutil](https://github.com/buildpacks/imgutil)
 
 ### Platform Team
-The Platform team is responsible for maintaining the components that constitute the reference platform. This includes:
+The Platform team is responsible for maintaining pack and any other platforms or platform components. This includes:
 
 * [pack](https://github.com/buildpacks/pack)
 * [Tekton Template](https://github.com/tektoncd/catalog/tree/master/buildpacks)
