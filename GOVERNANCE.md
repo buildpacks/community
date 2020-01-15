@@ -64,9 +64,9 @@ Project members will graduate to the emeritus team with a supermajority vote fro
 ## RFC Process
 Each major decision in Cloud Native Buildpacks starts as a Request for Comments (RFC). Everyone is invited to discuss the proposal, to work toward a shared understanding of the tradeoffs.
 
-RFCs record potential changes with the context and information at the given time. This provides a defined process for anyone wishing to contribute to the Cloud Native Buildpacks project as well as collect a diverse set of inputs and give opportunity for engagement. Anyone who chooses not to actively participate in any RFC is presumed to trust their colleagues on the matter. Once an RFC is accepted, they can be referenced as read-only documents in this repository until replaced or amended by another RFC when context has significantly changed.
+RFCs record potential changes with the context and information at the given time. This provides a defined process for anyone wishing to propose a substantial changes to the Cloud Native Buildpacks project as well as collect a diverse set of inputs and give opportunity for engagement. Anyone who chooses not to actively participate in any RFC is presumed to trust their colleagues on the matter. Once an RFC is accepted, they can be referenced as read-only documents in this repository until replaced or amended by another RFC when context has significantly changed.
 
-For more information, see the [RFC RFC](https://github.com/buildpacks/rfcs/blob/master/text/0004-rfc-process.md).
+RFCs are not regarded as documentation. The official specification and implementations may differ or lag behind a finalized or historical RFC. For more information, see the [RFC RFC](https://github.com/buildpacks/rfcs/blob/master/text/0004-rfc-process.md).
 
 ## Roadmap
 The Cloud Native Buildpacks Core Team is responsible for establishing a yearly roadmap laying out our aspirations for that year. This shared vision is essential for keeping the development process focused.
