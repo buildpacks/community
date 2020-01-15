@@ -7,9 +7,12 @@ The following code repositories are governed by the Cloud Native Buildpacks comm
 * [spec](https://github.com/buildpacks/spec)
 * [lifecycle](https://github.com/buildpacks/lifecycle)
 * [pack](https://github.com/buildpacks/pack)
+* [imgutil](https://github.com/buildpacks/imgutil)
 * [docs](https://github.com/buildpacks/docs)
 * [rfcs](https://github.com/buildpacks/rfcs)
 * [resources](https://github.com/buildpacks/resources)
+* [community](https://github.com/buildpacks/community)
+* [samples](https://github.com/buildpacks/samples)
 
 ## Core Team
 The Core team is responsible for the direction of the project (roadmap), subteam leadership, the spec, and cross-cutting concerns. This includes:
@@ -18,8 +21,10 @@ The Core team is responsible for the direction of the project (roadmap), subteam
 * [rfcs](https://github.com/buildpacks/rfcs)
 
 Core team members are responsible for voting on RFCs and other changes to the project such as changes in leadership or community roles. No company will have a combined voting block of larger than 50%.
+
 ## Sub-teams
 Sub-teams are responsible for narrower sets of concerns related to specific aspects of the project. Each sub-team will include at least one core team member to help align with the broader roadmap.
+
 ### Roles
 
 #### Maintainers
@@ -42,6 +47,7 @@ The Implementation team is responsible for maintaining the components that const
 The Platform team is responsible for maintaining the components that constitute the reference platform. This includes:
 
 * [pack](https://github.com/buildpacks/pack)
+* [imgutil](https://github.com/buildpacks/imgutil)
 * [Tekton Template](https://github.com/tektoncd/catalog/tree/master/buildpacks)
 
 ### Learning Team
