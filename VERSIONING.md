@@ -1,5 +1,5 @@
 # Versioning in the CNB project
-For context on how the CNB project thinks about versioning, see [RFC#10](https://github.com/buildpacks/rfcs/blob/master/text/0010-api-versions.md and [RFC#11](https://github.com/buildpacks/rfcs/blob/master/text/0011-lifecycle-descriptor.md). The CNB project versions our [spec components](#spec) and [implementations](#implementations) following separate schemas, detailed below:
+For context on how the CNB project thinks about versioning, see [RFC#10](https://github.com/buildpacks/rfcs/blob/master/text/0010-api-versions.md) and [RFC#11](https://github.com/buildpacks/rfcs/blob/master/text/0011-lifecycle-descriptor.md). The CNB project versions our [spec components](#spec) and [implementations](#implementations) following separate schemas, detailed below:
 
 
 ### Spec component versioning
