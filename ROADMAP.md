@@ -43,7 +43,7 @@ This part of our roadmap will ensure we’re delivering the best tools we can to
 
 ## Beyond Pack
 
-The goal of this category is to bring the experience delievered by the `pack` CLI to more platforms. This will allow our community to use buildpacks in different kinds of environments and in new ways. We'll achieve this by adding support for new build pipelines, enabling the distribution of buildpacks, and extending constructs like the [stack](https://buildpacks.io/docs/concepts/components/stack/) so that they work in more scenarios.
+The goal of this category is to bring the experience delivered by the `pack` CLI to more platforms. This will allow our community to use buildpacks in different kinds of environments and in new ways. We'll achieve this by adding support for new build pipelines, enabling the distribution of buildpacks, and extending constructs like the [stack](https://buildpacks.io/docs/concepts/components/stack/) so that they work in more scenarios.
 
 ### CI/CD Adapters
 - Outcomes: Developers can move beyond workstation builds to production
