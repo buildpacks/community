@@ -1,6 +1,6 @@
 # Roadmap
 
-The Cloud Native Buildpacks project is rallying around the theme *Coming of Age** in 2020. Our roadmap will emphasize features and fixes that bring Cloud Native Buildpacks toward a 1.0 release, signaling that the project is mature enough for anyone to use it in production.
+The Cloud Native Buildpacks project is rallying around the theme *Coming of Age* in 2020. Our roadmap will emphasize features and fixes that bring Cloud Native Buildpacks toward a 1.0 release, signaling that the project is mature enough for anyone to use it in production.
 
 The roadmap is subdivided into three categories that represent the different goals we want to achieve. They are *Maturation*, *Beyond Pack*, and *Path to Production*. Below are outcomes and features we we will be working on for each of these categories. This roadmap will continue to be updated as our priorities evolve.
 
