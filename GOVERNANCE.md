@@ -1,5 +1,5 @@
 # Cloud Native Buildpacks Governance
-This document defines the governance structure for Cloud Native Buildpacks. This project is committed to building an open, inclusive, productive and self-governing open source community that maintains a specification and high-quality tools for translating source code into OCI images. The community is governed by this document with the goal of defining how said community should work together to achieve this goal.
+This document defines the governance structure for Cloud Native Buildpacks. This project is committed to building an open, inclusive, productive and self-governing open source community that maintains a specification and high-quality tools for translating source code into OCI images. The guidelines herein describe how the Cloud Native Buildpacks community should work together to achieve this goal.
 
 ## Repositories
 The following code repositories are governed by the Cloud Native Buildpacks community and maintained under the [buildpacks](https://github.com/buildpacks) organization.
