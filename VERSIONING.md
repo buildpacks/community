@@ -8,9 +8,9 @@ The spec describes two components that are [separately versioned](https://github
 
 #### Platform API Version
 Given by CNB platforms to the lifecycle, this version indicates which platform API versions that platform currently support. In review, in [PR#67](https://github.com/buildpacks/spec/pull/67/files), this version indicates the compatibility between a CNB platform and a given lifecycle according to the following rules:
-    - When `<major>` is `0`, the platform is only compatible with lifecycles implementing that exact Platform API.
-    - When `<major>` is greater than `0`, the platforms is only compatible with lifecycles implementing platform API
-    `<major>.<minor>`, where `<major>` of the lifecycle equals
+- When `<major>` is `0`, the platform is only compatible with lifecycles implementing that exact Platform API.
+- When `<major>` is greater than `0`, the platforms is only compatible with lifecycles implementing platform API
+`<major>.<minor>`, where `<major>` of the lifecycle equals
 
 #### Buildpack API Version
 Documented in the [buildpack spec](https://github.com/buildpacks/spec/blob/master/buildpack.md#buildpacktoml-toml) this field indicate compatibility with a given lifecycle according to the following rules:
