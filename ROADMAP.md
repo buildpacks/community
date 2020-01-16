@@ -16,7 +16,7 @@ This part of our roadmap will ensure we’re delivering the best tools we can to
 - Issue(s: https://git.io/JvJGt
 
 ### Reproducibility
-- Outcomes: Builds are easier to understand
+- Outcomes: Builds are verifiable. Build output can be replicated.
 - Status: In progress
 - Issue(s): https://git.io/JvJsN
 
