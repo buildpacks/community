@@ -1,10 +1,10 @@
 # Versioning in the CNB project
-The CNB project versions our [spec components](#spec) and versions our [implementations](#implementations) following seperate schemas, detailed below:
+The CNB project versions our [spec components](#spec) and [implementations](#implementations) following seperate schemas, detailed below:
 
 
 ### Spec component versioning
 [spec]: #spec
-Currently the spec describes three components which are seperately versioned. These APIs are versioned as follows:
+The spec describes three components that are separately versioned. These APIs are versioned as follows:
 
 #### Platform API Version
 Given by CNB platforms to the lifecycle, this version indicates which platform API versions that platform currently support. In review, in [PR#67](https://github.com/buildpacks/spec/pull/67/files), this version indicates the compatibility between a CNB platform and a given lifecycle according to the following rules:
@@ -18,7 +18,7 @@ Documented in the [buildpack spec](https://github.com/buildpacks/spec/blob/maste
 - When <major> is greater than 0, the buildpack is only compatible with lifecycles implementing buildpack API <major>.<minor>, where <major> of the lifecycle equals  <major> of the buildpack and <minor> of the lifecycle is greater than or equal to <minor> of the buildpack.
 
 #### Distribution API Version
-This component is currently not explicely versioned. As changes to this spec occur, an RFC will codify the contract.
+This component is not explicitly versioned. As changes to this spec occur, an codification of the contract may be proposed in a future RFC.
 
 
 ### Implementation versioning
