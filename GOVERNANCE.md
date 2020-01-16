@@ -20,7 +20,7 @@ The Core team is responsible for the direction of the project (roadmap), subteam
 * [spec](https://github.com/buildpacks/spec)
 * [rfcs](https://github.com/buildpacks/rfcs)
 
-Core team members are responsible for voting on RFCs, spec updates, and other changes to the project such as changes in leadership or community roles. No company will have a combined voting block of larger than 50%.
+Core team members are responsible for voting on RFCs, specification updates, and other changes to the project such as changes in leadership or community roles. A simple majority is required in each case. No company will have a combined voting block of larger than 50%.
 
 ## Sub-teams
 Sub-teams are responsible for narrower sets of concerns related to specific aspects of the project. Each sub-team will include at least one core team member to help align with the broader roadmap.
