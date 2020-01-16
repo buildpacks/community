@@ -24,9 +24,8 @@ This component is not explicitly versioned. As changes to this spec occur, an co
 ### Implementation versioning
 [implementations]: #implementations
 
-The CNB projects contains two main implementations of the spec are versioning as follows:
+We aim to release the core implementations of the project at a time-based cadence, per https://github.com/buildpacks/rfcs/pull/33. These implementations are versioned as follows:
 
-- __Release cadence__: We aim to release the core components of the project on a time based schedule cadence, per https://github.com/buildpacks/rfcs/pull/33
 - __Pack__: Pack is released via Github releases and its versions follow semver conventions.
 - __Lifecycle__: Pack is released via Github releases and its versions follow semver conventions.
 - __libbuildpack__: libbuildpack is released via Github releases and its versions follow semver conventions.
