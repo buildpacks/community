@@ -53,6 +53,7 @@ The Learning team is responsible for maintaining the project’s documentation, 
 
 * [docs](https://github.com/buildpacks/docs)
 * [resources](https://github.com/buildpacks/resources)
+* [samples](https://github.com/buildpacks/samples)
 
 ## Emeritus Team
 Serving as a member of an open source project requires a huge amount of work that cannot be sustained indefinitely. The emeritus team includes members of the project to whom we will always be grateful, but who no longer actively participate in the project.
