@@ -13,7 +13,7 @@ This part of our roadmap will ensure we’re delivering the best tools we can to
 - Status: Close to done.
 - RFC: https://github.com/buildpacks/rfcs/blob/master/text/0007-spec-distribution.md
 - Spec: https://github.com/buildpacks/spec/blob/master/distribution.md#buildpackage
-- Issue(s: https://git.io/JvJGt
+- Issue(s): https://git.io/JvJGt
 
 ### Reproducibility
 - Outcomes: Builds are verifiable. Build output can be replicated.
