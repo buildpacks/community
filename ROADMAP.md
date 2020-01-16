@@ -62,7 +62,7 @@ The goal of this category is to bring the experience delivered by the `pack` CLI
 
 ## Path to Production
 
-The last part of our roadmap brings Cloud Native Buildpacks to state where they are ready for anyone to use in production. This requires a level of stability in the API and interfaces that ensure breaking changes are uncommon in the future. It also requires us to be as transparent as possible with our community.
+The last part of our roadmap brings Cloud Native Buildpacks to state where they are ready for anyone to use in production. This requires a level of stability in the API and interfaces that ensure breaking changes are uncommon in the future. It also requires us to be as transparent as possible with our community. Above all it is dependent on delivering the outcomes described in *Maturation* and *Beyond Pack*.
 
 ### Version 1.0
 - Outcomes: Buildpacks are ready for production
