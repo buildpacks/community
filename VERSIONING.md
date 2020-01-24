@@ -14,13 +14,13 @@ Given by CNB platforms to the lifecycle, this version indicates which platform A
 
 #### Buildpack API Version
 Documented in the [buildpack spec](https://github.com/buildpacks/spec/blob/master/buildpack.md#buildpacktoml-toml) this field indicate compatibility with a given lifecycle according to the following rules:
-- When <major> is 0, the buildpack is only compatible with lifecycles implementing that exact buildpack API.
-- When <major> is greater than 0, the buildpack is only compatible with lifecycles implementing buildpack API <major>.<minor>, where <major> of the lifecycle equals  <major> of the buildpack and <minor> of the lifecycle is greater than or equal to <minor> of the buildpack.
+- When `<major>` is 0, the buildpack is only compatible with lifecycles implementing that exact buildpack API.
+- When `<major>` is greater than 0, the buildpack is only compatible with lifecycles implementing buildpack API `<major>.<minor>`, where `<major>` of the lifecycle equals  `<major>` of the buildpack and `<minor>` of the lifecycle is greater than or equal to `<minor>` of the buildpack.
 
 ### Implementation versioning
 [implementations]: #implementations
 
-We aim to release the core implementations of the project at a time-based cadence, per https://github.com/buildpacks/rfcs/pull/33. These implementations are versioned as follows:
+We aim to release the core implementations of the project at a time-based cadence, per [PR#33](https://github.com/buildpacks/rfcs/pull/33). These implementations are versioned as follows:
 
 - __Pack__: Pack is released via Github releases and its versions follow semver conventions.
 - __Lifecycle__: Pack is released via Github releases and its versions follow semver conventions.
