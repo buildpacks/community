@@ -28,12 +28,12 @@ Sub-teams are responsible for narrower sets of concerns related to specific aspe
 ### Roles
 
 #### Maintainers
-Maintainers are in charge of the day to day maintenance of the team's projects. They review and merge PRs, ensuring contributions align with project goals and meet the project's quality standards.
+Maintainers are in charge of the day to day maintenance of the team's projects. They review, approve, and merge PRs, ensuring contributions align with project goals and meet the project's quality standards.
 
-New maintainers must already be contributors, must be nominated by an existing maintainer or core team member, and must be elected by a supermajority of the core team. Likewise, maintainers can be removed by a supermajority of the core team or can resign by notifying one of the maintainers.
+New maintainers must already be contributors, must be nominated by an existing maintainer or core team member, and must be elected by a supermajority[^1] of the core team. Likewise, maintainers can be removed by a supermajority of the core team or can resign by notifying one of the maintainers.
 
 #### Contributors
-Contributors are those who make regular contributions to the project (documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.). New contributors may be self-nominated or be nominated by existing contributors, and must be elected by a supermajority of that project’s maintainers.
+Contributors are those who make regular contributions to the project (documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.). New contributors may be self-nominated or be nominated by existing contributors, and must be elected by a supermajority of that project’s maintainers. Contributors may merge approved PRs.
 
 ### Implementation Team
 The Implementation team is responsible for maintaining the components that constitute the Cloud Native Buildpacks reference implementation of the specification. This includes:
@@ -72,3 +72,5 @@ The Cloud Native Buildpacks Core Team is responsible for establishing a yearly r
 
 ## Updating Governance
 All substantive changes in Governance require a supermajority agreement by the Core Team.
+
+[^1]: Throughout these documents, "supermajority" means 66%+. If there are 2 maintainers, both must vote. In the case of a team with one maintainer, their single vote is sufficient.
