@@ -78,4 +78,4 @@ All substantive changes in Governance require a supermajority agreement by the C
 
 ##### Supermajority:
 [supermajority]: #supermajority
-Throughout these documents, "supermajority" means 66%+. If there are 2 maintainers, both must vote. In the case of a team with one maintainer, their single vote is sufficient.
+Throughout these documents, "supermajority" means 66%+. In the case of a team with one maintainer, their single vote is sufficient.
