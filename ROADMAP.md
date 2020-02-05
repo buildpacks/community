@@ -34,7 +34,7 @@ This part of our roadmap will ensure we’re delivering the best tools we can to
 
 ### Service Bindings
 - Outcomes: Apps can easily run on a variety of platforms
-- RFC: https://github.com/buildpacks/rfcs/blob/master/text/0012-service-binding.md\
+- RFC: https://github.com/buildpacks/rfcs/blob/master/text/0012-service-binding.md
 - Spec: https://github.com/buildpacks/spec/blob/master/extensions/bindings.md
 
 ### End User onboarding
