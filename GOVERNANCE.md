@@ -67,6 +67,8 @@ RFCs record potential changes with the context and information at the given time
 
 RFCs are not regarded as documentation. The official specification and implementations may differ or lag behind a finalized or historical RFC. For more information, see the [RFC RFC](https://github.com/buildpacks/rfcs/blob/master/text/0004-rfc-process.md).
 
+In order to ensure RFCs receive proper attention and don't stagnate, we've adopted a practice of the "RFC Roundup" during one weekly working group meeting - we go through currently open RFCs, check up on their status, and make sure discussion is still active and discuss how to move them forward.
+
 ## Roadmap
 The Cloud Native Buildpacks Core Team is responsible for establishing a yearly roadmap laying out our aspirations for that year. This shared vision is essential for keeping the development process focused.
 
