@@ -18,7 +18,9 @@ Working group meetings are a great place to more directly communicate with other
     - Zoom Meeting: (TBD)
 - Meeting 2 - Thursdays at XX:XX UTC
     - Zoom Meeting: (TBD)
-    
+
+For the most up-to-date information regarding these meetings please see, and subscribe to, our [calendar](https://lists.cncf.io/g/cncf-buildpacks/calendar).
+
 #### History
 
 - The meeting is recorded and posted to YouTube on the [Cloud Native Buildpacks Channel](https://www.youtube.com/channel/UCzrRfXB0rQJUVpt-Q45PcuA).
