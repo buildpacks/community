@@ -14,10 +14,8 @@ Our roadmap, which discusses our current themes and priorities can be found at [
 ## Working Groups
 Working group meetings are a great place to more directly communicate with other members of the community. These meetings occur weekly.
 
-- Meeting 1 - Wednesdays at XX:XX UTC
-- Meeting 2 - Thursdays at XX:XX UTC
-
-For the most up-to-date information regarding these meetings please see, and subscribe to, our [calendar](https://lists.cncf.io/g/cncf-buildpacks/calendar).
+- Meeting 1 - Wednesdays at 3pm EST/EDT (19:00 UTC)
+- Meeting 2 - Thursdays at 2pm EST/EDT (18:00 UTC)
 
 #### Meeting
 
