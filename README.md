@@ -15,11 +15,30 @@ Our roadmap, which discusses our current themes and priorities can be found at [
 Working group meetings are a great place to more directly communicate with other members of the community. These meetings occur weekly.
 
 - Meeting 1 - Wednesdays at XX:XX UTC
-    - Zoom Meeting: (TBD)
 - Meeting 2 - Thursdays at XX:XX UTC
-    - Zoom Meeting: (TBD)
 
 For the most up-to-date information regarding these meetings please see, and subscribe to, our [calendar](https://lists.cncf.io/g/cncf-buildpacks/calendar).
+
+#### Meeting
+
+The meeting may be joined via the following:
+
+Zoom:
+- https://VMware.zoom.us/j/95751108957?pwd=Vlg5dndyL1pYeUxPck1BL2ZSMjQ1UT09
+- Meeting ID: 957 5110 8957
+- Password: 868663
+
+
+Skype for Business:
+- https://VMware.zoom.us/skype/95751108957
+- Password: 868663
+
+Phone (one-tap):
+- US: +16699006833,,95751108957#,,#,,,868663#
+- +13462487799,,95751108957#,,#,,,868663#
+
+Phone (international):
+- https://VMware.zoom.us/u/asnmqyfmb
 
 #### History
 
