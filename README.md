@@ -1,5 +1,5 @@
 # Cloud Native Buildpacks (CNB) community
----
+
 Welcome to the CNB community! We're happy to have you.
 
 This document is an entry-point for joining and contributing to the CNB community, be it through improving documentation, code, etc.
@@ -10,6 +10,9 @@ We make decisions as a group in a variety of public forums. Our governance pract
 
 ## Roadmap
 Our roadmap, which discusses our current themes and priorities can be found at [ROADMAP.md](ROADMAP.md).
+
+## Team
+The roster of the current team members can be found at [TEAMS.md](TEAMS.md).
 
 ## Working Groups
 Working group meetings are a great place to more directly communicate with other members of the community. These meetings occur weekly.
