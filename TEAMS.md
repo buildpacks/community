@@ -52,7 +52,6 @@
 [@hone]: https://github.com/hone
 [@jkutner]: https://github.com/jkutner
 [@jromero]: https://github.com/jromero
-[@jromero]: https://github.com/jromero
 [@matthewmcnew]: https://github.com/matthewmcnew
 [@micahyoung]: https://github.com/micahyoung
 [@murphybytes]: https://github.com/murphybytes
