@@ -8,6 +8,7 @@ Below is a list of projects that have publicly adopted CNB.
 * [Fly.io](https://fly.io/blog/simpler-fly-deployments-nodejs-rails-golang-java/)
 * [Google Cloud Run Button](https://cloud.google.com/blog/products/serverless/introducing-cloud-run-button-click-to-deploy-your-git-repos-to-google-cloud)
 * [Greenhouse](https://github.com/grnhse/)
+* [Paketo Buildpacks](https://paketo.io)
 * [Pivotal Build Service](https://content.pivotal.io/blog/pivotal-build-service-now-alpha-assembles-and-updates-containers-in-kubernetes)
 * [Pivotal `kpack`](https://content.pivotal.io/blog/introducing-kpack-a-kubernetes-native-container-build-service)
 * [Project `riff`](https://projectriff.io/blog/2018/11/19/announcing-riff-0-2-0)
