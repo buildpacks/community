@@ -14,7 +14,7 @@ The following code repositories are governed by the Cloud Native Buildpacks comm
 * [community](https://github.com/buildpacks/community)
 * [samples](https://github.com/buildpacks/samples)
 
-## Core Team
+## [Core Team](TEAMS.md#Core-Team)
 The Core team is responsible for the direction of the project (roadmap), subteam leadership, the spec, and cross-cutting concerns. This includes:
 
 * [spec](https://github.com/buildpacks/spec)
@@ -35,20 +35,20 @@ New maintainers must already be contributors, must be nominated by an existing m
 #### Contributors
 Contributors are those who make regular contributions to the project (documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.). New contributors may be self-nominated or be nominated by existing contributors, and must be elected by a supermajority of the project’s maintainers. Contributors may merge approved PRs.
 
-### Implementation Team
+### [Implementation Team](TEAMS.md#Implementation-Team)
 The Implementation team is responsible for maintaining the components that constitute the Cloud Native Buildpacks reference implementation of the specification. This includes:
 
 * [lifecycle](https://github.com/buildpacks/lifecycle)
 * [libbuildpack](https://github.com/buildpacks/libbuildpack)
 * [imgutil](https://github.com/buildpacks/imgutil)
 
-### Platform Team
+### [Platform Team](TEAMS.md#Platform-Team)
 The Platform team is responsible for maintaining pack and any other platforms or platform components. This includes:
 
 * [pack](https://github.com/buildpacks/pack)
 * [Tekton Template](https://github.com/tektoncd/catalog/tree/master/buildpacks)
 
-### Learning Team
+### [Learning Team](TEAMS.md#Learning-Team)
 The Learning team is responsible for maintaining the project’s documentation, website, and resources. This includes:
 
 * [docs](https://github.com/buildpacks/docs)
