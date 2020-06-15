@@ -41,7 +41,7 @@ Additional Capabilities:
 Maintainers are responsible for objectives and outcomes of the [sub-team][sub-team] they are inducted into.
 
 Additional Responsibilities:
-* Maintain [sub-team][sub-team] associated contributions.
+* Maintain [sub-team][sub-teams] associated contributions.
 * Recruit [Project Contributors](#project-contributor)
 * Review relevant [RFCs][rfcs]
 
@@ -94,7 +94,7 @@ The following repositories  are good starting points for code contributions:
 
 Other repositories that are specialized:
 * [tekton][tekton]
-* [pack-orb][pack-orb-gfi]
+* [pack-orb][pack-orb]
 
 #### RFCs
 
@@ -119,7 +119,10 @@ Contributions to the RFC process can take any or all of the following forms:
 [rfcs-prs]: https://github.com/buildpacks/rfcs/pulls
 [pack]: https://github.com/buildpacks/pack
 [pack-gfi]: https://github.com/buildpacks/pack/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
+[pack-orb]: https://github.com/buildpacks/pack-orb/issues
 [samples]: https://github.com/buildpacks/samples
 [samples-issues]: https://github.com/buildpacks/samples/issues
+[sub-teams]: https://github.com/buildpacks/community/blob/contributors-guide/GOVERNANCE.md#sub-teams
+[tekton]: https://github.com/tektoncd/catalog/tree/v1beta1/buildpacks
 [triage]: triage.md
 [working-group]: ../#working-groups

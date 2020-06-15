@@ -32,6 +32,7 @@ The following is a flow to assist contributors in assigning the appropriate labe
         - Remove label `status/triage`
         - Add label `status/needs-information`
         - Comment in request for clarification
+        - If activity is missing for 10 days, close
     - No - not valid / relevant for our project
         - Remove label `status/triage`
         - Add label `status/invalid`
