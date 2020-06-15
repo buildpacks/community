@@ -2,7 +2,7 @@
 
 The start of your involvement with the [Cloud Native Buildpacks](https://buildpacks.io/).
 
-### Contributors
+## Contributors
 
 ```text
 +-------------------------+       +-----------------------+       +--------------+
@@ -50,7 +50,7 @@ Additional Capabilities:
 * Ability to configure repositories.
 * Invitation to leadership events.
 
-### Contributions
+## Contributions
 
 Contribution to this project goes beyond the notion of code contributions. We value any help that you may be able to provide.
 
@@ -105,6 +105,14 @@ Contributions to the RFC process can take any or all of the following forms:
 * Reviewing and commenting on [RFC Pull Requests][rfcs-prs].
 * Partaking in discussions in [Working Group][working-group] meetings.
 * Proposing changes via [RFCs][rfcs]. 
+
+## FAQs
+
+- How do I become a project contributor?
+    
+    The process for becoming a [project contributor](#project-contributor) simply requires that you actively [contribute](#contributions) to the project. There is no set amount of contributions that are expected, but the more involved you are in the project the more votes that would be tipped in your favor. 
+    
+    Once you've got a decent amount of contributions, you may self-nominate, or be nominated by another team member. The maintainers of said relevant sub-teams will then vote for your election into becoming a project maintainer.
 
 <!-- links -->
 [blog]: https://medium.com/buildpacks
