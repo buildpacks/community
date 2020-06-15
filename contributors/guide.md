@@ -54,6 +54,20 @@ Additional Capabilities:
 
 Contribution to this project goes beyond the notion of code contributions. We value any help that you may be able to provide.
 
+#### Code
+
+Code contributions to any project repo are always welcomed.
+
+The following repositories  are good starting points for code contributions:
+
+* [libcnb][libcnb-gfi]
+* [lifecycle][lifecycle-gfi]
+* [pack][pack-gfi]
+
+Other repositories that are specialized:
+* [tekton][tekton]
+* [pack-orb][pack-orb]
+
 #### Docs
 
 This involves documenting any aspect of the project. A good starting point to contribute to documentation would revolve around your comprehension or desired area of expertise.
@@ -72,30 +86,6 @@ A few examples of places where documentation would be valuable:
 * Creating [blog][blog] posts.
     * Discuss blog proposals with the [#learning-team][learning-team-slack]
 
-#### Triage
-
-Triaging issues is the process of looking at newly created issues (or following up on issues). There are many benefits our community gain from our current triage process, to name a few:
-
-1. The community receives reasonable response times.
-2. Minimize the number of open "stale" issues.
-3. Ongoing efforts aren't disrupted.
-
-To learn more about how you can help triage issues, check out our dedicated [triage][triage] page.
-
-#### Code
-
-Code contributions to any project repo are always welcomed.
-
-The following repositories  are good starting points for code contributions:
-
-* [libcnb][libcnb-gfi]
-* [lifecycle][lifecycle-gfi]
-* [pack][pack-gfi]
-
-Other repositories that are specialized:
-* [tekton][tekton]
-* [pack-orb][pack-orb]
-
 #### RFCs
 
 RFCs, or Request For Comments, is the process we employ to review project-wide changes. By proposing changes via RFCs, it allows for the entire community to partake in the brainstorming process of applying changes, considering alternatives, impact, and limitations.
@@ -105,6 +95,16 @@ Contributions to the RFC process can take any or all of the following forms:
 * Reviewing and commenting on [RFC Pull Requests][rfcs-prs].
 * Partaking in discussions in [Working Group][working-group] meetings.
 * Proposing changes via [RFCs][rfcs]. 
+
+#### Triage
+
+Triaging issues is the process of looking at newly created issues (or following up on issues). There are many benefits our community gain from our current triage process, to name a few:
+
+1. The community receives reasonable response times.
+2. Minimize the number of open "stale" issues.
+3. Ongoing efforts aren't disrupted.
+
+To learn more about how you can help triage issues, check out our dedicated [triage][triage] page.
 
 ## FAQs
 
