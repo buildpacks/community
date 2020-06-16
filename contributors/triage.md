@@ -15,7 +15,7 @@ An actionable issue is one that can be worked on such that the following is true
 
 ### Actions
 
-The following is a flow to assist contributors in assigning the appropriate labels in script format.
+The following is a flow to assist contributors in assigning the appropriate labels to an issue.
 
 - Is this a support request?
     - Yes
