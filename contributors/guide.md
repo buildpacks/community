@@ -38,7 +38,7 @@ Additional Capabilities:
 
 #### Maintainer
 
-Maintainers are responsible for objectives and outcomes of the [sub-team][sub-team] they are inducted into.
+Maintainers are responsible for advancing the objectives and outcomes of the [sub-teams][sub-teams] they are inducted into.
 
 Additional Responsibilities:
 * Maintain [sub-team][sub-teams] associated contributions.
