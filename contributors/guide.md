@@ -25,7 +25,7 @@ contributing to a better project.
 
 #### Project Contributor
 
-This group of contributors are recognized as providing sizeable contributions to the project.
+These contributors are recognized as providing sizable contributions to the project.
 
 Additional Responsibilities:
 * Maintain active participation in project.
