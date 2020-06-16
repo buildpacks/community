@@ -64,7 +64,7 @@ The following repositories  are good starting points for code contributions:
 * [lifecycle][lifecycle-gfi]
 * [pack][pack-gfi]
 
-Other repositories that are specialized:
+Other, more specialized, repositories include:
 * [tekton][tekton]
 * [pack-orb][pack-orb]
 
