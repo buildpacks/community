@@ -1,6 +1,6 @@
 # Triage
 
-Triaging is the act of managing issues, determining the appropriate response, and following up.
+Triaging is the act of managing issues, determining the appropriate response, and following up with the original poster to ensure the problem was solved.
 
 ### Actionable Issues
 
