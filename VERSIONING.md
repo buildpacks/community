@@ -8,14 +8,19 @@ The spec describes two components that are [separately versioned](https://github
 
 #### Platform API Version
 Given by CNB platforms to the lifecycle, this version indicates which platform API versions that platform currently support. In review, in [PR#67](https://github.com/buildpacks/spec/pull/67/files), this version indicates the compatibility between a CNB platform and a given lifecycle according to the following rules:
-- When `<major>` is `0`, the platform is only compatible with lifecycles implementing that exact Platform API.
+- When `<major>` is `0` and `<minor>` is `1`, the platform is only compatible with lifecycles implementing that exact Platform API.
+- When `<major>` is `0` and `<minor>` greater than or equal to `2`, the platform is compatible with lifecycles implementing platform API `<major>.<minor>`, where `<major>` of both lifecycle and platform equals `0` and `<minor>` of the lifecycle is greater than or equal to `<minor>` of the platform.
 - When `<major>` is greater than `0`, the platforms is only compatible with lifecycles implementing platform API
-`<major>.<minor>`, where `<major>` of the lifecycle equals
+`<major>.<minor>`, where `<major>` of the lifecycle equals `<major>` of the platform and `<minor>` of the lifecycle is greater than or equal to `<minor>` of the platform.
 
 #### Buildpack API Version
 Documented in the [buildpack spec](https://github.com/buildpacks/spec/blob/master/buildpack.md#buildpacktoml-toml) this field indicate compatibility with a given lifecycle according to the following rules:
-- When <major> is 0, the buildpack is only compatible with lifecycles implementing that exact buildpack API.
-- When <major> is greater than 0, the buildpack is only compatible with lifecycles implementing buildpack API <major>.<minor>, where <major> of the lifecycle equals  <major> of the buildpack and <minor> of the lifecycle is greater than or equal to <minor> of the buildpack.
+- When `<major>` is greater than `0`, the platforms is only compatible with lifecycles implementing platform API
+`<major>.<minor>`, where `<major>` of the lifecycle equals
+
+- When `<major>` is `0` and `<minor>` is `1`, the platform is only compatible with lifecycles implementing that exact Buildpack API.
+- When `<major>` is `0` and `<minor>` greater than or equal to `2`, the buildpack is compatible with lifecycles implementing Buildpack API `<major>.<minor>`, where `<major>` of both lifecycle and buildpack equals `0` and `<minor>` of the lifecycle is greater than or equal to `<minor>` of the buildpack.
+- When `<major>` is greater than `0`, the buildpack is only compatible with lifecycles implementing buildpack API `<major>`.`<minor>`, where `<major>` of the lifecycle equals `<major>` of the buildpack and `<minor>` of the lifecycle is greater than or equal to `<minor>` of the buildpack.
 
 ### Implementation versioning
 [implementations]: #implementations
