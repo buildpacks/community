@@ -20,7 +20,7 @@ Contributors can be broken down into the following tiers.
 
 #### Community Contributor
 
-This is anyone that interacts with this project, creates an issue, opens a PR, adds a comment, etc. You are all in one way
+This is anyone that interacts with this project, whether it be by creating an issue, opening a PR, adding a comment, etc. You are all, in some way,
 contributing to a better project.
 
 #### Project Contributor
