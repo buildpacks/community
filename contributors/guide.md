@@ -70,7 +70,7 @@ Other, more specialized, repositories include:
 
 #### Docs
 
-This involves documenting any aspect of the project. A good starting point to contribute to documentation would revolve around your comprehension or desired area of expertise.
+This involves documenting any aspect of the project. A good starting point for contributions to documentation would revolve around your comprehension or desired area of expertise.
 
 A few examples of places where documentation would be valuable:
 
