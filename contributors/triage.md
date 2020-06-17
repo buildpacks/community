@@ -4,10 +4,10 @@ Triaging is the act of managing issues, determining the appropriate response, an
 
 ### Actionable Issues
 
-An actionable issue is one that can be worked on such that the following is true:
+An actionable issue is one that can be worked on, such that the following is true:
 
-- Definition of done - that may be acceptance criteria or clear expectations.
-- Appropriate labels
+- A definition of done is provided - whether that is formal acceptance criteria or clear expectations.
+- Appropriate label(s) is present on the issue
     - `type/*`
     - `size/*` (if possible)
     - `status/ready`
