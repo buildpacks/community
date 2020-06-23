@@ -56,7 +56,7 @@ The following is a flow to assist contributors in assigning the appropriate labe
             - Yes
                 - Remove label `status/triage`
                 - Add label `status/ready`
-                - Add appropriate `size/*` (if possible) and `type/*`
+                - Add appropriate `size/*` (if possible), `type/*`, and `good-first-issue` if it is relatively straightforward
             - Sort of - requires additional research
                 - Remove label `status/triage`
                 - Add label `status/ready`
