@@ -16,7 +16,7 @@
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@dgageot][@dgageot], [@elbandito][@elbandito], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@zmackie][@zmackie]
+[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@dgageot][@dgageot], [@elbandito][@elbandito], [@jabrown85][@jabrown85], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@zmackie][@zmackie]
 
 ## Platform Team
 
@@ -49,6 +49,7 @@
 [@dgageot]: https://github.com/dgageot
 [@ekcasey]: https://github.com/ekcasey
 [@elbandito]: https://github.com/elbandito
+[@jabrown85]: https://github.com/jabrown85
 [@hone]: https://github.com/hone
 [@jkutner]: https://github.com/jkutner
 [@jromero]: https://github.com/jromero
