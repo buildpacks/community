@@ -59,8 +59,8 @@ The purpose of this meeting is to sync across the various sub-teams. They tend t
 
 These meetings occur weekly.
 
-- Platform - Wednesdays at 10 EST/EDT (19:00 UTC)
-- Implementation - Thursdays at 2pm EST/EDT (18:00 UTC)
+- Platform - Wednesdays at 11:30am EST/EDT (15:30 UTC)
+- Implementation - Thursdays at 11:30am EST/EDT (15:30 UTC)
 
 #### Meeting Info
 
