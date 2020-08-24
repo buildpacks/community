@@ -16,7 +16,7 @@
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@dgageot][@dgageot], [@elbandito][@elbandito], [@jabrown85][@jabrown85], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@zmackie][@zmackie]
+[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@dgageot][@dgageot], [@elbandito][@elbandito], [@jabrown85][@jabrown85], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
 
 ## Platform Team
 
