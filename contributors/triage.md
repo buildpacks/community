@@ -11,7 +11,31 @@ An actionable issue is one that can be worked on, such that the following is tru
     - `type/*`
     - `size/*` (if possible)
     - `status/ready`
-    - `good first issue` (if applicable)
+    - `good first issue` (if applicable, see [Good First Issues](#good-first-issues))
+
+### Good First Issues
+
+Good first issues, are issues which new contributors can relatively easily pick up. Keep in mind that new contributors likely will not have the context you do. They should be as discriptive as possible and provide good formal acceptance criteria, preferably in [gherkin](https://cucumber.io/docs/gherkin/reference/). By providing acceptance criteria, it makes it easier for newer contributors to understand all the inputs and outputs to setup a good test scenario.
+
+Example of a good first issue:
+
+> Title: Create a new good first issue
+>
+> Description:
+>
+>     ### Summary
+> 
+>     As a project contributor, I would like to create an issue that new contributors can pick up.
+> 
+>     ### Acceptance Criteria
+>
+>     ```gherkin
+>     Given I have permissions to add labels
+>     When I create a good first issue
+>     Then the issue should have the label "good first issue"
+>     And the issue should have at least 1 Acceptance Criteria
+>     ```
+
 
 ### Actions
 
