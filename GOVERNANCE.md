@@ -48,6 +48,12 @@ The Platform team is responsible for maintaining pack and any other platforms or
 * [pack](https://github.com/buildpacks/pack)
 * [Tekton Template](https://github.com/tektoncd/catalog/tree/master/buildpacks)
 
+### [Distribution Team](TEAMS.md#Distribution-Team)
+The Distribution team is responsible for maintaining tools and services that support the distribution, discovery, and integration of buildpacks. This includes:
+
+* [CircleCI Pack Orb](https://github.com/buildpacks/pack-orb)
+* [Buildpack Registry](https://github.com/buildpacks/registry-index)
+
 ### [Learning Team](TEAMS.md#Learning-Team)
 The Learning team is responsible for maintaining the project’s documentation, website, and resources. This includes:
 

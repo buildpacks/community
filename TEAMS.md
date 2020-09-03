@@ -26,13 +26,21 @@
 
 [@ekcasey][@ekcasey], [@jromero][@jromero], [@sclevine][@sclevine]
 
+## Distribution Team
+
+> The Distribution team is responsible for maintaining tools and services that support the distribution, discovery, and integration of buildpacks.
+
+### Maintainers
+
+TBD
+
 ### Project Contributors
 
 [@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@dfreilich][@dfreilich], [@elbandito][@elbandito], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
 
 ## Learning Team
 
-> The Learning team is responsible for maintaining the project’s documentation, website, and resources. 
+> The Learning team is responsible for maintaining the project’s documentation, website, and resources.
 
 ### Maintainers
 
