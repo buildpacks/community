@@ -5,6 +5,7 @@ Below is a list of projects that have publicly adopted CNB.
 
 * [Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-tasks-pack-build)
 * [Azure Spring Cloud](https://content.pivotal.io/blog/azure-spring-cloud-a-new-way-to-run-spring-boot-apps-atop-kubernetes)
+* [FactSet](https://www.factset.com/)
 * [Fly.io](https://fly.io/blog/simpler-fly-deployments-nodejs-rails-golang-java/)
 * [Google App Engine](https://cloud.google.com/appengine/)
 * [Google Cloud Run Button](https://cloud.google.com/blog/products/serverless/introducing-cloud-run-button-click-to-deploy-your-git-repos-to-google-cloud)
