@@ -59,7 +59,7 @@ The purpose of this meeting is to sync across the various sub-teams. They tend t
 
 These meetings occur weekly.
 
-- Learning - Wednesdays at 10:00am EST/EDT (14:00 UTC)
+- Learning - Tuesdays at 10:00am EST/EDT (14:00 UTC)
 - Platform - Wednesdays at 11:30am EST/EDT (15:30 UTC)
 - Implementation - Thursdays at 11:30am EST/EDT (15:30 UTC)
 
