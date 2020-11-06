@@ -14,8 +14,8 @@ Given by CNB platforms to the lifecycle, this version indicates which platform A
 
 #### Buildpack API Version
 Documented in the [buildpack spec](https://github.com/buildpacks/spec/blob/master/buildpack.md#buildpacktoml-toml) this field indicate compatibility with a given lifecycle according to the following rules:
-- When <major> is 0, the buildpack is only compatible with lifecycles implementing that exact buildpack API.
-- When <major> is greater than 0, the buildpack is only compatible with lifecycles implementing buildpack API <major>.<minor>, where <major> of the lifecycle equals  <major> of the buildpack and <minor> of the lifecycle is greater than or equal to <minor> of the buildpack.
+- When `<major>` is 0, the buildpack is only compatible with lifecycles implementing that exact buildpack API.
+- When `<major>` is greater than 0, the buildpack is only compatible with lifecycles implementing buildpack API `<major>.<minor>`, where `<major>` of the lifecycle equals `<major>` of the buildpack and `<minor>` of the lifecycle is greater than or equal to `<minor>` of the buildpack.
 
 ### Implementation versioning
 [implementations]: #implementations
