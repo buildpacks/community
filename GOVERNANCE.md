@@ -54,6 +54,7 @@ The Distribution team is responsible for maintaining tools and services that sup
 
 * [Buildpack Registry Index](https://github.com/buildpacks/registry-index)
 * [Buildpack Registry Namespace Owners](https://github.com/buildpacks/registry-namespaces)
+* [Github Actions](https://github.com/buildpacks/github-actions)
 
 ### [Learning Team](TEAMS.md#Learning-Team)
 The Learning team is responsible for maintaining the project’s documentation, website, and resources. This includes:
