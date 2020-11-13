@@ -18,7 +18,7 @@ Below is a list of projects that have publicly adopted CNB.
 * [Salesforce Functions](https://developer.salesforce.com/blogs/2019/11/introducing-salesforce-evergreen.html)
 * [Spring Boot](https://spring.io/blog/2020/01/23/spring-boot-2-3-0-m1-is-now-available)
 * [VMware Tanzu Build Service](https://tanzu.vmware.com/build-service)
-* [VMware `kpack`](https://tanzu.vmware.com/content/blog/introducing-kpack-a-kubernetes-native-container-build-service)
+* [kpack](https://tanzu.vmware.com/content/blog/introducing-kpack-a-kubernetes-native-container-build-service)
 * [Weave Firekube](https://www.weave.works/blog/firekube-fast-and-secure-kubernetes-clusters-using-weave-ignite)
 
 If you'd like to be added, feel free to comment on [this issue](https://github.com/buildpacks/community/issues/12) or [open a pull-request!](https://github.com/buildpacks/community/edit/master/ADOPTERS.md)
