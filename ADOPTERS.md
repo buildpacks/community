@@ -8,6 +8,7 @@ Below is a list of projects that have publicly adopted CNB.
 * [DigitalOcean App Platform](https://www.digitalocean.com/docs/app-platform/concepts/buildpack/)
 * [FactSet](https://www.factset.com/)
 * [Fly.io](https://fly.io/blog/simpler-fly-deployments-nodejs-rails-golang-java/)
+* [GitLab Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/stages.html)
 * [Google App Engine](https://cloud.google.com/appengine/)
 * [Google Cloud](https://cloud.google.com/blog/products/containers-kubernetes/google-cloud-now-supports-buildpacks)
 * [Google Cloud Buildpacks](https://github.com/GoogleCloudPlatform/buildpacks)
