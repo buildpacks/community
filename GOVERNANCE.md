@@ -52,6 +52,7 @@ The Platform team is responsible for maintaining pack and any other platforms or
 ### [Distribution Team](TEAMS.md#Distribution-Team)
 The Distribution team is responsible for maintaining tools and services that support the distribution and discovery of buildpacks. This includes:
 
+* [Buildpack Registry API](https://github.com/buildpacks/registry-api)
 * [Buildpack Registry Index](https://github.com/buildpacks/registry-index)
 * [Buildpack Registry Namespace Owners](https://github.com/buildpacks/registry-namespaces)
 * [Github Actions](https://github.com/buildpacks/github-actions)
