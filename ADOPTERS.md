@@ -15,6 +15,7 @@ Below is a list of projects that have publicly adopted CNB.
 * [Greenhouse](https://github.com/grnhse/)
 * [Hashicorp Waypoint](https://www.hashicorp.com/blog/announcing-waypoint)
 * [kpack](https://tanzu.vmware.com/content/blog/introducing-kpack-a-kubernetes-native-container-build-service)
+* [Instana](https://github.com/instana/instana-buildpacks)
 * [Paketo Buildpacks](https://paketo.io)
 * [Project `riff`](https://projectriff.io/blog/2018/11/19/announcing-riff-0-2-0)
 * [Salesforce Functions](https://developer.salesforce.com/blogs/2019/11/introducing-salesforce-evergreen.html)
