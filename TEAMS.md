@@ -24,11 +24,11 @@
 
 ### Maintainers
 
-[@ekcasey][@ekcasey], [@jromero][@jromero], [@sclevine][@sclevine]
+[@ekcasey][@ekcasey], [@jromero][@jromero], [@dfreilich][@dfreilich], [@sclevine][@sclevine]
 
 ### Project Contributors 
 
-[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@dfreilich][@dfreilich], [@elbandito][@elbandito], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
 ## Distribution Team
 
 > The Distribution team is responsible for maintaining tools and services that support the distribution, discovery, and integration of buildpacks.
