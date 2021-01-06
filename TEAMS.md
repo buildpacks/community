@@ -35,11 +35,11 @@
 
 ### Maintainers
 
-[@jkutner][@jkutner]
+[@elbandito][@elbandito], [@jkutner][@jkutner]
 
 ### Project Contributors
 
-[@elbandito][@elbandito]
+None
 
 ## Learning Team
 
