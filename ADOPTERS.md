@@ -6,6 +6,7 @@ Below is a list of projects that have publicly adopted CNB.
 * [Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-tasks-pack-build)
 * [Azure Spring Cloud](https://content.pivotal.io/blog/azure-spring-cloud-a-new-way-to-run-spring-boot-apps-atop-kubernetes)
 * [DigitalOcean App Platform](https://www.digitalocean.com/docs/app-platform/concepts/buildpack/)
+* [Dokku](http://dokku.viewdocs.io/dokku/deployment/methods/cloud-native-buildpacks/)
 * [FactSet](https://www.factset.com/)
 * [Fly.io](https://fly.io/blog/simpler-fly-deployments-nodejs-rails-golang-java/)
 * [GitLab Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/stages.html)
