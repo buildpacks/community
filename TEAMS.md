@@ -24,7 +24,7 @@
 
 ### Maintainers
 
-[@ekcasey][@ekcasey], [@jromero][@jromero], [@dfreilich][@dfreilich], [@sclevine][@sclevine]
+[@jromero][@jromero], [@dfreilich][@dfreilich], [@sclevine][@sclevine]
 
 ### Project Contributors 
 
