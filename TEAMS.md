@@ -51,13 +51,14 @@ None
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@zmackie][@zmackie]
+[@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@dwillist][@dwillist], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
 
 [@ameyer-pivotal]: https://github.com/ameyer-pivotal
 [@ashwin-venkatesh]: https://github.com/ashwin-venkatesh
 [@danielleadams]: https://github.com/danielleadams
 [@dfreilich]: https://github.com/dfreilich
 [@dgageot]: https://github.com/dgageot
+[@dwillist]: https://github.com/dwillist
 [@ekcasey]: https://github.com/ekcasey
 [@elbandito]: https://github.com/elbandito
 [@jabrown85]: https://github.com/jabrown85
