@@ -3,6 +3,7 @@
 ### Adopters
 Below is a list of projects that have publicly adopted CNB. 
 
+* [AppPack](https://apppack.io/)
 * [Azure Container Registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-tasks-pack-build)
 * [Azure Spring Cloud](https://content.pivotal.io/blog/azure-spring-cloud-a-new-way-to-run-spring-boot-apps-atop-kubernetes)
 * [DigitalOcean App Platform](https://www.digitalocean.com/docs/app-platform/concepts/buildpack/)
