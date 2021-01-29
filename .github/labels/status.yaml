@@ -1,0 +1,27 @@
+- color: bc404a
+  description: Issue or PR that is blocked. See comments.
+  name: status/blocked
+- color: fbca04
+  description: Issue or PR that requires in-depth discussion.
+  name: status/discussion-needed
+- color: dddddd
+  description: Issue or PR that is a duplicate of another. See comments.
+  name: status/duplicate
+- color: ef75d3
+  description: Issue or PR that is currently in progress.
+  name: status/in-progress
+- color: DDDDDD
+  description: Issue or PR that doesn't have enough information provided.
+  name: status/incomplete
+- color: e4e669
+  description: Issue or PR that is not valid.
+  name: status/invalid
+- color: 23ce6d
+  description: Issue ready to be worked on.
+  name: status/ready
+- color: 83e298
+  description: Support issues that have been resolved.
+  name: status/resolved
+- color: edd861
+  description: Issue or PR that requires contributor attention.
+  name: status/triage

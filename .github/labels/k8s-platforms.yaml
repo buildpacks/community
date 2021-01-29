@@ -1,0 +1,9 @@
+- color: 3c75ff
+  description: Issue or PR related to Google Kubernetes Engine
+  name: platform/gke
+- color: fc2f4c
+  description: Issue or PR related to OpenShift
+  name: platform/openshift
+- color: 2be0ff
+  description: Issue or PR related to Kind
+  name: platform/kind

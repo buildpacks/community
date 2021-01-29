@@ -1,0 +1,15 @@
+- color: d73a4a
+  description: Issue that reports an unexpected behaviour.
+  name: type/bug
+- color: bfd4f2
+  description: Issue that requests non-user facing changes.
+  name: type/chore
+- color: a2eeef
+  description: Issue that requests a new feature or improvement.
+  name: type/enhancement
+- color: 21ceae
+  description: Issue intended to be exploratory.
+  name: type/research
+- color: ea8cd9
+  description: Issue with general questions or troubleshooting.
+  name: type/support
