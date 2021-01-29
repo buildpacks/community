@@ -1,6 +1,8 @@
 name: Labels Sync
 on:
   push:
+    branches:
+      - main
     paths:
       - .github/labels/**.yml
       - .github/workflows/labels-sync.yaml
@@ -16,6 +18,7 @@ jobs:
           cat .github/labels/common.yaml >> ${{ github.job }}.yaml
           cat .github/labels/type.yaml >> ${{ github.job }}.yaml
           cat .github/labels/status.yaml >> ${{ github.job }}.yaml
+          cat .github/labels/k8s-platforms.yaml >> ${{ github.job }}.yaml
           echo "> Created config:"
           cat ${{ github.job }}.yaml
       - uses: micnncim/action-label-syncer@v1
@@ -23,3 +26,5 @@ jobs:
           manifest: ${{ github.job }}.yaml
           repository: buildpacks/tekton-integration
           token: ${{ secrets.LEARNING_GITHUB_TOKEN }}
+          # ! NOTE ! - default is true which deletes labels not in manifest
+          prune: true
