@@ -12,11 +12,11 @@
 
 ### Maintainers
 
-[@ekcasey][@ekcasey], [@natalieparellano][@natalieparellano], [@nebhale][@nebhale], [@sclevine][@sclevine]
+[@ekcasey][@ekcasey], [@jabrown85][@jabrown85], [@natalieparellano][@natalieparellano], [@nebhale][@nebhale], [@sclevine][@sclevine]
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@dgageot][@dgageot], [@elbandito][@elbandito], [@jabrown85][@jabrown85], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@dgageot][@dgageot], [@elbandito][@elbandito], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
 
 ## Platform Team
 
