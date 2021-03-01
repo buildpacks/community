@@ -39,7 +39,7 @@
 
 ### Project Contributors
 
-None
+[@Brahyt][@Brahyt]
 
 ## Learning Team
 
@@ -55,6 +55,7 @@ None
 
 [@ameyer-pivotal]: https://github.com/ameyer-pivotal
 [@ashwin-venkatesh]: https://github.com/ashwin-venkatesh
+[@Brahyt]: https://github.com/Brahyt
 [@danielleadams]: https://github.com/danielleadams
 [@dfreilich]: https://github.com/dfreilich
 [@dgageot]: https://github.com/dgageot
