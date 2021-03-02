@@ -72,7 +72,7 @@
 [@natalieparellano]: https://github.com/natalieparellano
 [@nebhale]: https://github.com/nebhale
 [@samj1912]: https://github.com/samj1912
-[@sclevine]: https://github.com/sclevin
+[@sclevine]: https://github.com/sclevine
 [@simonjjones]: https://github.com/simonjjones
 [@superhighfives]: https://github.com/superhighfives
 [@yaelharel]: https://github.com/yaelharel
