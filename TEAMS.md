@@ -51,7 +51,7 @@
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@dwillist][@dwillist], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@dwillist][@dwillist], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
 
 [@ameyer-pivotal]: https://github.com/ameyer-pivotal
 [@ashwin-venkatesh]: https://github.com/ashwin-venkatesh
@@ -71,6 +71,7 @@
 [@murphybytes]: https://github.com/murphybytes
 [@natalieparellano]: https://github.com/natalieparellano
 [@nebhale]: https://github.com/nebhale
+[@samj1912]: https://github.com/samj1912
 [@sclevine]: https://github.com/sclevin
 [@simonjjones]: https://github.com/simonjjones
 [@superhighfives]: https://github.com/superhighfives
