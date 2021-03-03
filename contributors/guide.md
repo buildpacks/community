@@ -65,7 +65,7 @@ The following repositories  are good starting points for code contributions:
 * [pack][pack-gfi]
 
 Other, more specialized, repositories include:
-* [tekton][tekton]
+* [tekton-integration][tekton-integration]
 * [pack-orb][pack-orb]
 
 #### Docs
@@ -131,6 +131,6 @@ To learn more about how you can help triage issues, check out our dedicated [tri
 [samples]: https://github.com/buildpacks/samples
 [samples-issues]: https://github.com/buildpacks/samples/issues
 [sub-teams]: https://github.com/buildpacks/community/blob/contributors-guide/GOVERNANCE.md#sub-teams
-[tekton]: https://github.com/tektoncd/catalog/tree/v1beta1/buildpacks
+[tekton-integration]: https://github.com/buildpacks/tekton-integration
 [triage]: triage.md
 [working-group]: ../#working-groups
