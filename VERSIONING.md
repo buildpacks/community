@@ -24,4 +24,4 @@ We aim to release the core implementations of the project at a time-based cadenc
 
 - __Pack__: Pack is released via Github releases and its versions follow semver conventions.
 - __Lifecycle__: Pack is released via Github releases and its versions follow semver conventions.
-- __libbuildpack__: libbuildpack is released via Github releases and its versions follow semver conventions.
+- __libcnb__: libcnb is released via Github releases and its versions follow semver conventions.
