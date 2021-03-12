@@ -39,7 +39,7 @@
 
 ### Project Contributors
 
-[@Brahyt][@Brahyt]
+[@AswinTimalsina][@AswinTimalsina], [@Brahyt][@Brahyt]
 
 ## Learning Team
 
@@ -51,8 +51,10 @@
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@dwillist][@dwillist], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@dwillist][@dwillist], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@yaelharel]
+[@yaelharel], [@zmackie][@zmackie]
 
+[@AswinTimalsina]: https://github.com/AswinTimalsina
 [@ameyer-pivotal]: https://github.com/ameyer-pivotal
 [@ashwin-venkatesh]: https://github.com/ashwin-venkatesh
 [@Brahyt]: https://github.com/Brahyt
