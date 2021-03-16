@@ -3,6 +3,15 @@
 The Cloud Native Buildpacks project is rallying around the theme *Sustainable Growth* in 2021. 
 Our roadmap will emphasize projects that help grow our community, contributors, and adopters. 
 We'll prioritize projects that make Buildpacks more accessible to a wider audience and we'll try to solve problems that have prevented some users from adopting Buildpacks.
+### Documentation Rework
+- ** Outcomes**:
+  - Revisit our documentation so it's easier to find the content needed, includes a reference section, and backfill missing topics.
+- ** Personass**:
+  - Application Developers
+  - Buildpack Authors
+  - Platform Authors
+  - Contributors
+- **Status**: Not started
 
 ### Test API
 - **Outcomes**: 
