@@ -4,9 +4,9 @@ The Cloud Native Buildpacks project is rallying around the theme *Sustainable Gr
 Our roadmap will emphasize projects that help grow our community, contributors, and adopters. 
 We'll prioritize projects that make Buildpacks more accessible to a wider audience and we'll try to solve problems that have prevented some users from adopting Buildpacks.
 ### Documentation Rework
-- ** Outcomes**:
+- **Outcomes**:
   - Revisit our documentation so it's easier to find the content needed, includes a reference section, and backfill missing topics.
-- ** Personass**:
+- **Personas**:
   - Application Developers
   - Buildpack Authors
   - Platform Authors
