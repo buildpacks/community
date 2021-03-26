@@ -39,14 +39,14 @@ Contributors are those who make regular contributions to the project (documentat
 The Implementation team is responsible for maintaining the components that constitute the Cloud Native Buildpacks reference implementation of the specification. This includes:
 
 * [lifecycle](https://github.com/buildpacks/lifecycle)
-* [libbuildpack](https://github.com/buildpacks/libbuildpack)
+* [libcnb](https://github.com/buildpacks/libcnb)
 * [imgutil](https://github.com/buildpacks/imgutil)
 
 ### [Platform Team](TEAMS.md#Platform-Team)
 The Platform team is responsible for maintaining pack and any other platforms or platform components. This includes:
 
 * [pack](https://github.com/buildpacks/pack)
-* [Tekton Template](https://github.com/tektoncd/catalog/tree/master/buildpacks)
+* [Tekton Template](https://github.com/tektoncd/catalog/tree/main/task/buildpacks)
 * [CircleCI Pack Orb](https://github.com/buildpacks/pack-orb)
 
 ### [Distribution Team](TEAMS.md#Distribution-Team)
