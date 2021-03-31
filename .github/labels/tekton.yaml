@@ -1,0 +1,9 @@
+- color: "6ae2b1"
+  name: task/buildpacks
+  description: "Issues/PRs related to the 'buildpacks' task."
+- color: "6ae2b1"
+  name: task/buildpacks-phases
+  description: "Issues/PRs related to the 'buildpacks-phases' task."
+- color: "6ae2b1"
+  name: pipelines/buildpacks
+  description: "Issues/PRs related to the 'buildpacks' pipeline."

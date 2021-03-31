@@ -19,6 +19,7 @@ jobs:
           cat .github/labels/type.yaml >> ${{ github.job }}.yaml
           cat .github/labels/status.yaml >> ${{ github.job }}.yaml
           cat .github/labels/k8s-platforms.yaml >> ${{ github.job }}.yaml
+          cat .github/labels/tekton.yaml >> ${{ github.job }}.yaml
           echo "> Created config:"
           cat ${{ github.job }}.yaml
       - uses: micnncim/action-label-syncer@v1
