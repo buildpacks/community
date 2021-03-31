@@ -1,0 +1,21 @@
+- color: "affff0"
+  name: roadmap/docs-rework
+  description: "Issues/PRs that revisit our documentation so it's easier to find the content needed, includes a reference section, and backfill missing topics."
+- color: "affff0"
+  name: roadmap/test-api
+  description: "Issues/PRs that define an API for setting up and running tests in a buildpacks-based environment."
+- color: "affff0"
+  name: roadmap/spec-refactor
+  description: "Issues/PRs that assist restructured specification for Cloud Native Buildpacks that is more approachable, and easier to ammend."
+- color: "affff0"
+  name: roadmap/configurability
+  description: "Issues/PRs that make the build process more flexible from an app developer perspective."
+- color: "affff0"
+  name: roadmap/stack-buildpacks
+  description: "Issues/PRs that add support platform authors and stack authors to allow stacks to be customized."
+- color: "affff0"
+  name: roadmap/develop-api
+  description: "Issues/PRs that define an API for inner-loop development iterations in a buildpacks-based environment."
+- color: "affff0"
+  name: roadmap/cloud-ecosystem
+  description: "Issues/PRs that provide a better out-of-the box Kubernetes and Docker integration story."
