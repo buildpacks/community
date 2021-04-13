@@ -33,8 +33,18 @@ jobs:
     strategy:
       matrix:
         repo:
+          - buildpacks/community
           - buildpacks/docs
+          - buildpacks/github-actions
+          - buildpacks/imgutil
+          - buildpacks/katacoda-scenarios
+          - buildpacks/lifecycle
           - buildpacks/pack
+          - buildpacks/registry-api
+          - buildpacks/rfcs
+          - buildpacks/samples
+          - buildpacks/spec
+          - buildpacks/tekton-integration
     steps:
       - uses: actions/checkout@v2
       - name:
