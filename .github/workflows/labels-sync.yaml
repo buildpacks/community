@@ -12,8 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name:
-        run: |
+      - run: |
           echo "> Creating config (${{ github.job }}.yaml)..."
           cat .github/labels/common.yaml >> ${{ github.job }}.yaml
           cat .github/labels/type.yaml >> ${{ github.job }}.yaml
@@ -40,6 +39,7 @@ jobs:
           - buildpacks/katacoda-scenarios
           - buildpacks/lifecycle
           - buildpacks/pack
+          - buildpacks/pack-orb
           - buildpacks/registry-api
           - buildpacks/rfcs
           - buildpacks/samples
@@ -47,10 +47,57 @@ jobs:
           - buildpacks/tekton-integration
     steps:
       - uses: actions/checkout@v2
-      - name:
-        run: |
+      - run: |
           echo "> Creating config (${{ github.job }}.yaml)..."
           cat .github/labels/roadmap.yaml >> ${{ github.job }}.yaml
+          echo "> Created config:"
+          cat ${{ github.job }}.yaml
+      - uses: micnncim/action-label-syncer@v1
+        with:
+          manifest: ${{ github.job }}.yaml
+          repository: ${{ matrix.repo }}
+          token: ${{ secrets.LEARNING_GITHUB_TOKEN }}
+          prune: false # ! NOTE ! - default is true which deletes labels not in manifest
+  types:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        repo:
+          - buildpacks/docs
+          - buildpacks/katacoda-scenarios
+          - buildpacks/pack
+          - buildpacks/pack-orb
+          - buildpacks/samples
+          - buildpacks/tekton-integration
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          echo "> Creating config (${{ github.job }}.yaml)..."
+          cat .github/labels/type.yaml >> ${{ github.job }}.yaml
+          echo "> Created config:"
+          cat ${{ github.job }}.yaml
+      - uses: micnncim/action-label-syncer@v1
+        with:
+          manifest: ${{ github.job }}.yaml
+          repository: ${{ matrix.repo }}
+          token: ${{ secrets.LEARNING_GITHUB_TOKEN }}
+          prune: false # ! NOTE ! - default is true which deletes labels not in manifest
+  status:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        repo:
+          - buildpacks/docs
+          - buildpacks/katacoda-scenarios
+          - buildpacks/pack
+          - buildpacks/pack-orb
+          - buildpacks/samples
+          - buildpacks/tekton-integration
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          echo "> Creating config (${{ github.job }}.yaml)..."
+          cat .github/labels/status.yaml >> ${{ github.job }}.yaml
           echo "> Created config:"
           cat ${{ github.job }}.yaml
       - uses: micnncim/action-label-syncer@v1
