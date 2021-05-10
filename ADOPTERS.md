@@ -20,7 +20,6 @@ Below is a list of projects that have publicly adopted CNB.
 * [kpack](https://tanzu.vmware.com/content/blog/introducing-kpack-a-kubernetes-native-container-build-service)
 * [Instana](https://github.com/instana/instana-buildpacks)
 * [Paketo Buildpacks](https://paketo.io)
-* [Project `riff`](https://projectriff.io/blog/2018/11/19/announcing-riff-0-2-0)
 * [Salesforce Functions](https://developer.salesforce.com/blogs/2019/11/introducing-salesforce-evergreen.html)
 * [Spring Boot](https://spring.io/blog/2020/01/23/spring-boot-2-3-0-m1-is-now-available)
 * [VMware Tanzu Build Service](https://tanzu.vmware.com/build-service)
