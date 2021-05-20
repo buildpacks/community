@@ -47,11 +47,11 @@
 
 ### Maintainers
 
-[@jkutner][@jkutner], [@jromero][@jromero]
+[@jkutner][@jkutner], [@jromero][@jromero], [@samj1912][@samj1912]
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@dwillist][@dwillist], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@yaelharel]
+[@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@dwillist][@dwillist], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@yaelharel]
 [@yaelharel], [@zmackie][@zmackie]
 
 [@AswinTimalsina]: https://github.com/AswinTimalsina
