@@ -39,7 +39,6 @@ Contributors are those who make regular contributions to the project (documentat
 The Implementation team is responsible for maintaining the components that constitute the Cloud Native Buildpacks reference implementation of the specification. This includes:
 
 * [lifecycle](https://github.com/buildpacks/lifecycle)
-* [libcnb](https://github.com/buildpacks/libcnb)
 * [imgutil](https://github.com/buildpacks/imgutil)
 
 ### [Platform Team](TEAMS.md#Platform-Team)
@@ -63,6 +62,11 @@ The Learning team is responsible for maintaining the project’s documentation, 
 * [docs](https://github.com/buildpacks/docs)
 * [resources](https://github.com/buildpacks/resources)
 * [samples](https://github.com/buildpacks/samples)
+
+### [Buildpack Authors' Tooling Team](TEAMS.md#Buildpack-Authors-Tooling-Team)
+The Buildpack Authors' Tooling team is responsible for helping buildpack authors create buildpacks. This includes:
+
+* [libcnb](https://github.com/buildpacks/libcnb)
 
 ## Emeritus Team
 Serving as a member of an open source project requires a huge amount of work that cannot be sustained indefinitely. The emeritus team includes members of the project to whom we will always be grateful, but who no longer actively participate in the project.
