@@ -53,6 +53,18 @@
 
 [@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@dwillist][@dwillist], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
 
+## Buildpack Authors' Tooling Team
+
+> The Buildpack Authors' Tooling team is responsible for helping buildpack authors create buildpacks. See [RFC 0089](https://github.com/buildpacks/rfcs/blob/main/text/0089-buildpack-authors-tooling-subteam.md) for more details.
+
+### Maintainers
+
+[@hone][@hone], [@ekcasey][@ekcasey]
+
+### Project Contributors
+
+[@samj1912][@samj1912]
+
 [@AswinTimalsina]: https://github.com/AswinTimalsina
 [@ameyer-pivotal]: https://github.com/ameyer-pivotal
 [@ashwin-venkatesh]: https://github.com/ashwin-venkatesh

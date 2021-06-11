@@ -90,6 +90,7 @@ These meetings occur weekly.
 - Learning - Tuesdays at 10:00am EST/EDT (14:00 UTC)
 - Platform - Wednesdays at 11:30am EST/EDT (15:30 UTC)
 - Implementation - Thursdays at 11:30am EST/EDT (15:30 UTC)
+- Buildpack Authors' Tooling - TBD
 
 #### Meeting Info
 
