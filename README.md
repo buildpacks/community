@@ -23,7 +23,7 @@ Interested in joining the community of contributors? Learn about how _you_ can j
 
 Working group meetings are a great place to more directly communicate with other members of the community. They tend to discuss active [RFCs](https://github.com/buildpacks/rfcs) and relay general project information.
 
-These meetings occur weekly on Wednesdays at 3pm EST/EDT (19:00 UTC)
+These meetings occur weekly on Thursdays at 10am EST/EDT (14:00 UTC)
 
 #### Meeting Info
 
