@@ -45,6 +45,17 @@ Phone (one-tap):
 Phone (international):
 - https://VMware.zoom.us/u/asnmqyfmb
 
+#### Agenda
+
+A typical meeting might have the following agenda:
+
+10:00 - 10:15 - introductions, release updates, housekeeping
+10:15 - 10:30 - scheduled topic #1
+10:30 - 10:45 - scheduled topic #2
+10:45 - 11:00 - scheduled topic #3
+
+Topics should be added to the agenda in the public [Google Doc](https://docs.google.com/document/d/1CwixRknj3gAXbi-fTI1-chwtMfy6G3GhdH17aEUjhK0/edit) the day prior to the meeting.
+
 #### Meeting Notes
 
 - Meeting minutes are logged on a public [Google Doc](https://docs.google.com/document/d/1sq5TpJO-m8aTzgbAiVlS1QdNovne-3ku9FxxC2S_Zs4).
