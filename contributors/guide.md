@@ -133,4 +133,4 @@ To learn more about how you can help triage issues, check out our dedicated [tri
 [sub-teams]: https://github.com/buildpacks/community/blob/contributors-guide/GOVERNANCE.md#sub-teams
 [tekton-integration]: https://github.com/buildpacks/tekton-integration
 [triage]: triage.md
-[working-group]: ../#working-groups
+[working-group]: ../README.md#working-group
