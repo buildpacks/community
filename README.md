@@ -53,7 +53,7 @@ The purpose of this meeting is to sync across the various sub-teams. They tend t
   * Date/Time: [Biweekly](https://buildpacks.io/community/#calendar)
       | Slot | Week A | Week B
       |---   |---     |---
-      | Wednesday 11:30am ET (15:30 UTC) |	Platform |	Implementation
+      | Wednesday 11:30am ET (15:30 UTC) |	Implementation |	Platform
       | Friday 10:00am ET (14:00 UTC) |	Learning |	Buildpack Authors
   * Location: [Zoom](https://vmware.zoom.us/j/91707269913?pwd=bnl1V1JRWWZrSllqaE5rWWp1UHNZdz09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
