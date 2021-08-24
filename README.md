@@ -5,12 +5,15 @@ Welcome to the CNB community! We're happy to have you.
 This document is an entry-point for joining and contributing to the CNB community, be it through improving documentation, code, etc. To promote a welcoming community, we ask that everyone adhere to our [Code of Conduct](https://github.com/buildpacks/.github/blob/master/CODE_OF_CONDUCT.md).
 
 ## Governance
+
 We make decisions as a group in a variety of public forums. Our governance practices are documented in [GOVERNANCE.md](GOVERNANCE.md).
 
 ## Roadmap
+
 Our roadmap, which discusses our current themes and priorities can be found at [ROADMAP.md](ROADMAP.md).
 
 ## Team
+
 The roster of the current team members can be found at [TEAMS.md](TEAMS.md).
 
 #### Contributor's Guide
@@ -23,29 +26,12 @@ Interested in joining the community of contributors? Learn about how _you_ can j
 
 Working group meetings are a great place to more directly communicate with other members of the community. They tend to discuss active [RFCs](https://github.com/buildpacks/rfcs) and relay general project information.
 
-These meetings occur weekly on Thursdays at 10am EST/EDT (14:00 UTC)
+##### Details
 
-#### Meeting Info
-
-The meeting may be joined via the following:
-
-Zoom:
-- https://VMware.zoom.us/j/95751108957?pwd=Vlg5dndyL1pYeUxPck1BL2ZSMjQ1UT09
-- Meeting ID: 957 5110 8957
-- Password: 868663
-
-Skype for Business:
-- https://VMware.zoom.us/skype/95751108957
-- Password: 868663
-
-Phone (one-tap):
-- US: +16699006833,,95751108957#,,#,,,868663#
-- +13462487799,,95751108957#,,#,,,868663#
-
-Phone (international):
-- https://VMware.zoom.us/u/asnmqyfmb
-
-#### Agenda
+  * Date/Time: [Thursdays at 10am ET (14:00 UTC)](https://buildpacks.io/community/#calendar)
+  * Location: [Zoom](https://VMware.zoom.us/j/95751108957?pwd=Vlg5dndyL1pYeUxPck1BL2ZSMjQ1UT09)
+  * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1sq5TpJO-m8aTzgbAiVlS1QdNovne-3ku9FxxC2S_Zs4/edit)
+  * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRpDbbgZ0db0MRA-W5_w0G1U)
 
 A typical meeting might have the following agenda:
 
@@ -56,72 +42,38 @@ A typical meeting might have the following agenda:
 
 Topics should be added to the agenda in the public [Google Doc](https://docs.google.com/document/d/1CwixRknj3gAXbi-fTI1-chwtMfy6G3GhdH17aEUjhK0/edit) the day prior to the meeting. The list of topics will be finalized by the meeting organizers. If any scheduled topics are covered in less than the allotted time, additional topics may be covered. 
 
-#### Meeting Notes
-
-- Meeting minutes are logged on a public [Google Doc](https://docs.google.com/document/d/1sq5TpJO-m8aTzgbAiVlS1QdNovne-3ku9FxxC2S_Zs4).
-- The meeting is recorded and posted to YouTube on the [Cloud Native Buildpacks Channel](https://www.youtube.com/channel/UCzrRfXB0rQJUVpt-Q45PcuA).
-
 ### Office Hours
 
 The purpose of this meeting is to provide in depth support and guidance to the community.
 
-These meetings occur weekly on Thursdays at 2pm EST/EDT (18:00 UTC)
+##### Details
 
-#### Meeting Info
-
-The meeting may be joined via the following:
-
-Zoom:
-- https://VMware.zoom.us/j/95751108957?pwd=Vlg5dndyL1pYeUxPck1BL2ZSMjQ1UT09
-- Meeting ID: 957 5110 8957
-- Password: 868663
-
-Skype for Business:
-- https://VMware.zoom.us/skype/95751108957
-- Password: 868663
-
-Phone (one-tap):
-- US: +16699006833,,95751108957#,,#,,,868663#
-- +13462487799,,95751108957#,,#,,,868663#
-
-Phone (international):
-- https://VMware.zoom.us/u/asnmqyfmb
-
-#### Meeting Notes
-
-- Meeting minutes are logged on a public [Google Doc](https://docs.google.com/document/d/1CwixRknj3gAXbi-fTI1-chwtMfy6G3GhdH17aEUjhK0/edit).
-- The meeting is recorded and posted to YouTube on the [Cloud Native Buildpacks Channel](https://www.youtube.com/channel/UCzrRfXB0rQJUVpt-Q45PcuA).
+  * Date/Time: [Thursdays at 2pm ET (18:00 UTC)](https://buildpacks.io/community/#calendar)
+  * Location: [Zoom](https://VMware.zoom.us/j/95751108957?pwd=Vlg5dndyL1pYeUxPck1BL2ZSMjQ1UT09)
+  * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1CwixRknj3gAXbi-fTI1-chwtMfy6G3GhdH17aEUjhK0/edit)
+  * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRqnn4R_eOoDxVve2HzY8o0n)
 
 ### Sub-Team Sync
 
 The purpose of this meeting is to sync across the various sub-teams. They tend to be more technical in nature and go into the "weeds" of on going work.
 
-These meetings occur weekly.
+##### Details
 
-- Learning - Tuesdays at 10:00am EST/EDT (14:00 UTC)
-- Platform - Wednesdays at 11:30am EST/EDT (15:30 UTC)
-- Implementation - Thursdays at 11:30am EST/EDT (15:30 UTC)
-- Buildpack Authors' Tooling - Friday at 10:00am EST/EDT (14:00 UTC)
+  * Date/Time: [Biweekly](https://buildpacks.io/community/#calendar)
+      | Slot | Week A | Week B
+      |---   |---     |---
+      | Wednesday 11:30am ET (15:30 UTC) |	Implementation |	Platform
+      | Wednesday 02:00pm ET (18:00 UTC) |  Core |  Core
+      | Friday 10:00am ET (14:00 UTC) |	Learning |	Buildpack Authors
+  * Location: [Zoom](https://vmware.zoom.us/j/91707269913?pwd=bnl1V1JRWWZrSllqaE5rWWp1UHNZdz09)
+  * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
+  * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
 
-#### Meeting Info
+### Non-recurring
 
-Zoom:
-- https://vmware.zoom.us/j/91707269913?pwd=bnl1V1JRWWZrSllqaE5rWWp1UHNZdz09
-- Meeting ID: 917 0726 9913
-- Password: 870468 
+The CNB community occasionally holds non-recurring meetings to dive deep into certain topics. Meeting minutes can be found below:
 
-Skype for Business:
-- https://vmware.zoom.us/skype/91707269913
-- Password: 870468
-
-Phone (one-tap):
-- US: +13462487799,,91707269913#,,#,,,870468#
-- +16699006833,,91707269913#,,#,,,870468#
-
-#### Meeting Notes
-
-- Meeting minutes are logged on a public [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit).
-- The meeting is recorded and posted to YouTube on the [Cloud Native Buildpacks Channel](https://www.youtube.com/channel/UCzrRfXB0rQJUVpt-Q45PcuA).
+  * CNB Leadership Summit 2021: [Google Doc](https://docs.google.com/document/d/1FfCKoJoW8uQUTpALYwpr9PsdNBgRZLwxD3sTilcZznM/edit#)
 
 ## Versioning
 We version the various components of our project following a schema described in [VERSIONING.md](VERSIONING.md).
