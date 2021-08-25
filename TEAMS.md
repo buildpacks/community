@@ -28,7 +28,8 @@
 
 ### Project Contributors 
 
-[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@importhuman][@importhuman], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+
 ## Distribution Team
 
 > The Distribution team is responsible for maintaining tools and services that support the distribution, discovery, and integration of buildpacks.
@@ -75,8 +76,9 @@
 [@dwillist]: https://github.com/dwillist
 [@ekcasey]: https://github.com/ekcasey
 [@elbandito]: https://github.com/elbandito
-[@jabrown85]: https://github.com/jabrown85
 [@hone]: https://github.com/hone
+[@importhuman]: https://github.com/importhuman
+[@jabrown85]: https://github.com/jabrown85
 [@jkutner]: https://github.com/jkutner
 [@jromero]: https://github.com/jromero
 [@matthewmcnew]: https://github.com/matthewmcnew
