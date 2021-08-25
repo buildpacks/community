@@ -33,6 +33,15 @@ Working group meetings are a great place to more directly communicate with other
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1sq5TpJO-m8aTzgbAiVlS1QdNovne-3ku9FxxC2S_Zs4/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRpDbbgZ0db0MRA-W5_w0G1U)
 
+A typical meeting might have the following agenda:
+
+10:00 - 10:15 - introductions, release updates, housekeeping
+10:15 - 10:30 - scheduled topic #1
+10:30 - 10:45 - scheduled topic #2
+10:45 - 11:00 - scheduled topic #3
+
+Topics should be added to the agenda in the public [Google Doc](https://docs.google.com/document/d/1CwixRknj3gAXbi-fTI1-chwtMfy6G3GhdH17aEUjhK0/edit) the day prior to the meeting. The list of topics will be finalized by the meeting organizers. If any scheduled topics are covered in less than the allotted time, additional topics may be covered. 
+
 ### Office Hours
 
 The purpose of this meeting is to provide in depth support and guidance to the community.
