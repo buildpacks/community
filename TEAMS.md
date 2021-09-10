@@ -64,7 +64,7 @@
 
 ### Project Contributors
 
-[@samj1912][@samj1912]
+[@dmikusa-pivotal][@dmikusa-pivotal], [@samj1912][@samj1912]
 
 [@AswinTimalsina]: https://github.com/AswinTimalsina
 [@ameyer-pivotal]: https://github.com/ameyer-pivotal
@@ -73,6 +73,7 @@
 [@danielleadams]: https://github.com/danielleadams
 [@dfreilich]: https://github.com/dfreilich
 [@dgageot]: https://github.com/dgageot
+[@dmikusa-pivotal]: https://github.com/dmikusa-pivotal
 [@dwillist]: https://github.com/dwillist
 [@ekcasey]: https://github.com/ekcasey
 [@elbandito]: https://github.com/elbandito
