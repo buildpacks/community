@@ -29,9 +29,10 @@ Working group meetings are a great place to more directly communicate with other
 ##### Details
 
   * Date/Time: [Thursdays at 10am ET (14:00 UTC)](https://buildpacks.io/community/#calendar)
-  * Location: [Zoom](https://VMware.zoom.us/j/95751108957?pwd=Vlg5dndyL1pYeUxPck1BL2ZSMjQ1UT09)
+  * Location: [Zoom](https://zoom.us/j/91289548697?pwd=SzNzaHdmVUVBZGhJM20weThIdGdkUT09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1sq5TpJO-m8aTzgbAiVlS1QdNovne-3ku9FxxC2S_Zs4/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRpDbbgZ0db0MRA-W5_w0G1U)
+  * Meeting Invite: [ICS](https://zoom.us/meeting/tJUvf-CtqjMsE9Ornnj3dKcT95Np7a6UOP5n/ics?icsToken=98tyKuCprDMjH9CdthCARowcAIqgXe_wiFxdj_pyjhHrCXNXSQDCb7dsIuV-Ru3_)
 
 A typical meeting might have the following agenda:
 
@@ -49,25 +50,64 @@ The purpose of this meeting is to provide in depth support and guidance to the c
 ##### Details
 
   * Date/Time: [Thursdays at 2pm ET (18:00 UTC)](https://buildpacks.io/community/#calendar)
-  * Location: [Zoom](https://VMware.zoom.us/j/95751108957?pwd=Vlg5dndyL1pYeUxPck1BL2ZSMjQ1UT09)
+  * Location: [Zoom](https://zoom.us/j/93521338058?pwd=eDl0R3IyenY5b2FzS2Nwa25taFNOQT09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1CwixRknj3gAXbi-fTI1-chwtMfy6G3GhdH17aEUjhK0/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRqnn4R_eOoDxVve2HzY8o0n)
+  * Meeting Invite: [ICS](https://zoom.us/meeting/tJcodeirrTMqH9yIgEiIeXqpsUaJAaBFr0Ra/ics?icsToken=98tyKuCrqzkrGdedsByPRowqGYjod-nztlxfgvpEtRjACglWWhLmJddDGJN-Mv7C)
 
 ### Sub-Team Sync
 
 The purpose of this meeting is to sync across the various sub-teams. They tend to be more technical in nature and go into the "weeds" of on going work.
 
+#### Core Team
+
 ##### Details
 
-  * Date/Time: [Biweekly](https://buildpacks.io/community/#calendar)
-      | Slot | Week A | Week B
-      |---   |---     |---
-      | Wednesday 11:30am ET (15:30 UTC) |	Implementation |	Platform
-      | Wednesday 02:00pm ET (18:00 UTC) |  Core |  Core
-      | Friday 10:00am ET (14:00 UTC) |	Learning |	Buildpack Authors
-  * Location: [Zoom](https://vmware.zoom.us/j/91707269913?pwd=bnl1V1JRWWZrSllqaE5rWWp1UHNZdz09)
+  * Date/Time: [Wednesday 02:00pm ET (18:00 UTC)](https://buildpacks.io/community/#calendar)
+  * Location: [Zoom](https://zoom.us/j/93521338058?pwd=eDl0R3IyenY5b2FzS2Nwa25taFNOQT09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
+  * Meeting Invite: [ICS](https://zoom.us/meeting/tJcodeirrTMqH9yIgEiIeXqpsUaJAaBFr0Ra/ics?icsToken=98tyKuCrqzkrGdedsByPRowqGYjod-nztlxfgvpEtRjACglWWhLmJddDGJN-Mv7C)
+
+#### Implementation Team
+
+##### Details
+
+  * Date/Time: [Alternate Wednesday 11:30am ET (15:30 UTC)](https://buildpacks.io/community/#calendar)
+  * Location: [Zoom](https://zoom.us/j/99307746440?pwd=ZEtUOUFmZEErKzUrY3F4c0tWKy9ZUT09)
+  * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
+  * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
+  * Meeting Invite: [ICS](https://zoom.us/meeting/tJ0ud-6vqj0uHtQaOq1o2F1P8ZIYi_nr3SC3/ics?icsToken=98tyKuChrTstHdCTtB2HRox5A4igKO3wiCFbgrdsnTD0Ui8BRFLGbthrC7tAHsqD)
+
+#### Platform Team
+
+##### Details
+
+  * Date/Time: [Alternate Wednesday 11:30am ET (15:30 UTC)](https://buildpacks.io/community/#calendar)
+  * Location: [Zoom](https://zoom.us/j/94226487108?pwd=UVFSTTdGZFdtQmtkeVVNTnlNbEViUT09)
+  * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
+  * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
+  * Meeting Invite: [ICS](https://zoom.us/meeting/tJAvde-spjwrGtymJnhMP31Nfi5kk-3IU7YK/ics?icsToken=98tyKuCsrDksHtySsRmPRowIAIjoM-jxiGZcjbdEkTXrCw1jMVLYMOsXObkyQ_Hl)
+
+#### Buildpack Authors' Tooling Team
+
+##### Details
+
+  * Date/Time: [Alternate Friday 10:00am ET (14:00 UTC)](https://buildpacks.io/community/#calendar)
+  * Location: [Zoom](https://zoom.us/j/95977276501?pwd=dDUrWmVLZEhlU3pLdUYwRGV1SDlBdz09)
+  * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
+  * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
+  * Meeting Invite: [ICS](https://zoom.us/meeting/tJEkcO6qqT0vGtXyxOM2KghHM-QiJZG-Suw7/ics?icsToken=98tyKuCtpzwtGNOTtRmGRowMHY_CKOrwtiFYjbdlhQfKLnJ4ZQveG69zO5hFN5Xj)
+
+#### Learning Team
+
+##### Details
+
+  * Date/Time: [Alternate Friday 10:00am ET (14:00 UTC)](https://buildpacks.io/community/#calendar)
+  * Location: [Zoom](https://zoom.us/j/92534193752?pwd=d3k0ejNwN2doNHFRSHpnNHZ6eHB3QT09)
+  * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
+  * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
+  * Meeting Invite: [ICS](https://zoom.us/meeting/tJYodO2ppzgtH9YWhIHqtWt4xUrIjIcX7N9s/ics?icsToken=98tyKuCqqzguG92WtxyFRowQGYjCLOvxmHZagvpkqxfMKzFHVReiLtdQG7hWE-CH)
 
 ### Non-recurring
 
