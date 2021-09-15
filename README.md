@@ -64,10 +64,10 @@ The purpose of this meeting is to sync across the various sub-teams. They tend t
 ##### Details
 
   * Date/Time: [Wednesday 02:00pm ET (18:00 UTC)](https://buildpacks.io/community/#calendar)
-  * Location: [Zoom](https://zoom.us/j/93521338058?pwd=eDl0R3IyenY5b2FzS2Nwa25taFNOQT09)
+  * Location: [Zoom](https://zoom.us/j/94897765769?pwd=ZUJWdTJnTEJuZ0hrV1MxZFN6MGR3Zz09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
-  * Meeting Invite: [ICS](https://zoom.us/meeting/tJcodeirrTMqH9yIgEiIeXqpsUaJAaBFr0Ra/ics?icsToken=98tyKuCrqzkrGdedsByPRowqGYjod-nztlxfgvpEtRjACglWWhLmJddDGJN-Mv7C)
+  * Meeting Invite: [ICS](https://zoom.us/meeting/tJAlfu6vqD4tHN2HxP8D5Dd85_QH6ReXw3cz/ics?icsToken=98tyKuCspjItHdKQtx-ORowIGor4KO3wpiVago0PtAfVWwQGRgeuY91zGuRNFeDH)
 
 #### Implementation Team
 
