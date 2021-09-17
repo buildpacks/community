@@ -32,7 +32,7 @@ Working group meetings are a great place to more directly communicate with other
   * Location: [Zoom](https://zoom.us/j/91289548697?pwd=SzNzaHdmVUVBZGhJM20weThIdGdkUT09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1sq5TpJO-m8aTzgbAiVlS1QdNovne-3ku9FxxC2S_Zs4/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRpDbbgZ0db0MRA-W5_w0G1U)
-  * Meeting Invite: [ICS](https://zoom.us/meeting/tJUvf-CtqjMsE9Ornnj3dKcT95Np7a6UOP5n/ics?icsToken=98tyKuCprDMjH9CdthCARowcAIqgXe_wiFxdj_pyjhHrCXNXSQDCb7dsIuV-Ru3_)
+  * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9046534.ics)
 
 A typical meeting might have the following agenda:
 
@@ -53,7 +53,7 @@ The purpose of this meeting is to provide in depth support and guidance to the c
   * Location: [Zoom](https://zoom.us/j/93521338058?pwd=eDl0R3IyenY5b2FzS2Nwa25taFNOQT09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1CwixRknj3gAXbi-fTI1-chwtMfy6G3GhdH17aEUjhK0/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRqnn4R_eOoDxVve2HzY8o0n)
-  * Meeting Invite: [ICS](https://zoom.us/meeting/tJcodeirrTMqH9yIgEiIeXqpsUaJAaBFr0Ra/ics?icsToken=98tyKuCrqzkrGdedsByPRowqGYjod-nztlxfgvpEtRjACglWWhLmJddDGJN-Mv7C)
+  * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9330130.ics)
 
 ### Sub-Team Sync
 
@@ -67,7 +67,7 @@ The purpose of this meeting is to sync across the various sub-teams. They tend t
   * Location: [Zoom](https://zoom.us/j/94897765769?pwd=ZUJWdTJnTEJuZ0hrV1MxZFN6MGR3Zz09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
-  * Meeting Invite: [ICS](https://zoom.us/meeting/tJAlfu6vqD4tHN2HxP8D5Dd85_QH6ReXw3cz/ics?icsToken=98tyKuCspjItHdKQtx-ORowIGor4KO3wpiVago0PtAfVWwQGRgeuY91zGuRNFeDH)
+  * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9046533.ics)
 
 #### Implementation Team
 
@@ -77,7 +77,7 @@ The purpose of this meeting is to sync across the various sub-teams. They tend t
   * Location: [Zoom](https://zoom.us/j/99307746440?pwd=ZEtUOUFmZEErKzUrY3F4c0tWKy9ZUT09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
-  * Meeting Invite: [ICS](https://zoom.us/meeting/tJ0ud-6vqj0uHtQaOq1o2F1P8ZIYi_nr3SC3/ics?icsToken=98tyKuChrTstHdCTtB2HRox5A4igKO3wiCFbgrdsnTD0Ui8BRFLGbthrC7tAHsqD)
+  * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9046533.ics)
 
 #### Platform Team
 
@@ -87,7 +87,7 @@ The purpose of this meeting is to sync across the various sub-teams. They tend t
   * Location: [Zoom](https://zoom.us/j/94226487108?pwd=UVFSTTdGZFdtQmtkeVVNTnlNbEViUT09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
-  * Meeting Invite: [ICS](https://zoom.us/meeting/tJAvde-spjwrGtymJnhMP31Nfi5kk-3IU7YK/ics?icsToken=98tyKuCsrDksHtySsRmPRowIAIjoM-jxiGZcjbdEkTXrCw1jMVLYMOsXObkyQ_Hl)
+  * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9046533.ics)
 
 #### Buildpack Authors' Tooling Team
 
@@ -97,7 +97,7 @@ The purpose of this meeting is to sync across the various sub-teams. They tend t
   * Location: [Zoom](https://zoom.us/j/95977276501?pwd=dDUrWmVLZEhlU3pLdUYwRGV1SDlBdz09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
-  * Meeting Invite: [ICS](https://zoom.us/meeting/tJEkcO6qqT0vGtXyxOM2KghHM-QiJZG-Suw7/ics?icsToken=98tyKuCtpzwtGNOTtRmGRowMHY_CKOrwtiFYjbdlhQfKLnJ4ZQveG69zO5hFN5Xj)
+  * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9046533.ics)
 
 #### Learning Team
 
@@ -107,7 +107,7 @@ The purpose of this meeting is to sync across the various sub-teams. They tend t
   * Location: [Zoom](https://zoom.us/j/92534193752?pwd=d3k0ejNwN2doNHFRSHpnNHZ6eHB3QT09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
-  * Meeting Invite: [ICS](https://zoom.us/meeting/tJYodO2ppzgtH9YWhIHqtWt4xUrIjIcX7N9s/ics?icsToken=98tyKuCqqzguG92WtxyFRowQGYjCLOvxmHZagvpkqxfMKzFHVReiLtdQG7hWE-CH)
+  * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9046533.ics)
 
 ### Non-recurring
 
