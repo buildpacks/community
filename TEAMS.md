@@ -28,7 +28,8 @@
 
 ### Project Contributors 
 
-[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@importhuman][@importhuman], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+
 ## Distribution Team
 
 > The Distribution team is responsible for maintaining tools and services that support the distribution, discovery, and integration of buildpacks.
@@ -63,7 +64,7 @@
 
 ### Project Contributors
 
-[@samj1912][@samj1912]
+[@dmikusa-pivotal][@dmikusa-pivotal], [@samj1912][@samj1912]
 
 [@AswinTimalsina]: https://github.com/AswinTimalsina
 [@ameyer-pivotal]: https://github.com/ameyer-pivotal
@@ -72,11 +73,13 @@
 [@danielleadams]: https://github.com/danielleadams
 [@dfreilich]: https://github.com/dfreilich
 [@dgageot]: https://github.com/dgageot
+[@dmikusa-pivotal]: https://github.com/dmikusa-pivotal
 [@dwillist]: https://github.com/dwillist
 [@ekcasey]: https://github.com/ekcasey
 [@elbandito]: https://github.com/elbandito
-[@jabrown85]: https://github.com/jabrown85
 [@hone]: https://github.com/hone
+[@importhuman]: https://github.com/importhuman
+[@jabrown85]: https://github.com/jabrown85
 [@jkutner]: https://github.com/jkutner
 [@jromero]: https://github.com/jromero
 [@matthewmcnew]: https://github.com/matthewmcnew
