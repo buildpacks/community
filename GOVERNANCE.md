@@ -71,7 +71,13 @@ The Buildpack Authors' Tooling team is responsible for helping buildpack authors
 ## Emeritus Team
 Serving as a member of an open source project requires a huge amount of work that cannot be sustained indefinitely. The emeritus team includes members of the project to whom we will always be grateful, but who no longer actively participate in the project.
 
-Project members will graduate to the emeritus team with a supermajority vote from the core team, and after giving notice that they no longer intend to consistently participate in the project.
+Project members may graduate to the emeritus team through one of the following methods:
+
+* a supermajority vote from the core team
+* after giving notice that they no longer intend to consistently participate in the project
+* not being an active [contributor][contributions] for longer than 12 months
+
+[contributions]: https://github.com/buildpacks/community/blob/main/contributors/guide.md#contributions
 
 ## RFC Process
 Each major decision in Cloud Native Buildpacks starts as a Request for Comments (RFC). Everyone is invited to discuss the proposal, to work toward a shared understanding of the tradeoffs.
