@@ -71,11 +71,13 @@ The Buildpack Authors' Tooling team is responsible for helping buildpack authors
 ## Emeritus Team
 Serving as a member of an open source project requires a huge amount of work that cannot be sustained indefinitely. The emeritus team includes members of the project to whom we will always be grateful, but who no longer actively participate in the project.
 
-Project members may graduate to the emeritus team through one of the following methods:
+Project members may graduate to the emeritus team by a supermajority vote from the core team.
 
-* a supermajority vote from the core team
-* after giving notice that they no longer intend to consistently participate in the project
-* not being an active [contributor][contributions] for longer than 12 months
+Project members may be nominated for the emeritus team through one of the following methods:
+
+* Self-nomination by giving notice that they no longer intend to consistently participate in the project.
+* By maintainers, when members have not been [active contributors][contributions] for longer than 12 months.
+  * Out of courtesy, a notice for nomination should be given to members that fall under this category prior to being nominated.
 
 [contributions]: https://github.com/buildpacks/community/blob/main/contributors/guide.md#contributions
 
@@ -95,6 +97,7 @@ The Cloud Native Buildpacks Core Team is responsible for establishing a yearly r
 All substantive changes in Governance require a supermajority agreement by the Core Team.
 
 ---
+
 #### Foototes:
 
 ##### Supermajority:
