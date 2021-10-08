@@ -16,7 +16,11 @@
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@dgageot][@dgageot], [@elbandito][@elbandito], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@jjbustamante][@jjbustamante], [@matthewmcnew][@matthewmcnew], [@menehune23][@menehune23], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@yaelharel][@yaelharel]
+
+### Emeritus
+
+[@ashwin-venkatesh][@ashwin-venkatesh], [@dgageot][@dgageot], [@elbandito][@elbandito], [@simonjjones][@simonjjones], [@zmackie][@zmackie]
 
 ## Platform Team
 
@@ -80,9 +84,11 @@
 [@hone]: https://github.com/hone
 [@importhuman]: https://github.com/importhuman
 [@jabrown85]: https://github.com/jabrown85
+[@jjbustamante]: https://github.com/jjbustamante
 [@jkutner]: https://github.com/jkutner
 [@jromero]: https://github.com/jromero
 [@matthewmcnew]: https://github.com/matthewmcnew
+[@menehune23]: https://github.com/menehune23
 [@micahyoung]: https://github.com/micahyoung
 [@mritunjaysharma394]: https://github.com/mritunjaysharma394
 [@murphybytes]: https://github.com/murphybytes
