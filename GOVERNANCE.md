@@ -45,7 +45,7 @@ The Implementation team is responsible for maintaining the components that const
 The Platform team is responsible for maintaining pack and any other platforms or platform components. This includes:
 
 * [pack](https://github.com/buildpacks/pack)
-* [Tekton Template](https://github.com/tektoncd/catalog/tree/main/task/buildpacks)
+* [Tekton Tasks + Pipelines](https://github.com/buildpacks/tekton-integration)
 * [CircleCI Pack Orb](https://github.com/buildpacks/pack-orb)
 
 ### [Distribution Team](TEAMS.md#Distribution-Team)
