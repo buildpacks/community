@@ -64,11 +64,11 @@
 
 ### Maintainers
 
-[@hone][@hone], [@ekcasey][@ekcasey]
+[@hone][@hone], [@ekcasey][@ekcasey], [@samj1912][@samj1912]
 
 ### Project Contributors
 
-[@dmikusa-pivotal][@dmikusa-pivotal], [@samj1912][@samj1912]
+[@dmikusa-pivotal][@dmikusa-pivotal]
 
 [@AswinTimalsina]: https://github.com/AswinTimalsina
 [@ameyer-pivotal]: https://github.com/ameyer-pivotal
