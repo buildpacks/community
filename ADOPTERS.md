@@ -9,6 +9,7 @@ Below is a list of projects that have publicly adopted CNB.
 * [Bloomberg](https://www.techatbloomberg.com/)
 * [DigitalOcean App Platform](https://www.digitalocean.com/docs/app-platform/concepts/buildpack/)
 * [Dokku](http://dokku.viewdocs.io/dokku/deployment/methods/cloud-native-buildpacks/)
+* [Epinio](https://epinio.io/)
 * [FactSet](https://www.factset.com/)
 * [Fly.io](https://fly.io/blog/simpler-fly-deployments-nodejs-rails-golang-java/)
 * [GitLab Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/stages.html)
