@@ -33,7 +33,7 @@ Maintainers are in charge of the day to day maintenance of the team's projects. 
 New maintainers must already be contributors, must be nominated by an existing maintainer or core team member, and must be elected by a [supermajority](#supermajority) of the core team. Likewise, maintainers can be removed by a supermajority of the core team or can resign by notifying one of the maintainers.
 
 #### Contributors
-Contributors are those who make regular contributions to the project (documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.). New contributors may be self-nominated or be nominated by existing contributors, and must be elected by a supermajority of the project’s maintainers. Contributors may merge approved PRs.
+Contributors are those who make regular contributions to the project (documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.). New contributors may be self-nominated or be nominated by existing contributors, and must be elected by a supermajority of the sub team’s maintainers. Contributors may merge approved PRs.
 
 ### [Implementation Team](TEAMS.md#Implementation-Team)
 The Implementation team is responsible for maintaining the components that constitute the Cloud Native Buildpacks reference implementation of the specification. This includes:
