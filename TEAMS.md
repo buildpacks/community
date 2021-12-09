@@ -16,7 +16,7 @@
 
 ### Project Contributors
 
-[@jjbustamante][@jjbustamante], [@matthewmcnew][@matthewmcnew], [@menehune23][@menehune23], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@yaelharel][@yaelharel]
+[@aemengo][@aemengo], [@jjbustamante][@jjbustamante], [@matthewmcnew][@matthewmcnew], [@menehune23][@menehune23], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@yaelharel][@yaelharel]
 
 ### Emeritus
 
@@ -71,6 +71,7 @@
 [@dmikusa-pivotal][@dmikusa-pivotal]
 
 [@AswinTimalsina]: https://github.com/AswinTimalsina
+[@aemengo]: https://github.com/aemengo
 [@ameyer-pivotal]: https://github.com/ameyer-pivotal
 [@ashwin-venkatesh]: https://github.com/ashwin-venkatesh
 [@Brahyt]: https://github.com/Brahyt
