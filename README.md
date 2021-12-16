@@ -28,7 +28,7 @@ Working group meetings are a great place to more directly communicate with other
 
 ##### Details
 
-  * Date/Time: [Thursdays at 10am ET (14:00 UTC)](https://buildpacks.io/community/#calendar)
+  * Date/Time: [Thursdays at 10am ET (15:00 UTC)](https://buildpacks.io/community/#calendar)
   * Location: [Zoom](https://zoom.us/j/91289548697?pwd=SzNzaHdmVUVBZGhJM20weThIdGdkUT09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1sq5TpJO-m8aTzgbAiVlS1QdNovne-3ku9FxxC2S_Zs4/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRpDbbgZ0db0MRA-W5_w0G1U)
