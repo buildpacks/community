@@ -28,7 +28,7 @@ Working group meetings are a great place to more directly communicate with other
 
 ##### Details
 
-  * Date/Time: [Thursdays at 10am ET (14:00 UTC)](https://buildpacks.io/community/#calendar)
+  * Date/Time: [Thursdays at 10am ET](https://buildpacks.io/community/#calendar)
   * Location: [Zoom](https://zoom.us/j/91289548697?pwd=SzNzaHdmVUVBZGhJM20weThIdGdkUT09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1sq5TpJO-m8aTzgbAiVlS1QdNovne-3ku9FxxC2S_Zs4/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRpDbbgZ0db0MRA-W5_w0G1U)
@@ -49,7 +49,7 @@ The purpose of this meeting is to provide in depth support and guidance to the c
 
 ##### Details
 
-  * Date/Time: [Thursdays at 2pm ET (18:00 UTC)](https://buildpacks.io/community/#calendar)
+  * Date/Time: [Thursdays at 2pm ET](https://buildpacks.io/community/#calendar)
   * Location: [Zoom](https://zoom.us/j/93521338058?pwd=eDl0R3IyenY5b2FzS2Nwa25taFNOQT09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1CwixRknj3gAXbi-fTI1-chwtMfy6G3GhdH17aEUjhK0/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRqnn4R_eOoDxVve2HzY8o0n)
@@ -63,7 +63,7 @@ The purpose of this meeting is to sync across the various sub-teams. They tend t
 
 ##### Details
 
-  * Date/Time: [Wednesday 02:00pm ET (18:00 UTC)](https://buildpacks.io/community/#calendar)
+  * Date/Time: [Wednesday 02:00pm ET](https://buildpacks.io/community/#calendar)
   * Location: [Zoom](https://zoom.us/j/94897765769?pwd=ZUJWdTJnTEJuZ0hrV1MxZFN6MGR3Zz09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
@@ -73,7 +73,7 @@ The purpose of this meeting is to sync across the various sub-teams. They tend t
 
 ##### Details
 
-  * Date/Time: [Alternate Wednesday 11:30am ET (15:30 UTC)](https://buildpacks.io/community/#calendar)
+  * Date/Time: [Alternate Wednesday 11:30am ET](https://buildpacks.io/community/#calendar)
   * Location: [Zoom](https://zoom.us/j/99307746440?pwd=ZEtUOUFmZEErKzUrY3F4c0tWKy9ZUT09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
@@ -83,7 +83,7 @@ The purpose of this meeting is to sync across the various sub-teams. They tend t
 
 ##### Details
 
-  * Date/Time: [Alternate Wednesday 11:30am ET (15:30 UTC)](https://buildpacks.io/community/#calendar)
+  * Date/Time: [Alternate Wednesday 11:30am ET](https://buildpacks.io/community/#calendar)
   * Location: [Zoom](https://zoom.us/j/94226487108?pwd=UVFSTTdGZFdtQmtkeVVNTnlNbEViUT09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
@@ -93,7 +93,7 @@ The purpose of this meeting is to sync across the various sub-teams. They tend t
 
 ##### Details
 
-  * Date/Time: [Alternate Friday 10:00am ET (14:00 UTC)](https://buildpacks.io/community/#calendar)
+  * Date/Time: [Alternate Friday 10:00am ET](https://buildpacks.io/community/#calendar)
   * Location: [Zoom](https://zoom.us/j/95977276501?pwd=dDUrWmVLZEhlU3pLdUYwRGV1SDlBdz09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
@@ -103,7 +103,7 @@ The purpose of this meeting is to sync across the various sub-teams. They tend t
 
 ##### Details
 
-  * Date/Time: [Alternate Friday 10:00am ET (14:00 UTC)](https://buildpacks.io/community/#calendar)
+  * Date/Time: [Alternate Friday 10:00am ET](https://buildpacks.io/community/#calendar)
   * Location: [Zoom](https://zoom.us/j/92534193752?pwd=d3k0ejNwN2doNHFRSHpnNHZ6eHB3QT09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
