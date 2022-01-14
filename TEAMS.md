@@ -56,7 +56,7 @@
 
 ### Project Contributors
 
-[@AidanDelaney][@AidanDelaney] [@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@dwillist][@dwillist], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@AidanDelaney][@AidanDelaney], [@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@dwillist][@dwillist], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
 
 ## Buildpack Authors' Tooling Team
 
