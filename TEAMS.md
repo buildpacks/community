@@ -68,7 +68,7 @@
 
 ### Project Contributors
 
-[@dmikusa-pivotal][@dmikusa-pivotal]
+[@dmikusa-pivotal][@dmikusa-pivotal], [@ForestEckhardt][@ForestEckhardt]
 
 [@AidanDelaney]: https://github.com/AidanDelaney
 [@AswinTimalsina]: https://github.com/AswinTimalsina
@@ -83,6 +83,7 @@
 [@dwillist]: https://github.com/dwillist
 [@ekcasey]: https://github.com/ekcasey
 [@elbandito]: https://github.com/elbandito
+[@ForestEckhardt]: https://github.com/foresteckhardt
 [@hone]: https://github.com/hone
 [@importhuman]: https://github.com/importhuman
 [@jabrown85]: https://github.com/jabrown85
