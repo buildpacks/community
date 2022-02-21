@@ -44,7 +44,7 @@
 
 ### Project Contributors
 
-[@AswinTimalsina][@AswinTimalsina], [@Brahyt][@Brahyt], [@mritunjaysharma394][@mritunjaysharma394]
+[@AswinTimalsina][@AswinTimalsina], [@Brahyt][@Brahyt], [@joshwlewis][@joshwlewis], [@mritunjaysharma394][@mritunjaysharma394]
 
 ## Learning Team
 
@@ -89,6 +89,7 @@
 [@jabrown85]: https://github.com/jabrown85
 [@jjbustamante]: https://github.com/jjbustamante
 [@jkutner]: https://github.com/jkutner
+[@joshwlewis]: https://github.com/joshwlewis
 [@jromero]: https://github.com/jromero
 [@matthewmcnew]: https://github.com/matthewmcnew
 [@menehune23]: https://github.com/menehune23
