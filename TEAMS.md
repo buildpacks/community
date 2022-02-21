@@ -44,7 +44,7 @@
 
 ### Project Contributors
 
-[@AswinTimalsina][@AswinTimalsina], [@Brahyt][@Brahyt], [@mritunjaysharma394][@mritunjaysharma394], [@joshwlewis][@joshwlewis]
+[@AswinTimalsina][@AswinTimalsina], [@Brahyt][@Brahyt], [@joshwlewis][@joshwlewis], [@mritunjaysharma394][@mritunjaysharma394]
 
 ## Learning Team
 
