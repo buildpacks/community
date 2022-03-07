@@ -4,8 +4,8 @@ This table aims to provide insight into the role of a CNB Maintainer. The exampl
 
 | Theme                | What a maintainer does                                 | What that looks like                                                                                         |
 |----------------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| Code                 | Contribute code to the lifecycle and imgutil           | Contribute a "major" feature                                                                                 |
-| Code                 | Review PRs to the lifecycle and imgutil                | Be a shepherd of quality; provide feedback on architecture                                                   |
+| Code                 | Contribute a "major" feature | Contribute code to the lifecycle and imgutil                                                                                            |
+| Code                 | Be a shepherd of quality; provide feedback on architecture | Review PRs to the lifecycle and imgutil                                                 |
 | Support              | Respond to community inquiries                         | Answer relevant questions in CNCF Slack (#buildpacks and #buildpacks-implementation); reply to GitHub issues |
 | Community            | CNB outreach                                           | Do a presentation about CNB or write a blog post; spotlight community contributions                          |
 | Community            | Identify / mentor new contributors                     | May include programs such as Google Summer of Code or LFX Mentorship                                         |
@@ -17,5 +17,5 @@ This table aims to provide insight into the role of a CNB Maintainer. The exampl
 | Planning             | Release planning                                       | Pull issues into the appropriate milestone; take action as necessary to unblock issues                       |
 | Planning             | Release management                                     | Validate release candidate; draft release notes; "push the button"                                           |
 | Maintainer           | Attend leadership meetings                             |                                                                                                              |
-| Maintainer           | Merge PRs to the lifecycle and imgutil                 |                                                                                                              |
+| Maintainer           | Merge PRs to the team-maintained repositories                 |                                                                                                              |
 | Maintainer           | [Merge RFCs](https://github.com/buildpacks/rfcs#merge) |                                                                                                              |
