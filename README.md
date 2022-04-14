@@ -57,7 +57,7 @@ The purpose of this meeting is to provide in depth support and guidance to the c
 
 ### Team Sync
 
-The purpose of this meeting is to sync across the various sub-teams. They tend to be more technical in nature and go into the "weeds" of on going work.
+The purpose of this meeting is to sync across the various teams. They tend to be more technical in nature and go into the "weeds" of on going work.
 
 #### Team Leads
 
