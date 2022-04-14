@@ -18,7 +18,7 @@ The roster of the current team members can be found at [TEAMS.md](TEAMS.md).
 
 #### Contributor's Guide
 
-Interested in joining the community of contributors? Learn about how _you_ can join the team by reading our [contributor's guide](contributors/guide.md). 
+Interested in joining the community of contributors? Learn about how _you_ can join the team by reading our [contributor's guide](contributors/guide.md).
 
 ## Meetings
 
@@ -41,7 +41,7 @@ A typical meeting might have the following agenda:
 10:30 - 10:45 - scheduled topic #2
 10:45 - 11:00 - scheduled topic #3
 
-Topics should be added to the agenda in the public [Google Doc](https://docs.google.com/document/d/1CwixRknj3gAXbi-fTI1-chwtMfy6G3GhdH17aEUjhK0/edit) the day prior to the meeting. The list of topics will be finalized by the meeting organizers. If any scheduled topics are covered in less than the allotted time, additional topics may be covered. 
+Topics should be added to the agenda in the public [Google Doc](https://docs.google.com/document/d/1CwixRknj3gAXbi-fTI1-chwtMfy6G3GhdH17aEUjhK0/edit) the day prior to the meeting. The list of topics will be finalized by the meeting organizers. If any scheduled topics are covered in less than the allotted time, additional topics may be covered.
 
 ### Office Hours
 
@@ -55,11 +55,11 @@ The purpose of this meeting is to provide in depth support and guidance to the c
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRqnn4R_eOoDxVve2HzY8o0n)
   * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9330130.ics)
 
-### Sub-Team Sync
+### Team Sync
 
 The purpose of this meeting is to sync across the various sub-teams. They tend to be more technical in nature and go into the "weeds" of on going work.
 
-#### Core Team
+#### Team Leads
 
 ##### Details
 

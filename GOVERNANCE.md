@@ -1,5 +1,5 @@
 # Cloud Native Buildpacks Governance
-This document defines the governance structure for Cloud Native Buildpacks. This project is committed to building an open, inclusive, productive and self-governing open source community that maintains a specification and high-quality tools for translating source code into OCI images. The guidelines herein describe how the Cloud Native Buildpacks community should work together to achieve this goal.
+This document defines the governance structure for Cloud Native Buildpacks. This project is committed to building an open, inclusive, productive and self-governing open source community that maintains a specification and high-quality tools for translating source code into OCI images. The guidelines herein describe how the Cloud Native Buildpacks (CNB) community should work together to achieve this goal.
 
 ## Repositories
 The following code repositories are governed by the Cloud Native Buildpacks community and maintained under the [buildpacks](https://github.com/buildpacks) organization.
@@ -13,27 +13,42 @@ The following code repositories are governed by the Cloud Native Buildpacks comm
 * [resources](https://github.com/buildpacks/resources)
 * [community](https://github.com/buildpacks/community)
 * [samples](https://github.com/buildpacks/samples)
+* [github-actions](https://github.com/buildpacks/github-actions)
+* [registry-api](https://github.com/buildpacks/registry-api)
 
-## [Core Team](TEAMS.md#Core-Team)
-The Core team is responsible for the direction of the project (roadmap), subteam leadership, the spec, and cross-cutting concerns. This includes:
+## [Technical Oversight Committee](TEAMS.md#Technical-Oversight-Committee)
 
-* [spec](https://github.com/buildpacks/spec)
-* [rfcs](https://github.com/buildpacks/rfcs)
+The CNB Technical Oversight Committee (TOC) is modeled on the [CNCF TOC](https://github.com/cncf/toc) as a technical governing body. It oversees all aspects of the project and has a mandate to drive consensus for:
 
-Core team members are responsible for voting on RFCs, specification updates, and other changes to the project such as changes in leadership or community roles. A simple majority is required in each case. No company will have a combined voting block of larger than 50%.
+* Defining and maintaining the technical vision for the CNB project
+* Defining the governance structure and teams of the CNB project
+* Appointing Team Leads for each CNB Team
+* Creating new teams, or removing existing teams
+* Casting binding votes on RFCs
+* Defining the annual roadmap
+* Anything else that falls through the cracks
 
-## Sub-teams
-Sub-teams are responsible for narrower sets of concerns related to specific aspects of the project. Each sub-team will include at least one core team member to help align with the broader roadmap.
+## Teams
+CNB Teams are responsible for narrower sets of concerns related to specific aspects of the project.
 
 ### Roles
+
+#### Team Leads
+
+Each team has a Team Lead. The Team Lead is a maintainer who is appointed by the TOC to be responsible for:
+
+* Casting binding votes on RFCs owned by their team
+* Moving an RFC to a status of "voting"
+* Assigning an end-date for voting on their team’s RFCs
+* Delegating another maintainer from the same Team to temporarily fulfill these responsibilities
 
 #### Maintainers
 Maintainers are in charge of the day to day maintenance of the team's projects. They review, approve, and merge PRs, ensuring contributions align with project goals and meet the project's quality standards.
 
-New maintainers must already be contributors, must be nominated by an existing maintainer or core team member, and must be elected by a [supermajority](#supermajority) of the core team. Likewise, maintainers can be removed by a supermajority of the core team or can resign by notifying one of the maintainers.
+New maintainers must already be contributors, must be nominated by an existing maintainer, and must be elected by a [supermajority](#supermajority) of CNB Team Leads. Likewise, maintainers can be removed by a supermajority of Team Leads or can resign by notifying one of the maintainers.
 
 #### Contributors
-Contributors are those who make regular contributions to the project (documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.). New contributors may be self-nominated or be nominated by existing contributors, and must be elected by a supermajority of the sub team’s maintainers. Contributors may merge approved PRs.
+Contributors are those who make regular contributions to the project (documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.). New contributors may be self-nominated or be nominated by existing contributors, and must be elected by a supermajority of the team’s maintainers. Contributors may merge approved PRs.
 
 ### [Implementation Team](TEAMS.md#Implementation-Team)
 The Implementation team is responsible for maintaining the components that constitute the Cloud Native Buildpacks reference implementation of the specification. This includes:
@@ -68,10 +83,10 @@ The Buildpack Authors' Tooling team is responsible for helping buildpack authors
 
 * [libcnb](https://github.com/buildpacks/libcnb)
 
-## Emeritus Team
+### Emeritus Team
 Serving as a member of an open source project requires a huge amount of work that cannot be sustained indefinitely. The emeritus team includes members of the project to whom we will always be grateful, but who no longer actively participate in the project.
 
-Project members may graduate to the emeritus team by a supermajority vote from the core team.
+Project members may graduate to the emeritus team by a supermajority vote from Team Leads.
 
 Project members may be nominated for the emeritus team through one of the following methods:
 
@@ -80,6 +95,15 @@ Project members may be nominated for the emeritus team through one of the follow
   * Out of courtesy, a notice for nomination should be given to members that fall under this category prior to being nominated.
 
 [contributions]: https://github.com/buildpacks/community/blob/main/contributors/guide.md#contributions
+
+## Voting Rules
+
+All voting in the CNB project will adhere to a [lazy consensus](https://openoffice.apache.org/docs/governance/lazyConsensus.html) model. In order for an RFC, proposal, or other motion to pass, the following must hold true:
+
+* There are no votes against the motion
+* There is at least one vote in favor of the motion
+
+The absence of a vote from a party with a binding vote in the process is considered to be a vote in the affirmative. Non-binding votes are welcomed and encouraged.
 
 ## RFC Process
 Each major decision in Cloud Native Buildpacks starts as a Request for Comments (RFC). Everyone is invited to discuss the proposal, to work toward a shared understanding of the tradeoffs.
@@ -91,10 +115,10 @@ RFCs are not regarded as documentation. The official specification and implement
 In order to ensure RFCs receive proper attention and don't stagnate, we've adopted a practice of the "RFC Roundup" during one weekly working group meeting - we go through currently open RFCs, check up on their status, and make sure discussion is still active and discuss how to move them forward.
 
 ## Roadmap
-The Cloud Native Buildpacks Core Team is responsible for establishing a yearly roadmap laying out our aspirations for that year. This shared vision is essential for keeping the development process focused.
+The Cloud Native Buildpacks TOC is responsible for establishing a yearly roadmap laying out our aspirations for that year. This shared vision is essential for keeping the development process focused.
 
 ## Updating Governance
-All substantive changes in Governance require a supermajority agreement by the Core Team.
+All substantive changes in Governance require a supermajority agreement by the TOC.
 
 ---
 

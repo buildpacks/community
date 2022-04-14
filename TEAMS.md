@@ -1,14 +1,18 @@
 # Teams
 
-## Core Team
+## Technical Oversight Committee
 
-> The Core team is responsible for the direction of the project (roadmap), subteam leadership, the spec, and cross-cutting concerns.
+> The Technical Oversight Committee (TOC)) is responsible for the direction of the project (roadmap), team leadership, and cross-cutting concerns.
 
-[@ekcasey][@ekcasey], [@hone][@hone], [@jkutner][@jkutner], [@nebhale][@nebhale], [@sclevine][@sclevine]
+[@ekcasey][@ekcasey], [@hone][@hone], [@jkutner][@jkutner], [@nebhale][@nebhale], [@samj1912][@samj1912], [@sclevine][@sclevine]
 
 ## Implementation Team
 
 > The Implementation team is responsible for maintaining the components that constitute the Cloud Native Buildpacks reference implementation of the specification.
+
+### Team Lead
+
+[@natalieparellano][@natalieparellano]
 
 ### Maintainers
 
@@ -26,11 +30,15 @@
 
 > The Platform team is responsible for maintaining pack and any other platforms or platform components.
 
+### Team Lead
+
+[@jromero][@jromero]
+
 ### Maintainers
 
 [@jromero][@jromero], [@dfreilich][@dfreilich], [@sclevine][@sclevine]
 
-### Project Contributors 
+### Project Contributors
 
 [@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@importhuman][@importhuman], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
 
@@ -38,9 +46,13 @@
 
 > The Distribution team is responsible for maintaining tools and services that support the distribution, discovery, and integration of buildpacks.
 
+### Team Lead
+
+[@jkutner][@jkutner]
+
 ### Maintainers
 
-[@elbandito][@elbandito], [@jkutner][@jkutner]
+[@jkutner][@jkutner]
 
 ### Project Contributors
 
@@ -49,6 +61,10 @@
 ## Learning Team
 
 > The Learning team is responsible for maintaining the project’s documentation, website, and resources.
+
+### Team Lead
+
+[@jkutner][@jkutner] (interim)
 
 ### Maintainers
 
@@ -61,6 +77,10 @@
 ## Buildpack Authors' Tooling Team
 
 > The Buildpack Authors' Tooling team is responsible for helping buildpack authors create buildpacks. See [RFC 0089](https://github.com/buildpacks/rfcs/blob/main/text/0089-buildpack-authors-tooling-subteam.md) for more details.
+
+### Team Lead
+
+[@samj1912][@samj1912]
 
 ### Maintainers
 
