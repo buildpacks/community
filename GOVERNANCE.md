@@ -44,12 +44,12 @@ Maintainers are in charge of the day to day maintenance of the team's projects i
 * supporting contributors.
 * growing the team by mentoring aspiring contributors and maintainers.
 
-New maintainers must already be contributors, must be nominated by an existing maintainer, and must be elected by a [supermajority](#supermajority) of CNB Team Leads and the TOC. Likewise, maintainers can be removed by a supermajority of Team Leads or can resign by notifying one of the maintainers.
+New maintainers must already be contributors, must be nominated by an existing maintainer, and must be elected by a [supermajority](#supermajority) of CNB Team Leads and the TOC. Likewise, maintainers may resign or be removed by a super-majority of Team Leads and the TOC.
 
 #### Contributors
 Contributors are those who make regular contributions to a team (documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.) and are therefore granted additional permissions (triaging issues, merging approved PRs, pushing to non-protected branches) that support those activities.
 
-New contributors may be self-nominated or be nominated by existing contributors, and must be elected by a super-majority of the team’s maintainers. Likewise, maintainers may resign or can be removed by a supermajority of team maintainers.
+New contributors may be self-nominated or be nominated by existing contributors, and must be elected by a super-majority of the team’s maintainers. Likewise, contributors may resign or can be removed by a super-majority of team maintainers.
 
 ### [Implementation Team](TEAMS.md#Implementation-Team)
 The Implementation team is responsible for maintaining the components that constitute the Cloud Native Buildpacks reference implementation of the specification. This includes:
