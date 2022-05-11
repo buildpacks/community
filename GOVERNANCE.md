@@ -2,21 +2,21 @@
 This document defines the governance structure for Cloud Native Buildpacks. This project is committed to building an open, inclusive, productive and self-governing open source community that maintains a specification and high-quality tools for translating source code into OCI images. The guidelines herein describe how the Cloud Native Buildpacks (CNB) community should work together to achieve this goal.
 
 ## Repositories
-All repositories under the [buildpacks](https://github.com/buildpacks) organization are and maintained governed by the buildpacks project.
+All repositories under the [buildpacks](https://github.com/buildpacks) organization are maintained and governed by the buildpacks project.
 
 ## [Technical Oversight Committee](TEAMS.md#Technical-Oversight-Committee)
 
 The CNB Technical Oversight Committee (TOC) is modeled on the [CNCF TOC](https://github.com/cncf/toc) as a technical governing body. It oversees all aspects of the project and has a mandate to drive consensus for:
 
-* Defining and maintaining the technical vision for the CNB project
-* Fostering a healthy and welcoming community, including by defining and enforcing our [Code of Conduct](https://github.com/buildpacks/.github/blob/main/CODE_OF_CONDUCT.md)
-* Defining the governance structure of the CNB project
-* Creating new teams, reorganizing teams, and removing existing teams
-* Delegating responsibilities to teams and re-allocating responsibilities amongst teams
-* Appointing Team Leads
-* Defining the [RFC process](https://github.com/buildpacks/rfcs#rfc-process) through which cross-cutting changes are proposed and approved
-* Defining the annual roadmap
-* Anything else that falls through the cracks
+* defining and maintaining the technical vision for the CNB project.
+* fostering a healthy and welcoming community, including by defining and enforcing our [Code of Conduct](https://github.com/buildpacks/.github/blob/main/CODE_OF_CONDUCT.md).
+* defining the governance structure of the CNB project.
+* creating new teams, reorganizing teams, and removing existing teams.
+* delegating responsibilities to teams and re-allocating responsibilities amongst teams.
+* appointing Team Leads.
+* defining the [RFC process](https://github.com/buildpacks/rfcs#rfc-process) through which cross-cutting changes are proposed and approved.
+* defining the annual roadmap.
+* anything else that falls through the cracks.
 
 New TOC members must be nominated by an existing TOC member and elected by a super-majority of the TOC. TOC members may graduate to emeritus status by request or, in exceptional circumstances, by a super-majority vote of the TOC.
 
@@ -30,10 +30,10 @@ CNB Teams are responsible for narrower sets of concerns related to specific aspe
 Each team has a Team Lead. The Team Lead is a maintainer who has special responsibilites for representing team concerns at the project level.
 
 These additional responsibilities include:
-* Casting binding votes on RFCs as described in the RFC process.
-* Stewarding project RFCs owned by the team as described in the RFC process.
-* Representing the work of the team to the TOC.
-* Delegating another maintainer from the same Team to temporarily fulfill these responsibilities.
+* casting binding votes on RFCs as described in the RFC process.
+* stewarding project RFCs owned by the team as described in the RFC process.
+* representing the work of the team to the TOC.
+* delegating another maintainer from the same Team to temporarily fulfill these responsibilities.
 
 #### Maintainers
 Maintainers are in charge of the day to day maintenance of the team's projects including:
