@@ -12,7 +12,7 @@ We make decisions as a group in a variety of public forums. Our governance pract
 
 Our roadmap, which discusses our current themes and priorities can be found at [ROADMAP.md](ROADMAP.md).
 
-## Team
+## Teams
 
 The roster of the current team members can be found at [TEAMS.md](TEAMS.md).
 
@@ -57,7 +57,7 @@ The purpose of this meeting is to provide in depth support and guidance to the c
 
 ### Team Sync
 
-The purpose of this meeting is to sync across the various teams. They tend to be more technical in nature and go into the "weeds" of on going work.
+The purpose of this meetings is to sync across the various teams. They tend to be more technical in nature and go into the "weeds" of ongoing work.
 
 #### Team Leads
 
