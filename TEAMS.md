@@ -40,7 +40,7 @@
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@importhuman][@importhuman], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@imnitishng][@imnitishng], [@importhuman][@importhuman], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
 
 ## Distribution Team
 
@@ -105,6 +105,7 @@
 [@elbandito]: https://github.com/elbandito
 [@ForestEckhardt]: https://github.com/foresteckhardt
 [@hone]: https://github.com/hone
+[@imnitishng]: https://github.com/imnitishng
 [@importhuman]: https://github.com/importhuman
 [@jabrown85]: https://github.com/jabrown85
 [@jjbustamante]: https://github.com/jjbustamante
