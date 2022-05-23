@@ -36,11 +36,15 @@
 
 ### Maintainers
 
-[@jromero][@jromero], [@dfreilich][@dfreilich], [@sclevine][@sclevine]
+[@jromero][@jromero], [@dfreilich][@dfreilich]
 
 ### Project Contributors
 
 [@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@imnitishng][@imnitishng], [@importhuman][@importhuman], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+
+### Emeritus
+
+[@sclevine][@sclevine] (maintainer)
 
 ## Distribution Team
 
