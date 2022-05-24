@@ -20,7 +20,7 @@
 
 ### Project Contributors
 
-[@aemengo][@aemengo], [@jjbustamante][@jjbustamante], [@matthewmcnew][@matthewmcnew], [@menehune23][@menehune23], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@yaelharel][@yaelharel]
+[@aemengo][@aemengo], [@imjasonh][@imjasonh], [@jjbustamante][@jjbustamante], [@matthewmcnew][@matthewmcnew], [@menehune23][@menehune23], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@yaelharel][@yaelharel]
 
 ### Emeritus
 
@@ -109,6 +109,7 @@
 [@elbandito]: https://github.com/elbandito
 [@ForestEckhardt]: https://github.com/foresteckhardt
 [@hone]: https://github.com/hone
+[@imjasonh]: https://github.com/imjasonh
 [@imnitishng]: https://github.com/imnitishng
 [@importhuman]: https://github.com/importhuman
 [@jabrown85]: https://github.com/jabrown85
