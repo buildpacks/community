@@ -72,11 +72,11 @@
 
 ### Maintainers
 
-@AidanDelaney][@AidanDelaney], [@jkutner][@jkutner], [@jromero][@jromero]
+[@AidanDelaney][@AidanDelaney], [@jkutner][@jkutner], [@jromero][@jromero]
 
 ### Project Contributors
 
-[ [@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@dwillist][@dwillist], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@dwillist][@dwillist], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
 
 ### Emeritus
 
