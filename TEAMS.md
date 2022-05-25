@@ -72,11 +72,15 @@
 
 ### Maintainers
 
-[@jkutner][@jkutner], [@jromero][@jromero], [@samj1912][@samj1912]
+@AidanDelaney][@AidanDelaney], [@jkutner][@jkutner], [@jromero][@jromero]
 
 ### Project Contributors
 
-[@AidanDelaney][@AidanDelaney], [@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@dwillist][@dwillist], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[ [@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@dwillist][@dwillist], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+
+### Emeritus
+
+[@samj1912][@samj1912] (maintainer)
 
 ## Buildpack Authors' Tooling Team
 
