@@ -92,11 +92,11 @@
 
 ### Maintainers
 
-[@hone][@hone], [@ekcasey][@ekcasey], [@samj1912][@samj1912]
+[@hone][@hone], [@ekcasey][@ekcasey], [@samj1912][@samj1912], [@dmikusa-pivotal][@dmikusa-pivotal]
 
 ### Project Contributors
 
-[@dmikusa-pivotal][@dmikusa-pivotal], [@ForestEckhardt][@ForestEckhardt]
+[@ForestEckhardt][@ForestEckhardt]
 
 [@AidanDelaney]: https://github.com/AidanDelaney
 [@AswinTimalsina]: https://github.com/AswinTimalsina
