@@ -59,7 +59,7 @@ The purpose of this meeting is to provide in depth support and guidance to the c
 
 The purpose of these meetings is to sync across the various teams. They tend to be more technical in nature and go into the "weeds" of ongoing work.
 
-#### Team Leads
+#### Leadership (Team Leads, TOC, and Maintainers)
 
 ##### Details
 
