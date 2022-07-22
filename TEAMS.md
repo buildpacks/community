@@ -68,7 +68,7 @@
 
 ### Team Lead
 
-[@jkutner][@jkutner] (interim)
+[@AidanDelaney][@AidanDelaney]
 
 ### Maintainers
 
