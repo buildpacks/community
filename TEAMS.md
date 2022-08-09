@@ -96,7 +96,7 @@
 
 ### Project Contributors
 
-[@ForestEckhardt][@ForestEckhardt]
+[@ForestEckhardt][@ForestEckhardt], [@gcemaj][@gcemaj]
 
 [@AidanDelaney]: https://github.com/AidanDelaney
 [@AswinTimalsina]: https://github.com/AswinTimalsina
@@ -112,6 +112,7 @@
 [@ekcasey]: https://github.com/ekcasey
 [@elbandito]: https://github.com/elbandito
 [@ForestEckhardt]: https://github.com/foresteckhardt
+[@gcemaj]: https://github.com/gcemaj
 [@hone]: https://github.com/hone
 [@imjasonh]: https://github.com/imjasonh
 [@imnitishng]: https://github.com/imnitishng
