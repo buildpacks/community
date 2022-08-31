@@ -66,7 +66,7 @@ Components developed outside of the Cloud Native Buildpacks project can be accep
     1. A v2 Heroku buildpack that runs Cloud Native Buildpack (v3) builds on platforms that only support older v2 buildpacks.
   - Non-qualifying examples:
     1. A generic CI/CD tool that includes functionality to run buildpack builds, but primarily supports use cases outside of the project (e.g., Tekton)
-- If a proposed contribution provides functionality that is already provided by the project, such functionality must be provided for use in a non-overlapping context, or the proposal must include a plan for consolidation.
+- If a proposed contribution provides functionality that is already provided by the project, such functionality must be provided for use in a non-overlapping context, or the proposal should include a plan for consolidation.
   - Qualifying examples:
     1. Buildpack language bindings for a language other than those already supported by the project (such as Go)
     1. An alternative implementation of the buildpack lifecycle launcher in Rust, with a documented plan to deprecate the original Go version
