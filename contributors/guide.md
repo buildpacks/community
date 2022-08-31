@@ -56,7 +56,7 @@ Contribution to this project goes beyond the notion of code contributions. We va
 
 #### Component
 
-Components developed outside of the Cloud Native Buildpacks project can be accepted following this process:
+Components developed outside of the Cloud Native Buildpacks project can be accepted following the process defined in [this RFC](https://github.com/buildpacks/rfcs/blob/main/text/0086-component-level-contrib.md#what-it-is).
 
 - Component-level contributions must be proposed as project-wide RFCs
 - Proposed contributions must primarily support the goals and use cases of the project and may not contain unrelated functionality that would not otherwise be accepted via the [RFC process](https://github.com/buildpacks/rfcs).
