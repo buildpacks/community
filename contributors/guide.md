@@ -54,6 +54,29 @@ Additional Capabilities:
 
 Contribution to this project goes beyond the notion of code contributions. We value any help that you may be able to provide.
 
+#### Component
+
+Components developed outside of the Cloud Native Buildpacks project can be accepted following the process defined in [this RFC](https://github.com/buildpacks/rfcs/blob/main/text/0086-component-level-contrib.md#what-it-is).
+
+- Component-level contributions must be proposed as project-wide RFCs
+- Proposed contributions must primarily support the goals and use cases of the project and may not contain unrelated functionality that would not otherwise be accepted via the [RFC process](https://github.com/buildpacks/rfcs).
+  - Qualifying examples:
+    1. A Github Action that performs buildpack builds
+    1. A Concourse resource that creates builder images
+    1. A v2 Heroku buildpack that runs Cloud Native Buildpack (v3) builds on platforms that only support older v2 buildpacks.
+  - Non-qualifying examples:
+    1. A generic CI/CD tool that includes functionality to run buildpack builds, but primarily supports use cases outside of the project (e.g., Tekton)
+- If a proposed contribution provides functionality that is already provided by the project, such functionality must be provided for use in a non-overlapping context, or the proposal should include a plan for consolidation.
+  - Qualifying examples:
+    1. Buildpack language bindings for a language other than those already supported by the project (such as Go)
+    1. An alternative implementation of the buildpack lifecycle launcher in Rust, with a documented plan to deprecate the original Go version
+  - Non-qualifying examples:
+    1. An alternative implementation of the lifecycle in Rust that would exist concurrently with the Go version in perpetuity
+- If a proposed contribution is an adapter or integration with another service or technology, that technology must be notable and/or widely used (at the TOC’s discretion).
+- If a component is proposed for donation by one or more TOC members individually, those TOC members must abstain from voting over its acceptance.
+- If a component is proposed for donation by one or more TOC members’ employer or employers, those TOC members must abstain from voting over its acceptance. Supermajority consensus of non-abstaining TOC members is still required.
+- Component-level contributions are subject legal review by the Cloud Native Computing Foundation / Linux Foundation. Adherance to these guidances does not guarantee acceptance. The investigation of this is to be done by the TOC before acceptance.
+
 #### Code
 
 Code contributions to any project repo are always welcomed.
@@ -94,7 +117,7 @@ Contributions to the RFC process can take any or all of the following forms:
 
 * Reviewing and commenting on [RFC Pull Requests][rfcs-prs].
 * Partaking in discussions in [Working Group][working-group] meetings.
-* Proposing changes via [RFCs][rfcs]. 
+* Proposing changes via [RFCs][rfcs].
 
 #### Triage
 
@@ -109,9 +132,9 @@ To learn more about how you can help triage issues, check out our dedicated [tri
 ## FAQs
 
 - How do I become a project contributor?
-    
-    The process for becoming a [Project Contributor](#project-contributor) simply requires that you actively [contribute](#contributions) to the project. There is no set amount of contributions that are expected, but the more involved you are in the project the more votes that would be tipped in your favor. 
-    
+
+    The process for becoming a [Project Contributor](#project-contributor) simply requires that you actively [contribute](#contributions) to the project. There is no set amount of contributions that are expected, but the more involved you are in the project the more votes that would be tipped in your favor.
+
     Once you've got a decent amount of contributions, you may self-nominate, or be nominated by another team member to become a Project Contributor. The maintainers of said relevant sub-teams will then vote for your election into becoming a Project Contributor.
 
 <!-- links -->
