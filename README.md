@@ -43,18 +43,6 @@ A typical meeting might have the following agenda:
 
 Topics should be added to the agenda in the public [Google Doc](https://docs.google.com/document/d/1CwixRknj3gAXbi-fTI1-chwtMfy6G3GhdH17aEUjhK0/edit) the day prior to the meeting. The list of topics will be finalized by the meeting organizers. If any scheduled topics are covered in less than the allotted time, additional topics may be covered.
 
-### Office Hours
-
-The purpose of this meeting is to provide in depth support and guidance to the community.
-
-##### Details
-
-  * Date/Time: [Thursdays at 2pm ET](https://buildpacks.io/community/#calendar)
-  * Location: [Zoom](https://zoom.us/j/93521338058?pwd=eDl0R3IyenY5b2FzS2Nwa25taFNOQT09)
-  * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1CwixRknj3gAXbi-fTI1-chwtMfy6G3GhdH17aEUjhK0/edit)
-  * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRqnn4R_eOoDxVve2HzY8o0n)
-  * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9330130.ics)
-
 ### Team Sync
 
 The purpose of these meetings is to sync across the various teams. They tend to be more technical in nature and go into the "weeds" of ongoing work.
