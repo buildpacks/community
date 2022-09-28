@@ -57,42 +57,12 @@ The purpose of these meetings is to sync across the various teams. They tend to 
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
   * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9046533.ics)
 
-#### Implementation Team
-
-##### Details
-
-  * Date/Time: [Alternate Wednesday 11:30am ET](https://buildpacks.io/community/#calendar)
-  * Location: [Zoom](https://zoom.us/j/99307746440?pwd=ZEtUOUFmZEErKzUrY3F4c0tWKy9ZUT09)
-  * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
-  * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
-  * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9046533.ics)
-
-#### Platform Team
-
-##### Details
-
-  * Date/Time: [Alternate Wednesday 11:30am ET](https://buildpacks.io/community/#calendar)
-  * Location: [Zoom](https://zoom.us/j/94226487108?pwd=UVFSTTdGZFdtQmtkeVVNTnlNbEViUT09)
-  * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
-  * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
-  * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9046533.ics)
-
 #### Buildpack Authors' Tooling Team
 
 ##### Details
 
   * Date/Time: [Alternate Friday 10:00am ET](https://buildpacks.io/community/#calendar)
   * Location: [Zoom](https://zoom.us/j/95977276501?pwd=dDUrWmVLZEhlU3pLdUYwRGV1SDlBdz09)
-  * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
-  * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
-  * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9046533.ics)
-
-#### Learning Team
-
-##### Details
-
-  * Date/Time: [Alternate Friday 10:00am ET](https://buildpacks.io/community/#calendar)
-  * Location: [Zoom](https://zoom.us/j/92534193752?pwd=d3k0ejNwN2doNHFRSHpnNHZ6eHB3QT09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
   * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9046533.ics)
