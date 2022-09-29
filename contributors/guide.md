@@ -38,10 +38,10 @@ Additional Capabilities:
 
 #### Maintainer
 
-Maintainers are responsible for advancing the objectives and outcomes of the [sub-teams][sub-teams] they are inducted into. For detailed information, see the [Maintainer's Guide](maintainer_guide.md).
+Maintainers are responsible for advancing the objectives and outcomes of the [team](/GOVERNANCE.md#Teams) they are inducted into. For detailed information, see the [Maintainer's Guide](maintainer_guide.md).
 
 Additional Responsibilities:
-* Maintain [sub-team][sub-teams] associated contributions.
+* Maintain [team](/GOVERNANCE.md#Teams) associated contributions.
 * Recruit [Project Contributors](#project-contributor)
 * Review relevant [RFCs][rfcs]
 
