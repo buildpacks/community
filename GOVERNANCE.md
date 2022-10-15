@@ -91,7 +91,7 @@ Project members should graduate to emeritus status through self-nomination, when
 
 When members have not been [active contributors][contributions] for longer than 3 months they will be moved to emeritus. Out of courtesy, a notice for nomination should be given to members that fall under this category prior to being nominated.
 
-If emeritus members wish to regain an active role, they may skip the normal nomination process and can do so by renewing their contributions for at least two weeks and self-nominating themselves. Active members should welcome such a move. The nomination should be supported by at least one active member from the respective category.
+If emeritus members in a leadership position in the project (maintainer, team-lead, TOC member) wish to regain an active role, they may skip the normal nomination process and can do so by renewing their contributions for at least two weeks and self-nominating themselves. Active members should welcome such a move. The nomination should be supported by at least one active member from the respective category.
 
 [contributions]: https://github.com/buildpacks/community/blob/main/contributors/guide.md#contributions
 
