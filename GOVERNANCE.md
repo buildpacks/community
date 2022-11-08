@@ -62,7 +62,7 @@ Follow this guideline to nominate a **component maintainer** for a software comp
 - New **component maintainers** must already be contributors of the team
 - New **component maintainers** must be nominate by a **team lead** or a **maintainer** of the team under the following scenarios:  
   - A software component developed outside CNB project was [accepted](https://github.com/buildpacks/community/blob/main/contributors/guide.md#component) under their team and they do not have the know-how or experience to handle it.
-  - A community **contributor** have explicitly manifest the desire to become a **component maintainer** and the **team lead** or **maintainer** consider he/she has the skills and knowledge to take the responsibility and accountability of the component.
+  - A community **contributor** has explicitly manifest the desire to become a **component maintainer** and the **team lead** or **maintainer** consider he/she has the skills and knowledge to take the responsibility and accountability of the component.
 - New **component maintainers** must be elected by [super-majority](https://github.com/buildpacks/community/blob/main/GOVERNANCE.md#supermajority) of the team’s maintainers
 
 For more information, see the [RFC Repo](https://github.com/buildpacks/rfcs/blob/main/text/0108-governance-component-maintainer-role.md#how-it-works)
