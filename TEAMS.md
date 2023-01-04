@@ -4,11 +4,11 @@
 
 > The Technical Oversight Committee (TOC)) is responsible for the direction of the project (roadmap), team leadership, and cross-cutting concerns.
 
-[@ekcasey][@ekcasey], [@hone][@hone], [@jkutner][@jkutner], [@samj1912][@samj1912], [@sclevine][@sclevine]
+[@hone][@hone], [@jkutner][@jkutner], [@samj1912][@samj1912], [@sclevine][@sclevine]
 
 ### Emeritus
 
-[@nebhale][@nebhale]
+[@ekcasey][@ekcasey], [@nebhale][@nebhale]
 
 ## Implementation Team
 
@@ -20,7 +20,7 @@
 
 ### Maintainers
 
-[@ekcasey][@ekcasey], [@jabrown85][@jabrown85], [@natalieparellano][@natalieparellano], [@nebhale][@nebhale], [@sclevine][@sclevine]
+[@jabrown85][@jabrown85], [@natalieparellano][@natalieparellano], [@nebhale][@nebhale], [@sclevine][@sclevine]
 
 ### Project Contributors
 
@@ -28,7 +28,7 @@
 
 ### Emeritus
 
-[@ashwin-venkatesh][@ashwin-venkatesh], [@dgageot][@dgageot], [@elbandito][@elbandito], [@simonjjones][@simonjjones], [@zmackie][@zmackie]
+[@ashwin-venkatesh][@ashwin-venkatesh], [@ekcasey][@ekcasey], [@dgageot][@dgageot], [@elbandito][@elbandito], [@simonjjones][@simonjjones], [@zmackie][@zmackie]
 
 ## Platform Team
 
@@ -80,11 +80,15 @@
 
 ### Maintainers
 
-[@hone][@hone], [@ekcasey][@ekcasey], [@samj1912][@samj1912], [@dmikusa-pivotal][@dmikusa-pivotal]
+[@hone][@hone], [@samj1912][@samj1912], [@dmikusa-pivotal][@dmikusa-pivotal]
 
 ### Project Contributors
 
 [@ForestEckhardt][@ForestEckhardt], [@gcemaj][@gcemaj]
+
+### Emeritus
+
+[@ekcasey][@ekcasey]
 
 [@AidanDelaney]: https://github.com/AidanDelaney
 [@AswinTimalsina]: https://github.com/AswinTimalsina
