@@ -32,39 +32,23 @@
 
 ## Platform Team
 
-> The Platform team is responsible for maintaining pack and any other platforms or platform components.
+> The Platform team is responsible for maintaining pack and any other platforms or platform components, as well as tools and services that support the distribution, discovery, and integration of buildpacks.
 
 ### Team Lead
 
-[@jromero][@jromero]
+[@hone][@hone]
 
 ### Maintainers
 
-[@jromero][@jromero], [@dfreilich][@dfreilich]
+[@hone][@hone], [@jkutner][@jkutner], [@jromero][@jromero], [@dfreilich][@dfreilich]
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@imnitishng][@imnitishng], [@importhuman][@importhuman], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@imnitishng][@imnitishng], [@importhuman][@importhuman], [@joshwlewis][@joshwlewis], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
 
 ### Emeritus
 
 [@sclevine][@sclevine] (maintainer)
-
-## Distribution Team
-
-> The Distribution team is responsible for maintaining tools and services that support the distribution, discovery, and integration of buildpacks.
-
-### Team Lead
-
-[@jkutner][@jkutner]
-
-### Maintainers
-
-[@jkutner][@jkutner]
-
-### Project Contributors
-
-[@AswinTimalsina][@AswinTimalsina], [@Brahyt][@Brahyt], [@joshwlewis][@joshwlewis], [@mritunjaysharma394][@mritunjaysharma394]
 
 ## Learning Team
 
