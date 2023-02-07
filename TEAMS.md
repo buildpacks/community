@@ -44,7 +44,7 @@
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@imnitishng][@imnitishng], [@importhuman][@importhuman], [@joshwlewis][@joshwlewis], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@imnitishng][@imnitishng], [@importhuman][@importhuman], [@joshwlewis][@joshwlewis], [@jjbustamante][@jjbustamante], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
 
 ### Emeritus
 
