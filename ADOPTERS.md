@@ -29,4 +29,4 @@ Below is a list of projects that have publicly adopted CNB.
 * [VMware Tanzu Build Service](https://tanzu.vmware.com/build-service)
 * [Weave Firekube](https://www.weave.works/blog/firekube-fast-and-secure-kubernetes-clusters-using-weave-ignite)
 
-If you'd like to be added, feel free to comment on [this issue](https://github.com/buildpacks/community/issues/12) or [open a pull-request!](https://github.com/buildpacks/community/edit/master/ADOPTERS.md)
+If you'd like to be added, feel free to comment on [this issue](https://github.com/buildpacks/community/issues/12) or [open a pull-request!](https://github.com/buildpacks/community/edit/main/ADOPTERS.md)
