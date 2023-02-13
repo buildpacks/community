@@ -37,7 +37,7 @@ These additional responsibilities include:
 
 #### Maintainers
 Maintainers are in charge of the day to day maintenance of the team's projects including:
-* ensuring contributions align with project goals and meet the project's quality standards. 
+* ensuring contributions align with project goals and meet the project's quality standards.
 * reviewing, approving, and merging PRs.
 * planning release milestones, and releasing components under the team's area of responsibility.
 * representing the work of the team to the community.
@@ -45,6 +45,27 @@ Maintainers are in charge of the day to day maintenance of the team's projects i
 * growing the team by mentoring aspiring contributors and maintainers.
 
 New maintainers must already be contributors, must be nominated by an existing maintainer, and must be elected by a [supermajority](#supermajority) of CNB Team Leads and the TOC. Likewise, maintainers may resign or be removed by a super-majority of Team Leads and the TOC.
+
+#### Component Maintainers
+
+Component maintainers are in charge of the day to day maintenance of the specific code repositories of a software-component inside a CNB team. They will take under their responsibility a well defined software component in a CNB team and for each repository will be allow to:
+
+- reviewing, approving, and merging pull requests.
+- planning release milestones, and releasing components versions
+- edit, label, assign issues
+
+##### Guidelines nominate component maintainer
+
+Follow this guideline to nominate a **component maintainer** for a software component inside a team
+
+- The software component must be defined under the [GOVERNANCE](https://github.com/buildpacks/community/blob/main/GOVERNANCE.md) team section, for example: Platform Team -> kpack
+- New **component maintainers** must already be contributors of the team
+- New **component maintainers** must be nominate by a **team lead** or a **maintainer** of the team under the following scenarios:  
+  - A software component developed outside CNB project was [accepted](https://github.com/buildpacks/community/blob/main/contributors/guide.md#component) under their team and they do not have the know-how or experience to handle it.
+  - A community **contributor** has explicitly manifest the desire to become a **component maintainer** and the **team lead** or **maintainer** consider he/she has the skills and knowledge to take the responsibility and accountability of the component.
+- New **component maintainers** must be elected by [super-majority](https://github.com/buildpacks/community/blob/main/GOVERNANCE.md#supermajority) of the team’s maintainers
+
+For more information, see the [RFC Repo](https://github.com/buildpacks/rfcs/blob/main/text/0108-governance-component-maintainer-role.md#how-it-works)
 
 #### Contributors
 Contributors are those who make regular contributions to a team (documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.) and are therefore granted additional permissions (triaging issues, merging approved PRs, pushing to non-protected branches) that support those activities.
