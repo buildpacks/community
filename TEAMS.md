@@ -4,11 +4,11 @@
 
 > The Technical Oversight Committee (TOC)) is responsible for the direction of the project (roadmap), team leadership, and cross-cutting concerns.
 
-[@ekcasey][@ekcasey], [@hone][@hone], [@jkutner][@jkutner], [@samj1912][@samj1912], [@sclevine][@sclevine]
+[@hone][@hone], [@jkutner][@jkutner], [@samj1912][@samj1912], [@sclevine][@sclevine]
 
 ### Emeritus
 
-[@nebhale][@nebhale]
+[@ekcasey][@ekcasey], [@nebhale][@nebhale]
 
 ## Implementation Team
 
@@ -20,7 +20,7 @@
 
 ### Maintainers
 
-[@ekcasey][@ekcasey], [@jabrown85][@jabrown85], [@natalieparellano][@natalieparellano], [@nebhale][@nebhale], [@sclevine][@sclevine]
+[@jabrown85][@jabrown85], [@natalieparellano][@natalieparellano], [@nebhale][@nebhale], [@sclevine][@sclevine]
 
 ### Project Contributors
 
@@ -28,43 +28,27 @@
 
 ### Emeritus
 
-[@ashwin-venkatesh][@ashwin-venkatesh], [@dgageot][@dgageot], [@elbandito][@elbandito], [@simonjjones][@simonjjones], [@zmackie][@zmackie]
+[@ashwin-venkatesh][@ashwin-venkatesh], [@ekcasey][@ekcasey], [@dgageot][@dgageot], [@elbandito][@elbandito], [@simonjjones][@simonjjones], [@zmackie][@zmackie]
 
 ## Platform Team
 
-> The Platform team is responsible for maintaining pack and any other platforms or platform components.
+> The Platform team is responsible for maintaining pack and any other platforms or platform components, as well as tools and services that support the distribution, discovery, and integration of buildpacks.
 
 ### Team Lead
 
-[@jromero][@jromero]
+[@hone][@hone]
 
 ### Maintainers
 
-[@jromero][@jromero], [@dfreilich][@dfreilich]
+[@hone][@hone], [@jkutner][@jkutner], [@jromero][@jromero], [@dfreilich][@dfreilich]
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@imnitishng][@imnitishng], [@importhuman][@importhuman], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@imnitishng][@imnitishng], [@importhuman][@importhuman], [@joshwlewis][@joshwlewis], [@jjbustamante][@jjbustamante], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
 
 ### Emeritus
 
 [@sclevine][@sclevine] (maintainer)
-
-## Distribution Team
-
-> The Distribution team is responsible for maintaining tools and services that support the distribution, discovery, and integration of buildpacks.
-
-### Team Lead
-
-[@jkutner][@jkutner]
-
-### Maintainers
-
-[@jkutner][@jkutner]
-
-### Project Contributors
-
-[@AswinTimalsina][@AswinTimalsina], [@Brahyt][@Brahyt], [@joshwlewis][@joshwlewis], [@mritunjaysharma394][@mritunjaysharma394]
 
 ## Learning Team
 
@@ -96,11 +80,15 @@
 
 ### Maintainers
 
-[@hone][@hone], [@ekcasey][@ekcasey], [@samj1912][@samj1912], [@dmikusa-pivotal][@dmikusa-pivotal]
+[@hone][@hone], [@samj1912][@samj1912], [@dmikusa-pivotal][@dmikusa-pivotal]
 
 ### Project Contributors
 
 [@ForestEckhardt][@ForestEckhardt], [@gcemaj][@gcemaj]
+
+### Emeritus
+
+[@ekcasey][@ekcasey]
 
 [@AidanDelaney]: https://github.com/AidanDelaney
 [@AswinTimalsina]: https://github.com/AswinTimalsina

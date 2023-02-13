@@ -28,7 +28,7 @@ Working group meetings are a great place to more directly communicate with other
 
 ##### Details
 
-  * Date/Time: [Thursdays at 10am ET](https://buildpacks.io/community/#calendar)
+  * Date/Time: [Thursdays 10am ET / 1pm ET on alternataing weeks](https://buildpacks.io/community/#calendar)
   * Location: [Zoom](https://zoom.us/j/91289548697?pwd=SzNzaHdmVUVBZGhJM20weThIdGdkUT09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1sq5TpJO-m8aTzgbAiVlS1QdNovne-3ku9FxxC2S_Zs4/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRpDbbgZ0db0MRA-W5_w0G1U)
@@ -53,16 +53,6 @@ The purpose of these meetings is to sync across the various teams. They tend to 
 
   * Date/Time: [Wednesday 09:30am ET](https://buildpacks.io/community/#calendar)
   * Location: [Zoom](https://zoom.us/j/94897765769?pwd=ZUJWdTJnTEJuZ0hrV1MxZFN6MGR3Zz09)
-  * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
-  * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
-  * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9046533.ics)
-
-#### Buildpack Authors' Tooling Team
-
-##### Details
-
-  * Date/Time: [Alternate Friday 10:00am ET](https://buildpacks.io/community/#calendar)
-  * Location: [Zoom](https://zoom.us/j/95977276501?pwd=dDUrWmVLZEhlU3pLdUYwRGV1SDlBdz09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
   * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9046533.ics)

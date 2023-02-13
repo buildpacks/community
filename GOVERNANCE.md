@@ -79,15 +79,11 @@ The Implementation team is responsible for maintaining the components that const
 * [imgutil](https://github.com/buildpacks/imgutil)
 
 ### [Platform Team](TEAMS.md#Platform-Team)
-The Platform team is responsible for maintaining pack and any other platforms or platform components. This includes:
+The Platform team is responsible for maintaining pack and any other platforms or platform components, as well as tools and services that support the distribution and discovery of buildpacks. This includes:
 
 * [pack](https://github.com/buildpacks/pack)
 * [Tekton Tasks + Pipelines](https://github.com/buildpacks/tekton-integration)
 * [CircleCI Pack Orb](https://github.com/buildpacks/pack-orb)
-
-### [Distribution Team](TEAMS.md#Distribution-Team)
-The Distribution team is responsible for maintaining tools and services that support the distribution and discovery of buildpacks. This includes:
-
 * [Buildpack Registry API](https://github.com/buildpacks/registry-api)
 * [Buildpack Registry Index](https://github.com/buildpacks/registry-index)
 * [Buildpack Registry Namespace Owners](https://github.com/buildpacks/registry-namespaces)
