@@ -24,7 +24,7 @@ There has long been a desire for a "Test" support, but it's never been prioritiz
 * Owner: @samj1912
 * Links: [Buildpacks Community Organization RFC](https://github.com/buildpacks/rfcs/pull/273)
 
-Like other [CNCF projects](https://github.com/cncf/toc/issues?q=is%3Aissue+sort%3Aupdated-desc+%22health+of%22+-label%3A%22project+onboarding%22+-label%3A%22sandbox%22+), the project has been impacted by the VMware + Broadcom acquisition. The goal of this item is to improve the general health of the project and grow contributors back to our 2020 numbers. This inludes every team having a set of active set of maintainers and contributors, thus removing the TOC needing to step in for platform.
+Like other [CNCF projects](https://github.com/cncf/toc/issues?q=is%3Aissue+sort%3Aupdated-desc+%22health+of%22+-label%3A%22project+onboarding%22+-label%3A%22sandbox%22+), the project has been impacted by the VMware + Broadcom acquisition. The goal of this item is to improve the general health of the project and grow contributors back to our 2020 numbers. This includes every team having a set of active set of maintainers and contributors, thus removing the TOC needing to step in for platform.
 
 As for concrete items to be accomplished:
 
