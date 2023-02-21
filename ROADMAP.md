@@ -10,7 +10,7 @@ This started out as [Stack Buildpacks](https://github.com/buildpacks/rfcs/blob/m
 
 ## Remove Stacks & Mixins
 * Owner: @jkutner
-* Links: [RFC](https://github.com/buildpacks/rfcs/blob/main/text/0096-remove-stacks-mixins.md)
+* Links: [RFC](https://github.com/buildpacks/rfcs/blob/main/text/0096-remove-stacks-mixins.md), [tracking issue](https://github.com/buildpacks/rfcs/issues/219)
 
 This RFC was merged in 2021 and is a dependency on Base Image Extensions. In order to get us to 1.0, we'll need to take on some of these painful backwards breaking changes in the best way possible. This work will include the Buildpack & Platform spec changes with support in `lifecycle` and `pack`.
 
