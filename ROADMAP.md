@@ -4,7 +4,7 @@ This roadmap is the first of two roadmaps for 2023 leading up to KubeCon EU (202
 
 ## Release Base Image Extension
 * Owner: @natalieparellano 
-* Links: [RFC](https://github.com/buildpacks/rfcs/blob/main/text/0105-dockerfiles.md)
+* Links: [RFC](https://github.com/buildpacks/rfcs/blob/main/text/0105-dockerfiles.md), [tracking issue](https://github.com/buildpacks/rfcs/issues/224)
 
 This started out as [Stack Buildpacks](https://github.com/buildpacks/rfcs/blob/main/text/0069-stack-buildpacks.md) and now Dockerfile Extensions. Significant work has already been done on this feature over the last year. This roadmap item is about seeing this work through with releasing phase 3 in both `lifecycle` and `pack`.
 
