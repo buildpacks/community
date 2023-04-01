@@ -20,15 +20,31 @@
 
 ### Maintainers
 
-[@jabrown85][@jabrown85], [@natalieparellano][@natalieparellano], [@nebhale][@nebhale], [@sclevine][@sclevine]
+[@jabrown85][@jabrown85],
+[@natalieparellano][@natalieparellano]
 
 ### Project Contributors
 
-[@aemengo][@aemengo], [@imjasonh][@imjasonh], [@jjbustamante][@jjbustamante], [@matthewmcnew][@matthewmcnew], [@menehune23][@menehune23], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@yaelharel][@yaelharel]
+[@imjasonh][@imjasonh],
+[@jjbustamante][@jjbustamante],
+[@joe-kimmel-vmw][@joe-kimmel-vmw],
+[@matthewmcnew][@matthewmcnew]
 
 ### Emeritus
 
-[@ashwin-venkatesh][@ashwin-venkatesh], [@ekcasey][@ekcasey], [@dgageot][@dgageot], [@elbandito][@elbandito], [@simonjjones][@simonjjones], [@zmackie][@zmackie]
+[@aemengo][@aemengo],
+[@ashwin-venkatesh][@ashwin-venkatesh],
+[@dgageot][@dgageot],
+[@ekcasey][@ekcasey],
+[@elbandito][@elbandito],
+[@menehune23][@menehune23],
+[@micahyoung][@micahyoung],
+[@murphybytes][@murphybytes],
+[@nebhale][@nebhale],
+[@sclevine][@sclevine],
+[@simonjjones][@simonjjones],
+[@yaelharel][@yaelharel],
+[@zmackie][@zmackie]
 
 ## Platform Team
 
@@ -92,10 +108,11 @@
 
 [@AidanDelaney]: https://github.com/AidanDelaney
 [@AswinTimalsina]: https://github.com/AswinTimalsina
+[@Brahyt]: https://github.com/Brahyt
+[@ForestEckhardt]: https://github.com/foresteckhardt
 [@aemengo]: https://github.com/aemengo
 [@ameyer-pivotal]: https://github.com/ameyer-pivotal
 [@ashwin-venkatesh]: https://github.com/ashwin-venkatesh
-[@Brahyt]: https://github.com/Brahyt
 [@danielleadams]: https://github.com/danielleadams
 [@dfreilich]: https://github.com/dfreilich
 [@dgageot]: https://github.com/dgageot
@@ -103,7 +120,6 @@
 [@dwillist]: https://github.com/dwillist
 [@ekcasey]: https://github.com/ekcasey
 [@elbandito]: https://github.com/elbandito
-[@ForestEckhardt]: https://github.com/foresteckhardt
 [@gcemaj]: https://github.com/gcemaj
 [@hone]: https://github.com/hone
 [@imjasonh]: https://github.com/imjasonh
@@ -112,6 +128,7 @@
 [@jabrown85]: https://github.com/jabrown85
 [@jjbustamante]: https://github.com/jjbustamante
 [@jkutner]: https://github.com/jkutner
+[@joe-kimmel-vmw]: https://github.com/joe-kimmel-vmw
 [@joshwlewis]: https://github.com/joshwlewis
 [@jromero]: https://github.com/jromero
 [@matthewmcnew]: https://github.com/matthewmcnew
