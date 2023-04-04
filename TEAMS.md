@@ -4,11 +4,11 @@
 
 > The Technical Oversight Committee (TOC)) is responsible for the direction of the project (roadmap), team leadership, and cross-cutting concerns.
 
-[@hone][@hone], [@jkutner][@jkutner], [@samj1912][@samj1912], [@sclevine][@sclevine]
+[@hone][@hone], [@jkutner][@jkutner], [@samj1912][@samj1912]
 
 ### Emeritus
 
-[@ekcasey][@ekcasey], [@nebhale][@nebhale]
+[@ekcasey][@ekcasey], [@nebhale][@nebhale], [@sclevine][@sclevine]
 
 ## Implementation Team
 
