@@ -60,7 +60,7 @@
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@imnitishng][@imnitishng], [@importhuman][@importhuman], [@joshwlewis][@joshwlewis], [@jjbustamante][@jjbustamante], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@imnitishng][@imnitishng], [@importhuman][@importhuman], [@jericop][@jericop], [@joshwlewis][@joshwlewis], [@jjbustamante][@jjbustamante], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
 
 ### Emeritus
 
@@ -125,6 +125,7 @@
 [@imjasonh]: https://github.com/imjasonh
 [@imnitishng]: https://github.com/imnitishng
 [@importhuman]: https://github.com/importhuman
+[@jericop]: https://github.com/jericop
 [@jabrown85]: https://github.com/jabrown85
 [@jjbustamante]: https://github.com/jjbustamante
 [@jkutner]: https://github.com/jkutner
