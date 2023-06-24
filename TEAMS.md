@@ -56,15 +56,33 @@
 
 ### Maintainers
 
-[@hone][@hone], [@jkutner][@jkutner], [@jromero][@jromero], [@dfreilich][@dfreilich]
+[@hone][@hone],
+[@jkutner][@jkutner],
+[@dfreilich][@dfreilich]
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@imnitishng][@imnitishng], [@importhuman][@importhuman], [@jericop][@jericop], [@joshwlewis][@joshwlewis], [@jjbustamante][@jjbustamante], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@jericop][@jericop],
+[@joshwlewis][@joshwlewis],
+[@jjbustamante][@jjbustamante],
+[@matthewmcnew][@matthewmcnew],
+[@natalieparellano][@natalieparellano],
+[@samj1912][@samj1912]
 
 ### Emeritus
 
-[@sclevine][@sclevine] (maintainer)
+[@ameyer-pivotal][@ameyer-pivotal],
+[@ashwin-venkatesh][@ashwin-venkatesh],
+[@elbandito][@elbandito],
+[@imnitishng][@imnitishng],
+[@importhuman][@importhuman],
+[@jromero][@jromero] (maintainer),
+[@micahyoung][@micahyoung],
+[@murphybytes][@murphybytes],
+[@sclevine][@sclevine] (maintainer),
+[@simonjjones][@simonjjones],
+[@yaelharel][@yaelharel],
+[@zmackie][@zmackie]
 
 ## Learning Team
 
