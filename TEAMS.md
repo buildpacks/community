@@ -73,6 +73,7 @@
 
 [@ameyer-pivotal][@ameyer-pivotal],
 [@ashwin-venkatesh][@ashwin-venkatesh],
+[@dlion][@dlion],
 [@elbandito][@elbandito],
 [@imnitishng][@imnitishng],
 [@importhuman][@importhuman],
@@ -134,6 +135,7 @@
 [@danielleadams]: https://github.com/danielleadams
 [@dfreilich]: https://github.com/dfreilich
 [@dgageot]: https://github.com/dgageot
+[@dlion]: https://github.com/dlion
 [@dmikusa-pivotal]: https://github.com/dmikusa-pivotal
 [@dwillist]: https://github.com/dwillist
 [@ekcasey]: https://github.com/ekcasey
