@@ -62,6 +62,7 @@
 
 ### Project Contributors
 
+[@dlion][@dlion],
 [@jericop][@jericop],
 [@joshwlewis][@joshwlewis],
 [@jjbustamante][@jjbustamante],
@@ -73,7 +74,6 @@
 
 [@ameyer-pivotal][@ameyer-pivotal],
 [@ashwin-venkatesh][@ashwin-venkatesh],
-[@dlion][@dlion],
 [@elbandito][@elbandito],
 [@imnitishng][@imnitishng],
 [@importhuman][@importhuman],
