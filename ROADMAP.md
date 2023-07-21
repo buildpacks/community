@@ -26,7 +26,7 @@ There has long been a desire for a "Test" support, but it's never been prioritiz
 
 ### Community Engagement Health Checks
 * @microwavables (Team Lead sponsor @jkutner)
-Links: [VMware Tanzu Community Engagement Health Checks](https://github.com/vmware-tanzu/community-engagement/blob/main/HEALTHCHECKS.md)
+* Links: [VMware Tanzu Community Engagement Health Checks](https://github.com/vmware-tanzu/community-engagement/blob/main/HEALTHCHECKS.md)
 
 The project is lucky to have a Community Manager! This is one of the projects proposed by @microwavables to set a base line to measure how we're doing as a community.
 
