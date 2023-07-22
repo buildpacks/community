@@ -64,6 +64,7 @@
 
 [@dlion][@dlion],
 [@jericop][@jericop],
+[@joe-kimmel-vmw][@joe-kimmel-vmw],
 [@joshwlewis][@joshwlewis],
 [@jjbustamante][@jjbustamante],
 [@matthewmcnew][@matthewmcnew],
