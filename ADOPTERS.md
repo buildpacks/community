@@ -8,7 +8,7 @@ Below is a list of projects that have publicly adopted CNB.
 * [Azure Spring Cloud](https://content.pivotal.io/blog/azure-spring-cloud-a-new-way-to-run-spring-boot-apps-atop-kubernetes)
 * [Bloomberg](https://www.techatbloomberg.com/)
 * [DigitalOcean App Platform](https://www.digitalocean.com/docs/app-platform/concepts/buildpack/)
-* [Dokku](http://dokku.viewdocs.io/dokku/deployment/methods/cloud-native-buildpacks/)
+* [Dokku](https://dokku.com/docs/deployment/builders/cloud-native-buildpacks/)
 * [Easypanel](https://easypanel.io)
 * [Epinio](https://epinio.io/)
 * [FactSet](https://www.factset.com/)
