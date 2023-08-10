@@ -19,7 +19,6 @@ Below is a list of projects that have publicly adopted CNB.
 * [Google Cloud Buildpacks](https://github.com/GoogleCloudPlatform/buildpacks)
 * [Greenhouse](https://github.com/grnhse/)
 * [Hashicorp Waypoint](https://www.hashicorp.com/blog/announcing-waypoint)
-* [kpack](https://tanzu.vmware.com/content/blog/introducing-kpack-a-kubernetes-native-container-build-service)
 * [Instana](https://github.com/instana/instana-buildpacks)
 * [Northflank](https://northflank.com)
 * [Paketo Buildpacks](https://paketo.io)
