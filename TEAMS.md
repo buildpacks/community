@@ -96,7 +96,11 @@
 
 ### Maintainers
 
-[@AidanDelaney][@AidanDelaney], [@jkutner][@jkutner], [@jromero][@jromero]
+[@AidanDelaney][@AidanDelaney], [@jkutner][@jkutner]
+
+### Emeritus
+
+[@jromero][@jromero]
 
 ### Project Contributors
 
