@@ -23,6 +23,7 @@ Below is a list of projects that have publicly adopted CNB.
 * [Instana](https://github.com/instana/instana-buildpacks)
 * [Northflank](https://northflank.com)
 * [Paketo Buildpacks](https://paketo.io)
+* [PITS Global Data Recovery Services](https://www.pitsdatarecovery.net/)
 * [Railway](https://docs.railway.app/deploy/builds)
 * [Salesforce Functions](https://developer.salesforce.com/blogs/2019/11/introducing-salesforce-evergreen.html)
 * [Spring Boot](https://spring.io/blog/2020/01/23/spring-boot-2-3-0-m1-is-now-available)
