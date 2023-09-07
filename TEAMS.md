@@ -4,11 +4,15 @@
 
 > The Technical Oversight Committee (TOC)) is responsible for the direction of the project (roadmap), team leadership, and cross-cutting concerns.
 
-[@hone][@hone], [@jkutner][@jkutner], [@samj1912][@samj1912]
+[@hone][@hone],
+[@jkutner][@jkutner],
+[@samj1912][@samj1912]
 
 ### Emeritus
 
-[@ekcasey][@ekcasey], [@nebhale][@nebhale], [@sclevine][@sclevine]
+[@ekcasey][@ekcasey],
+[@nebhale][@nebhale],
+[@sclevine][@sclevine]
 
 ## Implementation Team
 
@@ -27,7 +31,6 @@
 
 [@imjasonh][@imjasonh],
 [@jjbustamante][@jjbustamante],
-[@joe-kimmel-vmw][@joe-kimmel-vmw],
 [@matthewmcnew][@matthewmcnew]
 
 ### Emeritus
@@ -37,6 +40,7 @@
 [@dgageot][@dgageot],
 [@ekcasey][@ekcasey] (maintainer),
 [@elbandito][@elbandito],
+[@joe-kimmel-vmw][@joe-kimmel-vmw],
 [@menehune23][@menehune23],
 [@micahyoung][@micahyoung],
 [@murphybytes][@murphybytes],
@@ -96,15 +100,27 @@
 
 ### Maintainers
 
-[@AidanDelaney][@AidanDelaney], [@jkutner][@jkutner], [@jromero][@jromero]
+[@AidanDelaney][@AidanDelaney],
+[@jkutner][@jkutner],
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@dwillist][@dwillist], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@dfreilich][@dfreilich],
+[@natalieparellano][@natalieparellano],
 
 ### Emeritus
 
+[@ameyer-pivotal][@ameyer-pivotal],
+[@danielleadams][@danielleadams],
+[@dwillist][@dwillist],
+[@elbandito][@elbandito],
+[@jromero][@jromero] (maintainer),
+[@murphybytes][@murphybytes],
 [@samj1912][@samj1912] (maintainer)
+[@simonjjones][@simonjjones],
+[@superhighfives][@superhighfives],
+[@yaelharel][@yaelharel],
+[@zmackie][@zmackie]
 
 ## Buildpack Authors' Tooling Team
 
@@ -116,11 +132,14 @@
 
 ### Maintainers
 
-[@hone][@hone], [@samj1912][@samj1912], [@dmikusa-pivotal][@dmikusa-pivotal]
+[@hone][@hone],
+[@samj1912][@samj1912],
+[@dmikusa-pivotal][@dmikusa-pivotal]
 
 ### Project Contributors
 
-[@ForestEckhardt][@ForestEckhardt], [@gcemaj][@gcemaj]
+[@ForestEckhardt][@ForestEckhardt],
+[@gcemaj][@gcemaj]
 
 ### Emeritus
 
