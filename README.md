@@ -51,7 +51,7 @@ The purpose of these meetings is to sync across the various teams. They tend to 
 
 ##### Details
 
-  * Date/Time: [Wednesday 09:30am ET](https://buildpacks.io/community/#calendar)
+  * Date/Time: [Every other Thursday 1:00pm ET](https://buildpacks.io/community/#calendar)
   * Location: [Zoom](https://zoom.us/j/94897765769?pwd=ZUJWdTJnTEJuZ0hrV1MxZFN6MGR3Zz09)
   * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
