@@ -60,9 +60,10 @@
 
 ### Maintainers
 
+[@dfreilich][@dfreilich],
 [@hone][@hone],
-[@jkutner][@jkutner],
-[@dfreilich][@dfreilich]
+[@jjbustamante][@jjbustamante],
+[@jkutner][@jkutner]
 
 ### Project Contributors
 
@@ -70,7 +71,6 @@
 [@jericop][@jericop],
 [@joe-kimmel-vmw][@joe-kimmel-vmw],
 [@joshwlewis][@joshwlewis],
-[@jjbustamante][@jjbustamante],
 [@matthewmcnew][@matthewmcnew],
 [@natalieparellano][@natalieparellano],
 [@samj1912][@samj1912]
