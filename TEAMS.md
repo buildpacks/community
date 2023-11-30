@@ -60,7 +60,6 @@
 
 ### Maintainers
 
-[@dfreilich][@dfreilich],
 [@hone][@hone],
 [@jjbustamante][@jjbustamante],
 [@jkutner][@jkutner]
@@ -79,6 +78,7 @@
 
 [@ameyer-pivotal][@ameyer-pivotal],
 [@ashwin-venkatesh][@ashwin-venkatesh],
+[@dfreilich][@dfreilich],
 [@elbandito][@elbandito],
 [@imnitishng][@imnitishng],
 [@importhuman][@importhuman],
@@ -105,13 +105,13 @@
 
 ### Project Contributors
 
-[@dfreilich][@dfreilich],
 [@natalieparellano][@natalieparellano],
 
 ### Emeritus
 
 [@ameyer-pivotal][@ameyer-pivotal],
 [@danielleadams][@danielleadams],
+[@dfreilich][@dfreilich],
 [@dwillist][@dwillist],
 [@elbandito][@elbandito],
 [@jromero][@jromero] (maintainer),
