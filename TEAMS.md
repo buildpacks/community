@@ -4,11 +4,15 @@
 
 > The Technical Oversight Committee (TOC)) is responsible for the direction of the project (roadmap), team leadership, and cross-cutting concerns.
 
-[@hone][@hone], [@jkutner][@jkutner], [@samj1912][@samj1912], [@sclevine][@sclevine]
+[@hone][@hone],
+[@jkutner][@jkutner],
+[@samj1912][@samj1912]
 
 ### Emeritus
 
-[@ekcasey][@ekcasey], [@nebhale][@nebhale]
+[@ekcasey][@ekcasey],
+[@nebhale][@nebhale],
+[@sclevine][@sclevine]
 
 ## Implementation Team
 
@@ -20,15 +24,31 @@
 
 ### Maintainers
 
-[@jabrown85][@jabrown85], [@natalieparellano][@natalieparellano], [@nebhale][@nebhale], [@sclevine][@sclevine]
+[@jabrown85][@jabrown85],
+[@natalieparellano][@natalieparellano]
 
 ### Project Contributors
 
-[@aemengo][@aemengo], [@imjasonh][@imjasonh], [@jjbustamante][@jjbustamante], [@matthewmcnew][@matthewmcnew], [@menehune23][@menehune23], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@yaelharel][@yaelharel]
+[@imjasonh][@imjasonh],
+[@jjbustamante][@jjbustamante],
+[@matthewmcnew][@matthewmcnew]
 
 ### Emeritus
 
-[@ashwin-venkatesh][@ashwin-venkatesh], [@ekcasey][@ekcasey], [@dgageot][@dgageot], [@elbandito][@elbandito], [@simonjjones][@simonjjones], [@zmackie][@zmackie]
+[@aemengo][@aemengo],
+[@ashwin-venkatesh][@ashwin-venkatesh],
+[@dgageot][@dgageot],
+[@ekcasey][@ekcasey] (maintainer),
+[@elbandito][@elbandito],
+[@joe-kimmel-vmw][@joe-kimmel-vmw],
+[@menehune23][@menehune23],
+[@micahyoung][@micahyoung],
+[@murphybytes][@murphybytes],
+[@nebhale][@nebhale] (maintainer),
+[@sclevine][@sclevine] (maintainer),
+[@simonjjones][@simonjjones],
+[@yaelharel][@yaelharel],
+[@zmackie][@zmackie]
 
 ## Platform Team
 
@@ -40,15 +60,35 @@
 
 ### Maintainers
 
-[@hone][@hone], [@jkutner][@jkutner], [@jromero][@jromero], [@dfreilich][@dfreilich]
+[@hone][@hone],
+[@jjbustamante][@jjbustamante],
+[@jkutner][@jkutner]
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@ashwin-venkatesh][@ashwin-venkatesh], [@elbandito][@elbandito], [@imnitishng][@imnitishng], [@importhuman][@importhuman], [@joshwlewis][@joshwlewis], [@jjbustamante][@jjbustamante], [@matthewmcnew][@matthewmcnew], [@micahyoung][@micahyoung], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@samj1912][@samj1912], [@simonjjones][@simonjjones], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@dlion][@dlion],
+[@jericop][@jericop],
+[@joe-kimmel-vmw][@joe-kimmel-vmw],
+[@joshwlewis][@joshwlewis],
+[@matthewmcnew][@matthewmcnew],
+[@natalieparellano][@natalieparellano],
+[@samj1912][@samj1912]
 
 ### Emeritus
 
-[@sclevine][@sclevine] (maintainer)
+[@ameyer-pivotal][@ameyer-pivotal],
+[@ashwin-venkatesh][@ashwin-venkatesh],
+[@dfreilich][@dfreilich],
+[@elbandito][@elbandito],
+[@imnitishng][@imnitishng],
+[@importhuman][@importhuman],
+[@jromero][@jromero] (maintainer),
+[@micahyoung][@micahyoung],
+[@murphybytes][@murphybytes],
+[@sclevine][@sclevine] (maintainer),
+[@simonjjones][@simonjjones],
+[@yaelharel][@yaelharel],
+[@zmackie][@zmackie]
 
 ## Learning Team
 
@@ -60,15 +100,27 @@
 
 ### Maintainers
 
-[@AidanDelaney][@AidanDelaney], [@jkutner][@jkutner], [@jromero][@jromero]
+[@AidanDelaney][@AidanDelaney],
+[@jkutner][@jkutner],
 
 ### Project Contributors
 
-[@ameyer-pivotal][@ameyer-pivotal], [@danielleadams][@danielleadams], [@dfreilich][@dfreilich], [@dwillist][@dwillist], [@elbandito][@elbandito], [@murphybytes][@murphybytes], [@natalieparellano][@natalieparellano], [@simonjjones][@simonjjones], [@superhighfives][@superhighfives], [@yaelharel][@yaelharel], [@zmackie][@zmackie]
+[@natalieparellano][@natalieparellano],
 
 ### Emeritus
 
+[@ameyer-pivotal][@ameyer-pivotal],
+[@danielleadams][@danielleadams],
+[@dfreilich][@dfreilich],
+[@dwillist][@dwillist],
+[@elbandito][@elbandito],
+[@jromero][@jromero] (maintainer),
+[@murphybytes][@murphybytes],
 [@samj1912][@samj1912] (maintainer)
+[@simonjjones][@simonjjones],
+[@superhighfives][@superhighfives],
+[@yaelharel][@yaelharel],
+[@zmackie][@zmackie]
 
 ## Buildpack Authors' Tooling Team
 
@@ -80,11 +132,14 @@
 
 ### Maintainers
 
-[@hone][@hone], [@samj1912][@samj1912], [@dmikusa-pivotal][@dmikusa-pivotal]
+[@hone][@hone],
+[@samj1912][@samj1912],
+[@dmikusa-pivotal][@dmikusa-pivotal]
 
 ### Project Contributors
 
-[@ForestEckhardt][@ForestEckhardt], [@gcemaj][@gcemaj]
+[@ForestEckhardt][@ForestEckhardt],
+[@gcemaj][@gcemaj]
 
 ### Emeritus
 
@@ -92,26 +147,29 @@
 
 [@AidanDelaney]: https://github.com/AidanDelaney
 [@AswinTimalsina]: https://github.com/AswinTimalsina
+[@Brahyt]: https://github.com/Brahyt
+[@ForestEckhardt]: https://github.com/foresteckhardt
 [@aemengo]: https://github.com/aemengo
 [@ameyer-pivotal]: https://github.com/ameyer-pivotal
 [@ashwin-venkatesh]: https://github.com/ashwin-venkatesh
-[@Brahyt]: https://github.com/Brahyt
 [@danielleadams]: https://github.com/danielleadams
 [@dfreilich]: https://github.com/dfreilich
 [@dgageot]: https://github.com/dgageot
+[@dlion]: https://github.com/dlion
 [@dmikusa-pivotal]: https://github.com/dmikusa-pivotal
 [@dwillist]: https://github.com/dwillist
 [@ekcasey]: https://github.com/ekcasey
 [@elbandito]: https://github.com/elbandito
-[@ForestEckhardt]: https://github.com/foresteckhardt
 [@gcemaj]: https://github.com/gcemaj
 [@hone]: https://github.com/hone
 [@imjasonh]: https://github.com/imjasonh
 [@imnitishng]: https://github.com/imnitishng
 [@importhuman]: https://github.com/importhuman
+[@jericop]: https://github.com/jericop
 [@jabrown85]: https://github.com/jabrown85
 [@jjbustamante]: https://github.com/jjbustamante
 [@jkutner]: https://github.com/jkutner
+[@joe-kimmel-vmw]: https://github.com/joe-kimmel-vmw
 [@joshwlewis]: https://github.com/joshwlewis
 [@jromero]: https://github.com/jromero
 [@matthewmcnew]: https://github.com/matthewmcnew
