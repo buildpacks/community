@@ -53,7 +53,7 @@ The purpose of these meetings is to sync across the various teams. They tend to 
 
   * Date/Time: [Every other Thursday 1:00pm ET](https://buildpacks.io/community/#calendar)
   * Location: [Zoom](https://zoom.us/j/94897765769?pwd=ZUJWdTJnTEJuZ0hrV1MxZFN6MGR3Zz09)
-  * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1zBYJsBwcwLZ5huG4nt7t7kYqaL1W_J12WuLsr2a9mAo/edit)
+  * Meeting Notes: [Google Doc](https://docs.google.com/document/d/1na9NQ57NFz9DtY-XogddMLL22zVGfImm0E6u-mXwOGA/edit)
   * Video Archives: [YouTube](https://www.youtube.com/playlist?list=PL1p8pquzNvRrmgWFRihDcjgv8ra2nCiI6)
   * Meeting Invite: [ICS](https://ics.teamup.com/feed/ksxw26c3km72mq3imn/9046533.ics)
 
@@ -61,7 +61,7 @@ The purpose of these meetings is to sync across the various teams. They tend to 
 
 The CNB community occasionally holds non-recurring meetings to dive deep into certain topics. Meeting minutes can be found below:
 
-  * CNB Leadership Summit 2021: [Google Doc](https://docs.google.com/document/d/1FfCKoJoW8uQUTpALYwpr9PsdNBgRZLwxD3sTilcZznM/edit#)
+  * CNB Leadership Summit 2021: [Google Doc](https://drive.google.com/file/d/1FsCd1d1UJ8BW4GIMZBsm52Z3BR6vPBtd/view)
 
 ### kpack Working Group
 
