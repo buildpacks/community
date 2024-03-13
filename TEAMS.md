@@ -72,7 +72,8 @@
 [@joshwlewis][@joshwlewis],
 [@matthewmcnew][@matthewmcnew],
 [@natalieparellano][@natalieparellano],
-[@samj1912][@samj1912]
+[@samj1912][@samj1912],
+[@WYGIN][@WYGIN]
 
 ### Emeritus
 
