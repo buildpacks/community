@@ -74,7 +74,7 @@
 [@matthewmcnew][@matthewmcnew],
 [@natalieparellano][@natalieparellano],
 [@samj1912][@samj1912],
-[@WYGIN][@WYGIN]
+[@WYGIN](https://github.com/WYGIN)
 
 ### Emeritus
 
