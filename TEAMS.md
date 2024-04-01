@@ -74,7 +74,7 @@
 [@matthewmcnew][@matthewmcnew],
 [@natalieparellano][@natalieparellano],
 [@samj1912][@samj1912],
-[@WYGIN](https://github.com/WYGIN)
+[@WYGIN][@WYGIN]
 
 ### Emeritus
 
@@ -187,3 +187,4 @@
 [@superhighfives]: https://github.com/superhighfives
 [@yaelharel]: https://github.com/yaelharel
 [@zmackie]: https://github.com/zmackie
+[@WYGIN]: https://github.com/WYGIN
