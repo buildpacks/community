@@ -104,6 +104,7 @@
 
 [@AidanDelaney][@AidanDelaney],
 [@jkutner][@jkutner],
+[@natalieparellano][@natalieparellano],
 
 ### Project Contributors
 
