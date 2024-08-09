@@ -67,28 +67,29 @@
 
 ### Project Contributors
 
-[@dlion][@dlion],
+[@edmorley][@edmorley],
 [@jericop][@jericop],
-[@joe-kimmel-vmw][@joe-kimmel-vmw],
 [@joshwlewis][@joshwlewis],
 [@matthewmcnew][@matthewmcnew],
 [@natalieparellano][@natalieparellano],
-[@samj1912][@samj1912],
-[@WYGIN][@WYGIN]
+[@samj1912][@samj1912]
 
 ### Emeritus
 
 [@ameyer-pivotal][@ameyer-pivotal],
 [@ashwin-venkatesh][@ashwin-venkatesh],
 [@dfreilich][@dfreilich],
+[@dlion][@dlion],
 [@elbandito][@elbandito],
 [@imnitishng][@imnitishng],
 [@importhuman][@importhuman],
+[@joe-kimmel-vmw][@joe-kimmel-vmw],
 [@jromero][@jromero] (maintainer),
 [@micahyoung][@micahyoung],
 [@murphybytes][@murphybytes],
 [@sclevine][@sclevine] (maintainer),
 [@simonjjones][@simonjjones],
+[@WYGIN][@WYGIN],
 [@yaelharel][@yaelharel],
 [@zmackie][@zmackie]
 
@@ -160,6 +161,7 @@
 [@dlion]: https://github.com/dlion
 [@dmikusa-pivotal]: https://github.com/dmikusa-pivotal
 [@dwillist]: https://github.com/dwillist
+[@edmorley]: https://github.com/edmorley
 [@ekcasey]: https://github.com/ekcasey
 [@elbandito]: https://github.com/elbandito
 [@gcemaj]: https://github.com/gcemaj
