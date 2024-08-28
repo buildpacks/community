@@ -65,6 +65,10 @@
 [@jjbustamante][@jjbustamante],
 [@jkutner][@jkutner]
 
+### Component Maintainers (github-actions)
+
+[@edmorley][@edmorley]
+
 ### Project Contributors
 
 [@edmorley][@edmorley],
