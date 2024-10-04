@@ -6,7 +6,7 @@
 
 [@hone][@hone],
 [@jkutner][@jkutner],
-[@samj1912][@samj1912],
+[@sambhav][@sambhav],
 [@natalieparellano][@natalieparellano]
 
 ### Emeritus
@@ -76,7 +76,7 @@
 [@joshwlewis][@joshwlewis],
 [@matthewmcnew][@matthewmcnew],
 [@natalieparellano][@natalieparellano],
-[@samj1912][@samj1912]
+[@sambhav][@sambhav]
 
 ### Emeritus
 
@@ -123,7 +123,7 @@
 [@elbandito][@elbandito],
 [@jromero][@jromero] (maintainer),
 [@murphybytes][@murphybytes],
-[@samj1912][@samj1912] (maintainer)
+[@sambhav][@sambhav] (maintainer)
 [@simonjjones][@simonjjones],
 [@superhighfives][@superhighfives],
 [@yaelharel][@yaelharel],
@@ -135,12 +135,12 @@
 
 ### Team Lead
 
-[@samj1912][@samj1912]
+[@sambhav][@sambhav]
 
 ### Maintainers
 
 [@hone][@hone],
-[@samj1912][@samj1912],
+[@sambhav][@sambhav],
 [@dmikusa-pivotal][@dmikusa-pivotal]
 
 ### Project Contributors
@@ -187,7 +187,7 @@
 [@murphybytes]: https://github.com/murphybytes
 [@natalieparellano]: https://github.com/natalieparellano
 [@nebhale]: https://github.com/nebhale
-[@samj1912]: https://github.com/samj1912
+[@sambhav]: https://github.com/sambhav
 [@sclevine]: https://github.com/sclevine
 [@simonjjones]: https://github.com/simonjjones
 [@superhighfives]: https://github.com/superhighfives
