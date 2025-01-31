@@ -10,6 +10,7 @@ The CNB Technical Oversight Committee (TOC) is modeled on the [CNCF TOC](https:/
 
 * defining and maintaining the technical vision for the CNB project.
 * fostering a healthy and welcoming community, including by defining and enforcing our [Code of Conduct](https://github.com/buildpacks/.github/blob/main/CODE_OF_CONDUCT.md).
+* ensuring the project is [vendor-neutral](](https://contribute.cncf.io/maintainers/community/vendor-neutrality/)).
 * defining the governance structure of the CNB project.
 * creating new teams, reorganizing teams, and removing existing teams.
 * delegating responsibilities to teams and re-allocating responsibilities amongst teams.
@@ -130,6 +131,15 @@ RFCs are not regarded as documentation. The official specification and implement
 
 ## Roadmap
 The Cloud Native Buildpacks TOC is responsible for establishing a yearly roadmap laying out our aspirations for that year. This shared vision is essential for keeping the development process focused.
+
+## Vendor Neutrality
+The Cloud Native Buildpacks TOC is committed to ensuring the vendor neutrality of the project in accordance with the [CNCF guidelines on what it means for a project to be vendor-neutral](https://contribute.cncf.io/maintainers/community/vendor-neutrality/).
+
+No company may hold a majority (more than fifty percent) of the total TOC seats through any combination of seats. If the outcome of an election results in greater than two employees of the same organization, the individual receiving the fewest votes from any particular employer will be removed until representation on the committee is down to two from that organization.
+
+If employers change because of job changes, acquisitions, or other events, in a way that would violate the company representation rules above, sufficient members of the committee must resign until the composition rules are met. If it is impossible to find sufficient members to resign, all employees of that organization will be removed and new special elections held. In the event of a question of company membership (for example evaluating independence of corporate subsidiaries) a majority of all non-involved TOC members will decide.
+
+The above limits shall be relaxed in event of a TOC members voluntarity leaving the project or stepping down from their roles, with the limitation that the so-constituted committee may not pass any governance changes except by the abstention of TOC members such that composition of the remaining voting members adheres to the guidelines defined above.
 
 ## Updating Governance
 All substantive changes in Governance require a supermajority agreement by the TOC.
