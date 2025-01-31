@@ -135,7 +135,7 @@ The Cloud Native Buildpacks TOC is responsible for establishing a yearly roadmap
 ## Vendor Neutrality
 The Cloud Native Buildpacks TOC is committed to ensuring the vendor neutrality of the project in accordance with the [CNCF guidelines on what it means for a project to be vendor-neutral](https://contribute.cncf.io/maintainers/community/vendor-neutrality/).
 
-No company may hold a majority (fifty percent or more) of the total TOC seats through any combination of seats. If the results of an election result in greater than two employees of the same organization, the lowest vote getters from any particular employer will be removed until representation on the committee is down to two from that organization.
+No company may hold a majority (more than fifty percent) of the total TOC seats through any combination of seats. If the outcome of an election results in greater than two employees of the same organization, the individual receiving the fewest votes from any particular employer will be removed until representation on the committee is down to two from that organization.
 
 If employers change because of job changes, acquisitions, or other events, in a way that would violate the company representation rules above, sufficient members of the committee must resign until the composition rules are met. If it is impossible to find sufficient members to resign, all employees of that organization will be removed and new special elections held. In the event of a question of company membership (for example evaluating independence of corporate subsidiaries) a majority of all non-involved TOC members will decide.
 
