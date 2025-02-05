@@ -6,7 +6,7 @@
 
 [@hone][@hone],
 [@jkutner][@jkutner],
-[@samj1912][@samj1912],
+[@sambhav][@sambhav],
 [@natalieparellano][@natalieparellano]
 
 ### Emeritus
@@ -65,30 +65,35 @@
 [@jjbustamante][@jjbustamante],
 [@jkutner][@jkutner]
 
+### Component Maintainers (github-actions)
+
+[@edmorley][@edmorley]
+
 ### Project Contributors
 
-[@dlion][@dlion],
+[@edmorley][@edmorley],
 [@jericop][@jericop],
-[@joe-kimmel-vmw][@joe-kimmel-vmw],
 [@joshwlewis][@joshwlewis],
 [@matthewmcnew][@matthewmcnew],
 [@natalieparellano][@natalieparellano],
-[@samj1912][@samj1912],
-[@WYGIN][@WYGIN]
+[@sambhav][@sambhav]
 
 ### Emeritus
 
 [@ameyer-pivotal][@ameyer-pivotal],
 [@ashwin-venkatesh][@ashwin-venkatesh],
 [@dfreilich][@dfreilich],
+[@dlion][@dlion],
 [@elbandito][@elbandito],
 [@imnitishng][@imnitishng],
 [@importhuman][@importhuman],
+[@joe-kimmel-vmw][@joe-kimmel-vmw],
 [@jromero][@jromero] (maintainer),
 [@micahyoung][@micahyoung],
 [@murphybytes][@murphybytes],
 [@sclevine][@sclevine] (maintainer),
 [@simonjjones][@simonjjones],
+[@WYGIN][@WYGIN],
 [@yaelharel][@yaelharel],
 [@zmackie][@zmackie]
 
@@ -119,7 +124,7 @@
 [@elbandito][@elbandito],
 [@jromero][@jromero] (maintainer),
 [@murphybytes][@murphybytes],
-[@samj1912][@samj1912] (maintainer)
+[@sambhav][@sambhav] (maintainer)
 [@simonjjones][@simonjjones],
 [@superhighfives][@superhighfives],
 [@yaelharel][@yaelharel],
@@ -131,12 +136,12 @@
 
 ### Team Lead
 
-[@samj1912][@samj1912]
+[@sambhav][@sambhav]
 
 ### Maintainers
 
 [@hone][@hone],
-[@samj1912][@samj1912],
+[@sambhav][@sambhav],
 [@dmikusa-pivotal][@dmikusa-pivotal]
 
 ### Project Contributors
@@ -161,6 +166,7 @@
 [@dlion]: https://github.com/dlion
 [@dmikusa-pivotal]: https://github.com/dmikusa-pivotal
 [@dwillist]: https://github.com/dwillist
+[@edmorley]: https://github.com/edmorley
 [@ekcasey]: https://github.com/ekcasey
 [@elbandito]: https://github.com/elbandito
 [@gcemaj]: https://github.com/gcemaj
@@ -182,7 +188,7 @@
 [@murphybytes]: https://github.com/murphybytes
 [@natalieparellano]: https://github.com/natalieparellano
 [@nebhale]: https://github.com/nebhale
-[@samj1912]: https://github.com/samj1912
+[@sambhav]: https://github.com/sambhav
 [@sclevine]: https://github.com/sclevine
 [@simonjjones]: https://github.com/simonjjones
 [@superhighfives]: https://github.com/superhighfives
