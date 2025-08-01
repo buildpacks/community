@@ -5,6 +5,8 @@ Below is a list of projects that have publicly adopted CNB.
 
 | Organization                         | Product/Project Name                                                 | Status                   | More Information                                                         |
 |--------------------------------------|----------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------|
+| 7SIGNAL, Inc                          |                                                                         | Production               | [link]([https://www.7signal.com/](https://www.7signal.com/))                                   |
+
 | AppPack                          |                                                                         | Production               | [link](https://apppack.io/)                                   |
 | Bloomberg                        |                                                                         | Production               | [link](https://www.bloomberg.com/company/values/tech-at-bloomberg/open-source/projects/#developer-workflow)                                   |
 | DigitalOcean                        |  App Platform                                                        | Production               | [link](https://www.digitalocean.com/docs/app-platform/concepts/buildpack/)                                   |
