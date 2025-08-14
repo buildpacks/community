@@ -5,8 +5,7 @@ Below is a list of projects that have publicly adopted CNB.
 
 | Organization                         | Product/Project Name                                                 | Status                   | More Information                                                         |
 |--------------------------------------|----------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------|
-| 7SIGNAL, Inc                          |                                                                         | Production               | [link]([https://www.7signal.com/](https://www.7signal.com/))                                   |
-
+| 7SIGNAL, Inc                          |                                                                         | Production               | [link](https://www.7signal.com/)                                   |
 | AppPack                          |                                                                         | Production               | [link](https://apppack.io/)                                   |
 | Bloomberg                        |                                                                         | Production               | [link](https://www.bloomberg.com/company/values/tech-at-bloomberg/open-source/projects/#developer-workflow)                                   |
 | DigitalOcean                        |  App Platform                                                        | Production               | [link](https://www.digitalocean.com/docs/app-platform/concepts/buildpack/)                                   |
@@ -27,6 +26,7 @@ Below is a list of projects that have publicly adopted CNB.
 | Northflank                        |  Buildpacks                                  | Production               | [link](ttps://northflank.com)                                   |
 | Paketo                        |  Buildpacks                                  | Production               | [link](https://paketo.io)                                   |
 | PITS Global Data Recovery Services    |                                         | Production               | [link](https://www.pitsdatarecovery.net/)                                   |
+| Red Hat                        |                                             | Production               | [link](https://www.redhat.com/en)                                   |
 | Railway                        |                                             | Production               | [link](https://docs.railway.app/deploy/builds)                                   |
 | Salesforce                        |  Hyperforce                             | Production               | [link](https://engineering.salesforce.com/hyperpacks-using-buildpacks-to-build-hyperforce/)                                   |
 | Spring                            |  Boot                             | Production               | [link](https://spring.io/blog/2020/01/23/spring-boot-2-3-0-m1-is-now-available)                                   |
