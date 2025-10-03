@@ -7,11 +7,11 @@
 [@hone][@hone],
 [@jkutner][@jkutner],
 [@sambhav][@sambhav],
-[@natalieparellano][@natalieparellano]
 
 ### Emeritus
 
 [@ekcasey][@ekcasey],
+[@natalieparellano][@natalieparellano]
 [@nebhale][@nebhale],
 [@sclevine][@sclevine]
 
@@ -21,18 +21,18 @@
 
 ### Team Lead
 
-[@natalieparellano][@natalieparellano]
+[@jabrown85][@jabrown85]
 
 ### Maintainers
 
-[@jabrown85][@jabrown85],
-[@natalieparellano][@natalieparellano]
+[@jabrown85][@jabrown85]
 
 ### Project Contributors
 
 [@imjasonh][@imjasonh],
 [@jjbustamante][@jjbustamante],
-[@matthewmcnew][@matthewmcnew]
+[@matthewmcnew][@matthewmcnew],
+[@natalieparellano][@natalieparellano]
 
 ### Emeritus
 
