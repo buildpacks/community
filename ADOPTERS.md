@@ -26,6 +26,7 @@ Below is a list of projects that have publicly adopted CNB.
 | Northflank                        |  Buildpacks                                  | Production               | [link](ttps://northflank.com)                                   |
 | Paketo                        |  Buildpacks                                  | Production               | [link](https://paketo.io)                                   |
 | PITS Global Data Recovery Services    |                                         | Production               | [link](https://www.pitsdatarecovery.net/)                                   |
+| Rapid7                        |                                             | Production               | [link](https://www.rapid7.com)
 | Red Hat                        |                                             | Production               | [link](https://www.redhat.com/en)                                   |
 | Railway                        |                                             | Production               | [link](https://docs.railway.app/deploy/builds)                                   |
 | Salesforce                        |  Hyperforce                             | Production               | [link](https://engineering.salesforce.com/hyperpacks-using-buildpacks-to-build-hyperforce/)                                   |
