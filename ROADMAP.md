@@ -1,12 +1,12 @@
-# 2025 Roadmap
+# 2026 Roadmap
 
-2025 is a year about focus. We've started a few things from previous years and we're going to close the loop on them like our graduation application as well as some older RFC drafts and already approved ones. For more context, see this RFC: [RFC 0315](https://github.com/buildpacks/rfcs/blob/main/text/0315-2025H1-roadmap.md).
+2026 is a year about focus. We've started a few things from previous years and we're going to close the loop on them like our graduation application as well as some older RFC drafts and already approved ones. For more context, see this RFC: [RFC 0315](https://github.com/buildpacks/rfcs/blob/main/text/0315-2025H1-roadmap.md).
 
 ## Graduation
 * Owner: @jkutner
 * Target: H2/KubeCon NA
 
-Our biggest focus for 2025 will be working on our path to CNCF graduation. We finished our [security audit last year](https://medium.com/buildpacks/announcing-findings-from-security-audit-b4701f4e8b4b). Now it's time to finish all the remaining pieces, submit an issue to the TOC, and get a formal review.
+Our biggest focus for early 2026 is to complete the work on our path to CNCF graduation that was started in 2025. We finished our [security audit in 2024](https://medium.com/buildpacks/announcing-findings-from-security-audit-b4701f4e8b4b). Now it's time to finish all the remaining pieces, submit an issue to the TOC, and get a formal review.
 
 ## Execution Environments
 * Owner: @hone
