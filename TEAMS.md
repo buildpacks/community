@@ -4,9 +4,11 @@
 
 > The Technical Oversight Committee (TOC) is responsible for the direction of the project (roadmap), team leadership, and cross-cutting concerns.
 
-[@hone][@hone],
-[@jkutner][@jkutner],
-[@sambhav][@sambhav],
+| Member               | Organization        |
+|----------------------|---------------------|
+| [@hone][@hone]       | Heroku (Salesforce) |
+| [@jkutner][@jkutner] | Salesforce          |
+| [@sambhav][@sambhav] | Bloomberg           |
 
 ### Emeritus
 
