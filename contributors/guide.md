@@ -4,12 +4,14 @@ The start of your involvement with the [Cloud Native Buildpacks](https://buildpa
 
 ## Contributors
 
+### Contributor Ladder
+
 ```text
-+-----------+       +-------------+       +-------------+       +------------+       +-----------+       +-------+
-|           |       |             |       |  Component  |       |            |       |           |       |       |
-| Community | +---> |   Project   | +---> | Maintainer  | +---> | Maintainer | +---> | Team Lead | +---> |  TOC  |
-|           |       | Contributor |       |             |       |            |       |           |       |       |
-+-----------+       +-------------+       +-------------+       +------------+       +-----------+       +-------+
++-----------+       +-------------+       +------------+       +-----------+       +-------+
+|           |       |             |       |            |       |           |       |       |
+| Community | +---> |   Project   | +---> | Maintainer | +---> | Team Lead | +---> |  TOC  |
+|           |       | Contributor |       |            |       |           |       |       |
++-----------+       +-------------+       +------------+       +-----------+       +-------+
 ```
 
 ### Role Summary
@@ -19,6 +21,7 @@ The table below summarizes the progression path for the project. For detailed le
 | Role                    | Eligibility                | Selection                                      | Lifecycle                     |
 | :---------------------- | :------------------------- | :--------------------------------------------- | :---------------------------- |
 | **Project Contributor** | Active community member    | Nominated by contributor, Team Maintainer vote | Emeritus after 3mo inactivity |
+| **Component Maintainer**| Team Project Contributor   | Nominated by team lead/maintainer, Team vote   | Emeritus after 3mo inactivity |
 | **Maintainer**          | Proven Project Contributor | Nominated by maintainer, Team Lead/TOC vote    | Emeritus after 3mo inactivity |
 | **Team Lead**           | Established Maintainer     | Appointed by TOC                               | Reviewed annually by TOC      |
 | **TOC Member**          | Project Leader             | Nominated by TOC, TOC supermajority vote       | Emeritus by request or vote   |
