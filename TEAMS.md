@@ -9,6 +9,8 @@
 | [@hone][@hone]       | Heroku (Salesforce) |
 | [@jkutner][@jkutner] | Salesforce          |
 | [@sambhav][@sambhav] | Bloomberg           |
+| Vacant               |                     |
+| Vacant               |                     |
 
 ### Emeritus
 
