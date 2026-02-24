@@ -63,7 +63,7 @@ Components developed outside of the Cloud Native Buildpacks project can be accep
   - Qualifying examples:
     1. A Github Action that performs buildpack builds
     1. A Concourse resource that creates builder images
-    1. A v2 Heroku buildpack that runs Cloud Native Buildpack (v3) builds on platforms that only support older v2 buildpacks.
+    1. A v2 buildpack that runs Cloud Native Buildpacks (v3) builds on platforms that only support older v2 buildpacks.
   - Non-qualifying examples:
     1. A generic CI/CD tool that includes functionality to run buildpack builds, but primarily supports use cases outside of the project (e.g., Tekton)
 - If a proposed contribution provides functionality that is already provided by the project, such functionality must be provided for use in a non-overlapping context, or the proposal should include a plan for consolidation.
