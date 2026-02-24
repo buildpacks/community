@@ -19,7 +19,7 @@ The CNB Technical Oversight Committee (TOC) is modeled on the [CNCF TOC](https:/
 * defining the annual roadmap.
 * anything else that falls through the cracks.
 
-New TOC members must be nominated by an existing TOC member and elected by a super-majority of the TOC. TOC members may graduate to emeritus status by request or, in exceptional circumstances, by a super-majority vote of the TOC.
+New TOC members must be nominated by an existing TOC member and elected by a super-majority of the TOC. TOC members may graduate to emeritus status by request or, in exceptional circumstances, by a super-majority vote of the TOC. The TOC consists of up to 5 seats with no more than 2 seats from any one organization.
 
 ## Teams
 CNB Teams are responsible for narrower sets of concerns related to specific aspects of the project.
