@@ -28,12 +28,13 @@ CNB Teams are responsible for narrower sets of concerns related to specific aspe
 
 #### Team Leads
 
-Each team has a Team Lead. The Team Lead is a maintainer who has special responsibilites for representing team concerns at the project level.
+Each team has a Team Lead. The Team Lead is a maintainer who has special responsibilites for representing team concerns at the project level. Team Leads are appointed by the TOC.
 
 These additional responsibilities include:
 * casting binding votes on RFCs as described in the RFC process.
 * stewarding project RFCs owned by the team as described in the RFC process.
 * representing the work of the team to the TOC.
+* acting as the **Release Manager** for the team's components, including making final release decisions and ensuring compliance with the project's release processes.
 * delegating another maintainer from the same Team to temporarily fulfill these responsibilities.
 
 #### Maintainers
@@ -69,7 +70,7 @@ Follow this guideline to nominate a **component maintainer** for a software comp
 For more information, see the [RFC Repo](https://github.com/buildpacks/rfcs/blob/main/text/0108-governance-component-maintainer-role.md#how-it-works)
 
 #### Contributors
-Contributors are those who make regular contributions to a team (documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.) and are therefore granted additional permissions (triaging issues, merging approved PRs, pushing to non-protected branches) that support those activities.
+Contributors are those who make regular contributions to a team (documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.) and are actively participating in the community (e.g., through Slack or community meetings). They are granted additional permissions (triaging issues, merging approved PRs, pushing to non-protected branches) that support those activities.
 
 New contributors may be self-nominated or be nominated by existing contributors, and must be elected by a super-majority of the team’s maintainers. Likewise, contributors may resign or can be removed by a super-majority of team maintainers.
 
@@ -140,6 +141,14 @@ No company may hold a majority (more than fifty percent) of the total TOC seats 
 If employers change because of job changes, acquisitions, or other events, in a way that would violate the company representation rules above, sufficient members of the committee must resign until the composition rules are met. If it is impossible to find sufficient members to resign, all employees of that organization will be removed and new special elections held. In the event of a question of company membership (for example evaluating independence of corporate subsidiaries) a majority of all non-involved TOC members will decide.
 
 The above limits shall be relaxed in event of a TOC members voluntarity leaving the project or stepping down from their roles, with the limitation that the so-constituted committee may not pass any governance changes except by the abstention of TOC members such that composition of the remaining voting members adheres to the guidelines defined above.
+
+## Security
+
+### Authentication
+All members of the Cloud Native Buildpacks GitHub organization with elevated permissions (Project Contributors and above) are required to have [two-factor authentication (2FA)](https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-two-factor-authentication-for-your-organization/requiring-two-factor-authentication-in-your-organization) enabled on their GitHub accounts.
+
+### Security Response Team
+The Security Response Team is responsible for handling security vulnerabilities and CVEs. This team is composed of all members of the **Technical Oversight Committee** and all **Team Leads**. They are responsible for following the project's security policy and coordinating with relevant maintainers for fixes and disclosures.
 
 ## Updating Governance
 All substantive changes in Governance require a supermajority agreement by the TOC.
