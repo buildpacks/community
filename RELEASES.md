@@ -8,5 +8,5 @@ For specific details on the release processes of each component in the Cloud Nat
 
 ## Versioning
 
-See [VERSIONING.md] for details on project versioning.
+See [VERSIONING.md](VERSIONING.md) for details on project versioning.
 
