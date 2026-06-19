@@ -1,4 +1,6 @@
 # Cloud Native Buildpacks (CNB) community
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbuildpacks%2Fcommunity.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbuildpacks%2Fcommunity?ref=badge_shield)
+
 
 Welcome to the CNB community! We're happy to have you.
 
@@ -35,3 +37,7 @@ The CNB community occasionally holds non-recurring meetings to dive deep into ce
 
 ## Versioning
 We version the various components of our project following a schema described in [VERSIONING.md](VERSIONING.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbuildpacks%2Fcommunity.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbuildpacks%2Fcommunity?ref=badge_large)
