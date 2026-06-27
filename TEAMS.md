@@ -4,13 +4,13 @@
 
 > The Technical Oversight Committee (TOC) is responsible for the direction of the project (roadmap), team leadership, and cross-cutting concerns.
 
-| Member               | Organization        |
-|----------------------|---------------------|
-| [@hone][@hone]       | Heroku (Salesforce) |
-| [@jkutner][@jkutner] | Salesforce          |
-| [@sambhav][@sambhav] | Bloomberg           |
-| Vacant               |                     |
-| Vacant               |                     |
+| Member | Organization |
+| :--- | :--- |
+| [@hone][@hone] | Heroku (Salesforce) |
+| [@jkutner][@jkutner] | Salesforce |
+| [@sambhav][@sambhav] | Bloomberg |
+| Vacant | |
+| Vacant | |
 
 ### Emeritus
 
@@ -23,20 +23,15 @@
 
 > The Implementation team is responsible for maintaining the components that constitute the Cloud Native Buildpacks reference implementation of the specification.
 
-### Team Lead
+### Active Members
 
-[@jabrown85][@jabrown85]
-
-### Maintainers
-
-[@jabrown85][@jabrown85]
-
-### Project Contributors
-
-[@imjasonh][@imjasonh],
-[@jjbustamante][@jjbustamante],
-[@matthewmcnew][@matthewmcnew],
-[@natalieparellano][@natalieparellano]
+| Member | Organization | Role |
+| :--- | :--- | :--- |
+| [@jabrown85][@jabrown85] | Heroku (Salesforce) | Team Lead, Maintainer |
+| [@imjasonh][@imjasonh] | Cursor | Project Contributor |
+| [@jjbustamante][@jjbustamante] | DBAccess | Project Contributor |
+| [@matthewmcnew][@matthewmcnew] | Independent | Project Contributor |
+| [@natalieparellano][@natalieparellano] | Independent | Project Contributor |
 
 ### Emeritus
 
@@ -59,28 +54,19 @@
 
 > The Platform team is responsible for maintaining pack and any other platforms or platform components, as well as tools and services that support the distribution, discovery, and integration of buildpacks.
 
-### Team Lead
+### Active Members
 
-[@hone][@hone]
-
-### Maintainers
-
-[@hone][@hone],
-[@jjbustamante][@jjbustamante],
-[@jkutner][@jkutner]
-
-### Component Maintainers (github-actions)
-
-[@edmorley][@edmorley]
-
-### Project Contributors
-
-[@edmorley][@edmorley],
-[@jericop][@jericop],
-[@joshwlewis][@joshwlewis],
-[@matthewmcnew][@matthewmcnew],
-[@natalieparellano][@natalieparellano],
-[@sambhav][@sambhav]
+| Member | Organization | Role |
+| :--- | :--- | :--- |
+| [@hone][@hone] | Heroku (Salesforce) | Team Lead, Maintainer |
+| [@jjbustamante][@jjbustamante] | DBAccess | Maintainer |
+| [@jkutner][@jkutner] | Salesforce | Maintainer |
+| [@edmorley][@edmorley] | Heroku (Salesforce) | Component Maintainer (github-actions), Project Contributor |
+| [@jericop][@jericop] | Rapid7 | Project Contributor |
+| [@joshwlewis][@joshwlewis] | R1 | Project Contributor |
+| [@matthewmcnew][@matthewmcnew] | Independent | Project Contributor |
+| [@natalieparellano][@natalieparellano] | Independent | Project Contributor |
+| [@sambhav][@sambhav] | Bloomberg | Project Contributor |
 
 ### Emeritus
 
@@ -105,19 +91,13 @@
 
 > The Learning team is responsible for maintaining the project’s documentation, website, and resources.
 
-### Team Lead
+### Active Members
 
-[@AidanDelaney][@AidanDelaney]
-
-### Maintainers
-
-[@AidanDelaney][@AidanDelaney],
-[@jkutner][@jkutner],
-[@natalieparellano][@natalieparellano],
-
-### Project Contributors
-
-[@natalieparellano][@natalieparellano],
+| Member | Organization | Role |
+| :--- | :--- | :--- |
+| [@AidanDelaney][@AidanDelaney] | Bloomberg | Team Lead, Maintainer |
+| [@jkutner][@jkutner] | Salesforce | Maintainer |
+| [@natalieparellano][@natalieparellano] | Independent | Maintainer |
 
 ### Emeritus
 
@@ -138,20 +118,15 @@
 
 > The Buildpack Authors' Tooling team is responsible for helping buildpack authors create buildpacks. See [RFC 0089](https://github.com/buildpacks/rfcs/blob/main/text/0089-buildpack-authors-tooling-subteam.md) for more details.
 
-### Team Lead
+### Active Members
 
-[@sambhav][@sambhav]
-
-### Maintainers
-
-[@hone][@hone],
-[@sambhav][@sambhav],
-[@dmikusa][@dmikusa]
-
-### Project Contributors
-
-[@ForestEckhardt][@ForestEckhardt],
-[@gcemaj][@gcemaj]
+| Member | Organization | Role |
+| :--- | :--- | :--- |
+| [@sambhav][@sambhav] | Bloomberg | Team Lead, Maintainer |
+| [@hone][@hone] | Heroku (Salesforce) | Maintainer |
+| [@dmikusa][@dmikusa] | Chainguard | Maintainer |
+| [@ForestEckhardt][@ForestEckhardt] | Docker | Project Contributor |
+| [@gcemaj][@gcemaj] | Anthropic | Project Contributor |
 
 ### Emeritus
 
