@@ -146,7 +146,7 @@
 
 [@hone][@hone],
 [@sambhav][@sambhav],
-[@dmikusa-pivotal][@dmikusa-pivotal]
+[@dmikusa][@dmikusa]
 
 ### Project Contributors
 
@@ -168,7 +168,7 @@
 [@dfreilich]: https://github.com/dfreilich
 [@dgageot]: https://github.com/dgageot
 [@dlion]: https://github.com/dlion
-[@dmikusa-pivotal]: https://github.com/dmikusa-pivotal
+[@dmikusa]: https://github.com/dmikusa
 [@dwillist]: https://github.com/dwillist
 [@edmorley]: https://github.com/edmorley
 [@ekcasey]: https://github.com/ekcasey
