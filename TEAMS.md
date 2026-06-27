@@ -4,158 +4,143 @@
 
 > The Technical Oversight Committee (TOC) is responsible for the direction of the project (roadmap), team leadership, and cross-cutting concerns.
 
-| Member               | Organization        |
-|----------------------|---------------------|
-| [@hone][@hone]       | Heroku (Salesforce) |
-| [@jkutner][@jkutner] | Salesforce          |
-| [@sambhav][@sambhav] | Bloomberg           |
-| Vacant               |                     |
-| Vacant               |                     |
+| Member | Organization |
+| :--- | :--- |
+| [@hone][@hone] | Heroku (Salesforce) |
+| [@jkutner][@jkutner] | Salesforce |
+| [@sambhav][@sambhav] | Bloomberg |
+| Vacant | |
+| Vacant | |
 
 ### Emeritus
 
-[@ekcasey][@ekcasey],
-[@natalieparellano][@natalieparellano]
-[@nebhale][@nebhale],
-[@sclevine][@sclevine]
+| Member | Organization |
+| :--- | :--- |
+| [@ekcasey][@ekcasey] | VMware |
+| [@natalieparellano][@natalieparellano] | Independent |
+| [@nebhale][@nebhale] | VMware |
+| [@sclevine][@sclevine] | VMware |
 
 ## Implementation Team
 
 > The Implementation team is responsible for maintaining the components that constitute the Cloud Native Buildpacks reference implementation of the specification.
 
-### Team Lead
+### Active Members
 
-[@jabrown85][@jabrown85]
-
-### Maintainers
-
-[@jabrown85][@jabrown85]
-
-### Project Contributors
-
-[@imjasonh][@imjasonh],
-[@jjbustamante][@jjbustamante],
-[@matthewmcnew][@matthewmcnew],
-[@natalieparellano][@natalieparellano]
+| Member | Organization | Role |
+| :--- | :--- | :--- |
+| [@jabrown85][@jabrown85] | Heroku (Salesforce) | Team Lead, Maintainer |
+| [@imjasonh][@imjasonh] | Cursor | Project Contributor |
+| [@jjbustamante][@jjbustamante] | DBAccess | Project Contributor |
+| [@matthewmcnew][@matthewmcnew] | Independent | Project Contributor |
+| [@natalieparellano][@natalieparellano] | Independent | Project Contributor |
 
 ### Emeritus
 
-[@aemengo][@aemengo],
-[@ashwin-venkatesh][@ashwin-venkatesh],
-[@dgageot][@dgageot],
-[@ekcasey][@ekcasey] (maintainer),
-[@elbandito][@elbandito],
-[@joe-kimmel-vmw][@joe-kimmel-vmw],
-[@menehune23][@menehune23],
-[@micahyoung][@micahyoung],
-[@murphybytes][@murphybytes],
-[@nebhale][@nebhale] (maintainer),
-[@sclevine][@sclevine] (maintainer),
-[@simonjjones][@simonjjones],
-[@yaelharel][@yaelharel],
-[@zmackie][@zmackie]
+| Member | Organization | Role |
+| :--- | :--- | :--- |
+| [@ekcasey][@ekcasey] | VMware | Maintainer |
+| [@nebhale][@nebhale] | VMware | Maintainer |
+| [@sclevine][@sclevine] | VMware | Maintainer |
+| [@aemengo][@aemengo] | VMware | Project Contributor |
+| [@ashwin-venkatesh][@ashwin-venkatesh] | VMware | Project Contributor |
+| [@dgageot][@dgageot] | Google | Project Contributor |
+| [@elbandito][@elbandito] | Salesforce | Project Contributor |
+| [@joe-kimmel-vmw][@joe-kimmel-vmw] | VMware | Project Contributor |
+| [@menehune23][@menehune23] | Pivotal | Project Contributor |
+| [@micahyoung][@micahyoung] | VMware | Project Contributor |
+| [@murphybytes][@murphybytes] | VMware | Project Contributor |
+| [@simonjjones][@simonjjones] | VMware | Project Contributor |
+| [@yaelharel][@yaelharel] | VMware | Project Contributor |
+| [@zmackie][@zmackie] | VMware | Project Contributor |
 
 ## Platform Team
 
 > The Platform team is responsible for maintaining pack and any other platforms or platform components, as well as tools and services that support the distribution, discovery, and integration of buildpacks.
 
-### Team Lead
+### Active Members
 
-[@hone][@hone]
-
-### Maintainers
-
-[@hone][@hone],
-[@jjbustamante][@jjbustamante],
-[@jkutner][@jkutner]
-
-### Component Maintainers (github-actions)
-
-[@edmorley][@edmorley]
-
-### Project Contributors
-
-[@edmorley][@edmorley],
-[@jericop][@jericop],
-[@joshwlewis][@joshwlewis],
-[@matthewmcnew][@matthewmcnew],
-[@natalieparellano][@natalieparellano],
-[@sambhav][@sambhav]
+| Member | Organization | Role |
+| :--- | :--- | :--- |
+| [@hone][@hone] | Heroku (Salesforce) | Team Lead, Maintainer |
+| [@jjbustamante][@jjbustamante] | DBAccess | Maintainer |
+| [@jkutner][@jkutner] | Salesforce | Maintainer |
+| [@edmorley][@edmorley] | Heroku (Salesforce) | Component Maintainer (github-actions), Project Contributor |
+| [@jericop][@jericop] | Rapid7 | Project Contributor |
+| [@joshwlewis][@joshwlewis] | R1 | Project Contributor |
+| [@matthewmcnew][@matthewmcnew] | Independent | Project Contributor |
+| [@natalieparellano][@natalieparellano] | Independent | Project Contributor |
+| [@sambhav][@sambhav] | Bloomberg | Project Contributor |
 
 ### Emeritus
 
-[@ameyer-pivotal][@ameyer-pivotal],
-[@ashwin-venkatesh][@ashwin-venkatesh],
-[@dfreilich][@dfreilich],
-[@dlion][@dlion],
-[@elbandito][@elbandito],
-[@imnitishng][@imnitishng],
-[@importhuman][@importhuman],
-[@joe-kimmel-vmw][@joe-kimmel-vmw],
-[@jromero][@jromero] (maintainer),
-[@micahyoung][@micahyoung],
-[@murphybytes][@murphybytes],
-[@sclevine][@sclevine] (maintainer),
-[@simonjjones][@simonjjones],
-[@WYGIN][@WYGIN],
-[@yaelharel][@yaelharel],
-[@zmackie][@zmackie]
+| Member | Organization | Role |
+| :--- | :--- | :--- |
+| [@jromero][@jromero] | VMware | Maintainer |
+| [@sclevine][@sclevine] | VMware | Maintainer |
+| [@ameyer-pivotal][@ameyer-pivotal] | Pivotal | Project Contributor |
+| [@ashwin-venkatesh][@ashwin-venkatesh] | VMware | Project Contributor |
+| [@dfreilich][@dfreilich] | AppsFlyer | Project Contributor |
+| [@dlion][@dlion] | VMware | Project Contributor |
+| [@elbandito][@elbandito] | Salesforce | Project Contributor |
+| [@imnitishng][@imnitishng] | Independent | Project Contributor |
+| [@importhuman][@importhuman] | VMware | Project Contributor |
+| [@joe-kimmel-vmw][@joe-kimmel-vmw] | VMware | Project Contributor |
+| [@micahyoung][@micahyoung] | VMware | Project Contributor |
+| [@murphybytes][@murphybytes] | VMware | Project Contributor |
+| [@simonjjones][@simonjjones] | VMware | Project Contributor |
+| [@WYGIN][@WYGIN] | Independent | Project Contributor |
+| [@yaelharel][@yaelharel] | VMware | Project Contributor |
+| [@zmackie][@zmackie] | VMware | Project Contributor |
 
 ## Learning Team
 
 > The Learning team is responsible for maintaining the project’s documentation, website, and resources.
 
-### Team Lead
+### Active Members
 
-[@AidanDelaney][@AidanDelaney]
-
-### Maintainers
-
-[@AidanDelaney][@AidanDelaney],
-[@jkutner][@jkutner],
-[@natalieparellano][@natalieparellano],
-
-### Project Contributors
-
-[@natalieparellano][@natalieparellano],
+| Member | Organization | Role |
+| :--- | :--- | :--- |
+| [@AidanDelaney][@AidanDelaney] | Bloomberg | Team Lead, Maintainer |
+| [@jkutner][@jkutner] | Salesforce | Maintainer |
+| [@natalieparellano][@natalieparellano] | Independent | Maintainer |
 
 ### Emeritus
 
-[@ameyer-pivotal][@ameyer-pivotal],
-[@danielleadams][@danielleadams],
-[@dfreilich][@dfreilich],
-[@dwillist][@dwillist],
-[@elbandito][@elbandito],
-[@jromero][@jromero] (maintainer),
-[@murphybytes][@murphybytes],
-[@sambhav][@sambhav] (maintainer)
-[@simonjjones][@simonjjones],
-[@superhighfives][@superhighfives],
-[@yaelharel][@yaelharel],
-[@zmackie][@zmackie]
+| Member | Organization | Role |
+| :--- | :--- | :--- |
+| [@jromero][@jromero] | VMware | Maintainer |
+| [@sambhav][@sambhav] | Bloomberg | Maintainer |
+| [@ameyer-pivotal][@ameyer-pivotal] | Pivotal | Project Contributor |
+| [@danielleadams][@danielleadams] | Heroku (Salesforce) | Project Contributor |
+| [@dfreilich][@dfreilich] | AppsFlyer | Project Contributor |
+| [@dwillist][@dwillist] | VMware | Project Contributor |
+| [@elbandito][@elbandito] | Salesforce | Project Contributor |
+| [@murphybytes][@murphybytes] | VMware | Project Contributor |
+| [@simonjjones][@simonjjones] | VMware | Project Contributor |
+| [@superhighfives][@superhighfives] | Heroku (Salesforce) | Project Contributor |
+| [@yaelharel][@yaelharel] | VMware | Project Contributor |
+| [@zmackie][@zmackie] | VMware | Project Contributor |
 
 ## Buildpack Authors' Tooling Team
 
 > The Buildpack Authors' Tooling team is responsible for helping buildpack authors create buildpacks. See [RFC 0089](https://github.com/buildpacks/rfcs/blob/main/text/0089-buildpack-authors-tooling-subteam.md) for more details.
 
-### Team Lead
+### Active Members
 
-[@sambhav][@sambhav]
-
-### Maintainers
-
-[@hone][@hone],
-[@sambhav][@sambhav],
-[@dmikusa-pivotal][@dmikusa-pivotal]
-
-### Project Contributors
-
-[@ForestEckhardt][@ForestEckhardt],
-[@gcemaj][@gcemaj]
+| Member | Organization | Role |
+| :--- | :--- | :--- |
+| [@sambhav][@sambhav] | Bloomberg | Team Lead, Maintainer |
+| [@hone][@hone] | Heroku (Salesforce) | Maintainer |
+| [@dmikusa][@dmikusa] | Chainguard | Maintainer |
+| [@ForestEckhardt][@ForestEckhardt] | Docker | Project Contributor |
+| [@gcemaj][@gcemaj] | Anthropic | Project Contributor |
 
 ### Emeritus
 
-[@ekcasey][@ekcasey]
+| Member | Organization | Role |
+| :--- | :--- | :--- |
+| [@ekcasey][@ekcasey] | VMware | Project Contributor |
 
 [@AidanDelaney]: https://github.com/AidanDelaney
 [@AswinTimalsina]: https://github.com/AswinTimalsina
@@ -168,7 +153,7 @@
 [@dfreilich]: https://github.com/dfreilich
 [@dgageot]: https://github.com/dgageot
 [@dlion]: https://github.com/dlion
-[@dmikusa-pivotal]: https://github.com/dmikusa-pivotal
+[@dmikusa]: https://github.com/dmikusa
 [@dwillist]: https://github.com/dwillist
 [@edmorley]: https://github.com/edmorley
 [@ekcasey]: https://github.com/ekcasey
