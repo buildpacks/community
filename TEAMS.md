@@ -62,8 +62,8 @@
 
 | Member | Organization | Role |
 | :--- | :--- | :--- |
-| [@hone][@hone] | Heroku (Salesforce) | Team Lead, Maintainer |
-| [@jjbustamante][@jjbustamante] | DBAccess | Maintainer |
+| [@jjbustamante][@jjbustamante] | DBAccess | Team Lead, Maintainer |
+| [@hone][@hone] | Heroku (Salesforce) | Maintainer |
 | [@jkutner][@jkutner] | Salesforce | Maintainer |
 | [@edmorley][@edmorley] | Heroku (Salesforce) | Component Maintainer (github-actions), Project Contributor |
 | [@jericop][@jericop] | Rapid7 | Project Contributor |
