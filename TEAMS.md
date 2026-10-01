@@ -11,8 +11,8 @@
 | [@hone][@hone] | Heroku (Salesforce) | Maintainer |
 | [@jkutner][@jkutner] | Salesforce | Maintainer |
 | [@sambhav][@sambhav] | Bloomberg | Maintainer |
-| Vacant | | End-User |
-| Vacant | | End-User |
+| [@jericop][@jericop] | Rapid7 | End-User |
+| [@krumware][@krumware] | Epinio | End-User |
 
 ### Emeritus
 
@@ -172,6 +172,7 @@
 [@joe-kimmel-vmw]: https://github.com/joe-kimmel-vmw
 [@joshwlewis]: https://github.com/joshwlewis
 [@jromero]: https://github.com/jromero
+[@krumware]: https://github.com/krumware
 [@matthewmcnew]: https://github.com/matthewmcnew
 [@menehune23]: https://github.com/menehune23
 [@micahyoung]: https://github.com/micahyoung
