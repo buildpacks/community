@@ -1,25 +1,27 @@
 # Teams
 
-## Technical Oversight Committee
+## Steering Committee
 
-> The Technical Oversight Committee (TOC) is responsible for the direction of the project (roadmap), team leadership, and cross-cutting concerns.
+> The Steering Committee is responsible for strategic governance, CNCF relations, trademark and branding, community health, and non-technical oversight.
 
-| Member | Organization |
-| :--- | :--- |
-| [@hone][@hone] | Heroku (Salesforce) |
-| [@jkutner][@jkutner] | Salesforce |
-| [@sambhav][@sambhav] | Bloomberg |
-| Vacant | |
-| Vacant | |
+### Active Members
+
+| Member | Organization | Role |
+| :--- | :--- | :--- |
+| [@hone][@hone] | Heroku (Salesforce) | Maintainer |
+| [@jkutner][@jkutner] | Salesforce | Maintainer |
+| [@sambhav][@sambhav] | Bloomberg | Maintainer |
+| Vacant | | End-User |
+| Vacant | | End-User |
 
 ### Emeritus
 
-| Member | Organization |
-| :--- | :--- |
-| [@ekcasey][@ekcasey] | VMware |
-| [@natalieparellano][@natalieparellano] | Independent |
-| [@nebhale][@nebhale] | VMware |
-| [@sclevine][@sclevine] | VMware |
+| Member | Organization | Role |
+| :--- | :--- | :--- |
+| [@ekcasey][@ekcasey] | VMware | TOC Member |
+| [@natalieparellano][@natalieparellano] | Independent | TOC Member |
+| [@nebhale][@nebhale] | VMware | TOC Member |
+| [@sclevine][@sclevine] | VMware | TOC Member |
 
 ## Implementation Team
 
