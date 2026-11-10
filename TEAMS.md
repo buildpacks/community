@@ -106,6 +106,7 @@
 | [@AidanDelaney][@AidanDelaney] | Bloomberg | Team Lead, Maintainer |
 | [@jkutner][@jkutner] | Salesforce | Maintainer |
 | [@natalieparellano][@natalieparellano] | Independent | Maintainer |
+| [@Pranav-IIITM][@Pranav-IIITM] | Independent | Project Contributor |
 
 ### Emeritus
 
@@ -148,6 +149,7 @@
 [@AswinTimalsina]: https://github.com/AswinTimalsina
 [@Brahyt]: https://github.com/Brahyt
 [@ForestEckhardt]: https://github.com/foresteckhardt
+[@Pranav-IIITM]: https://github.com/Pranav-IIITM
 [@aemengo]: https://github.com/aemengo
 [@ameyer-pivotal]: https://github.com/ameyer-pivotal
 [@ashwin-venkatesh]: https://github.com/ashwin-venkatesh
